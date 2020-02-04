@@ -871,7 +871,6 @@
 मिश्र	मिश्र	NNP	0	n	m	sg	3	d
 20	20	QC		num				
 वीं	वीं	XC		unk				
-वीं	वीं	XC		unk				
 वाहिनी	वाहिनी	XC	0	n	f	sg	3	d
 पीएसी	पीएसी	NN		unk				
 आजमगढ़	आजमगढ़	NN		punc				
@@ -990,7 +989,7 @@
 से	से	PSP	0	v	any	any	any	
 शिकायत	शिकायत	NN	0	n	f	sg	3	d
 की	का	PSP	का	psp	f	sg		d
-राकेश	राकेश	NN	0	n	m	sg	3	d
+राकेश	राकेश	XC	0	n	m	sg	3	d
 का	का	PSP	का	psp	m	sg		d
 कहना	कह	VM	ना	v	m	sg	any	
 है	है	VAUX	है	v	any	sg	2	
@@ -1290,7 +1289,7 @@
 करवाकर	करवा	VM	कर	v	any	any	any	
 देगा	दे	VAUX	गा	v	m	sg	2	
 यहां	यहाँ	PRP		adv				
-जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+जनस्वास्थ्य	जनस्वास्थ्य	NN		unk				
 विभाग	विभाग	NN	0	n	m	sg	3	d
 द्वारा	द्वारा	PSP		psp				
 पाइप	पाइप	NN	0	n	m	sg	3	d
@@ -1320,7 +1319,7 @@
 खर्च	खर्च	NN	0	n	m	sg	3	d
 की	कर	VM	या	v	f	sg	any	
 गई	गई	VAUX		unk				
-लाखों	लाख	NN	0	n	m	pl	3	o
+लाखों	लाख	QC	0	n	m	pl	3	o
 की	का	PSP	का	psp	f	sg		d
 राशि	राशि	NN	0	n	f	sg	3	d
 बेकार	बेकार	JJ		adj	any	any		any

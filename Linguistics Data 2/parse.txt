@@ -900,482 +900,482 @@
 11	स्वर्गीय	NN	<n,m,sg,3>	13	nmod
 12	मोहन	NNPC	<n,m,sg,3>	13	compound
 13	मिश्र	NNP	<n,m,sg,3>	20	nsubj
-14	20वीं	NNPC	<num,,,>	16	compound
-15	वीं	NNPC	<unk,,,>	16	compound
-16	वाहिनी	NNP	<unk,,,>	17	nmod
-17	पीएसी	NNP	<n,f,sg,3>	18	nmod
-18	आजमगढ़	NNP	<unk,,,>	20	nmod
-19	में	PSP	<punc,,,>	18	case
-20	तैनात	JJ	<psp,,,>	0	root
-21	हैं	VM	<adj,any,any,>	20	cop
+14	20	QC	<num,,,>	16	nummod
+15	वीं	NNC	<unk,,,>	16	compound
+16	वाहिनी	NN	<n,f,sg,3>	17	nmod
+17	पीएसी	NNP	<unk,,,>	18	nmod
+18	आजमगढ़	NNP	<punc,,,>	20	nmod
+19	में	PSP	<psp,,,>	18	case
+20	तैनात	JJ	<adj,any,any,>	0	root
+21	हैं	VM	<v,any,pl,1>	20	cop
 
- 1	इन	DEM	<v,any,pl,1>	2	det
- 2	दिनों	NN	<pn,any,pl,3>	9	obl
- 3	उनकी	PRP	<n,m,pl,3>	4	nmod
- 4	ड्यूटी	NN	<unk,,,>	9	nsubj
- 5	जिला	NNC	<n,f,sg,3>	6	compound
- 6	जज	NN	<v,any,any,any>	8	nmod
- 7	के	PSP	<n,m,sg,3>	6	case
- 8	यहां	PRP	<psp,m,sg,>	9	obl
- 9	लगी	VM	<adv,,,>	0	root
-10	है	VAUX	<v,f,sg,any>	9	aux
-11	वह	PRP	<v,any,sg,2>	23	nsubj
-12	चार	NNPC	<pn,any,sg,3>	13	compound
-13	अक्टूबर	NNP	<n,m,sg,3>	16	obl
-14	को	PSP	<unk,,,>	13	case
-15	पैसा	NN	<psp,,,>	16	obj
-16	निकालने	VM	<n,m,sg,3>	23	advcl
-17	यूनियन	NNPC	<v,m,pl,any>	18	compound
+ 1	इन	DEM	<pn,any,pl,3>	2	det
+ 2	दिनों	NN	<n,m,pl,3>	9	obl
+ 3	उनकी	PRP	<unk,,,>	4	nmod
+ 4	ड्यूटी	NN	<n,f,sg,3>	9	nsubj
+ 5	जिला	NNC	<v,any,any,any>	6	compound
+ 6	जज	NN	<n,m,sg,3>	8	nmod
+ 7	के	PSP	<psp,m,sg,>	6	case
+ 8	यहां	PRP	<adv,,,>	9	obl
+ 9	लगी	VM	<v,f,sg,any>	0	root
+10	है	VAUX	<v,any,sg,2>	9	aux
+11	वह	PRP	<pn,any,sg,3>	23	nsubj
+12	चार	NNPC	<n,m,sg,3>	13	compound
+13	अक्टूबर	NNP	<unk,,,>	16	obl
+14	को	PSP	<psp,,,>	13	case
+15	पैसा	NN	<n,m,sg,3>	16	obj
+16	निकालने	VM	<v,m,pl,any>	23	advcl
+17	यूनियन	NNPC	<n,m,sg,3>	18	compound
 18	बैंक	NNP	<n,m,sg,3>	21	nmod
-19	के	PSP	<n,m,sg,3>	18	case
-20	एटीएम	NNC	<psp,m,sg,>	21	compound
+19	के	PSP	<psp,m,sg,>	18	case
+20	एटीएम	NNC	<unk,,,>	21	compound
 21	बूथ	NN	<unk,,,>	23	obl
-22	पर	PSP	<unk,,,>	21	case
-23	पहुंचे	VM	<psp,,,>	24	acl:relcl
-24	वहां	PRP	<unk,,,>	27	nmod
-25	दो	QC	<adv,,,>	26	nummod
-26	लड़के	NN	<n,m,sg,3>	27	nsubj
-27	खड़े	JJ	<n,m,pl,3>	9	conj
-28	थे	VM	<adj,m,sg,>	27	cop
-29	जैसे	PRP	<v,m,pl,any>	41	obl
+22	पर	PSP	<psp,,,>	21	case
+23	पहुंचे	VM	<unk,,,>	24	acl:relcl
+24	वहां	PRP	<adv,,,>	27	nmod
+25	दो	QC	<n,m,sg,3>	26	nummod
+26	लड़के	NN	<n,m,pl,3>	27	nsubj
+27	खड़े	JJ	<adj,m,sg,>	9	conj
+28	थे	VM	<v,m,pl,any>	27	cop
+29	जैसे	PRP	<adv,,,>	41	obl
 30	ही	RP	<adv,,,>	29	dep
-31	उन्होंने	PRP	<adv,,,>	41	nsubj
+31	उन्होंने	PRP	<unk,,,>	41	nsubj
 32	एटीएम	NNC	<unk,,,>	33	compound
-33	कार्ड	NN	<unk,,,>	34	obj
-34	लगाया	VM	<n,m,sg,3>	37	acl
-35	पीछे	NST	<v,m,sg,any>	34	obl
-36	खड़े	JJ	<n,m,pl,3>	37	amod
-37	युवक	NN	<adj,m,sg,>	41	nsubj
-38	ने	PSP	<n,m,sg,3>	37	case
-39	कोई	PRP	<psp,,,>	40	case
-40	बटन	NN	<pn,any,sg,3>	41	obj
-41	दबा	VM	<n,m,sg,3>	27	advcl
-42	दिया	VAUX	<v,any,any,any>	41	aux
-43	इससे	PRP	<v,m,sg,any>	46	obl
-44	पैसा	NN	<pn,any,sg,3>	46	nsubj
-45	नहीं	NEG	<n,m,sg,3>	46	advmod
-46	निकला	VM	<adv,,,>	27	advcl
+33	कार्ड	NN	<n,m,sg,3>	34	obj
+34	लगाया	VM	<v,m,sg,any>	37	acl
+35	पीछे	NST	<n,m,pl,3>	34	obl
+36	खड़े	JJ	<adj,m,sg,>	37	amod
+37	युवक	NN	<n,m,sg,3>	41	nsubj
+38	ने	PSP	<psp,,,>	37	case
+39	कोई	PRP	<pn,any,sg,3>	40	case
+40	बटन	NN	<n,m,sg,3>	41	obj
+41	दबा	VM	<v,any,any,any>	27	advcl
+42	दिया	VAUX	<v,m,sg,any>	41	aux
+43	इससे	PRP	<pn,any,sg,3>	46	obl
+44	पैसा	NN	<n,m,sg,3>	46	nsubj
+45	नहीं	NEG	<adv,,,>	46	advmod
+46	निकला	VM	<v,m,sg,any>	27	advcl
 
- 1	इसके	PRP	<v,m,sg,any>	8	obl
- 2	बाद	NST	<pn,m,pl,3>	1	case
- 3	दोनों	QC	<adv,,,>	4	nummod
+ 1	इसके	PRP	<pn,m,pl,3>	8	obl
+ 2	बाद	NST	<adv,,,>	1	case
+ 3	दोनों	QC	<n,m,pl,3>	4	nummod
  4	युवकों	NN	<n,m,pl,3>	8	nsubj
- 5	ने	PSP	<n,m,pl,3>	4	case
- 6	उन्हें	PRP	<psp,,,>	8	obj
- 7	पीछे	NST	<unk,,,>	8	obl
- 8	कर	VM	<n,m,pl,3>	19	acl:relcl
- 9	दिया	VAUX	<v,any,any,any>	8	aux
-10	और	CC	<v,m,sg,any>	17	cc
-11	उनके	PRP	<adv,,,>	12	nmod
+ 5	ने	PSP	<psp,,,>	4	case
+ 6	उन्हें	PRP	<unk,,,>	8	obj
+ 7	पीछे	NST	<n,m,pl,3>	8	obl
+ 8	कर	VM	<v,any,any,any>	19	acl:relcl
+ 9	दिया	VAUX	<v,m,sg,any>	8	aux
+10	और	CC	<adv,,,>	17	cc
+11	उनके	PRP	<unk,,,>	12	nmod
 12	एटीएम	NN	<unk,,,>	17	obl
-13	से	PSP	<unk,,,>	12	case
-14	20	QCC	<v,any,any,any>	15	case
-15	हजार	QC	<num,,,>	16	nummod
-16	रुपये	NN	<n,m,sg,3>	17	obj
-17	निकाल	VM	<n,m,pl,3>	8	conj
-18	लिए	VAUX	<v,any,any,any>	17	aux
-19	इसके	PRP	<v,m,pl,any>	23	obl
-20	बाद	NST	<pn,m,pl,3>	19	case
-21	दोनों	QC	<adv,,,>	22	nummod
-22	युवक	NN	<n,m,pl,3>	23	nsubj
-23	चले	VM	<n,m,sg,3>	26	acl:relcl
-24	गए	VAUX	<v,any,sg,2>	23	aux:pass
-25	इस	DEM	<unk,,,>	26	det
-26	बीच	NST	<pn,any,sg,3>	30	obl
-27	एटीएम	NN	<psp,,,>	30	obl
-28	से	PSP	<unk,,,>	27	case
-29	पर्ची	NN	<v,any,any,any>	30	nsubj
-30	निकली	VM	<unk,,,>	31	acl:relcl
-31	तो	PRP	<v,f,sg,any>	45	obl
-32	उन्हें	PRP	<avy,,,>	38	nsubj
-33	खाते	NN	<unk,,,>	38	obl
-34	से	PSP	<n,m,pl,3>	33	case
-35	20	QCC	<v,any,any,any>	36	case
-36	हजार	QC	<num,,,>	37	nummod
-37	रुपये	NN	<n,m,sg,3>	38	obj
-38	निकलने	VM	<n,m,pl,3>	40	nmod
-39	की	PSP	<v,m,pl,any>	38	mark
-40	जानकारी	NN	<psp,f,sg,>	41	compound
-41	हुई	VM	<n,f,sg,3>	42	acl
-42	राकेश	NNP	<v,f,sg,any>	44	nsubj
-43	का	PSP	<n,m,sg,3>	42	case
-44	कहना	VM	<psp,m,sg,>	45	nsubj
-45	है	VM	<v,m,sg,any>	0	root
-46	कि	CC	<v,any,sg,2>	51	mark
-47	उन्होंने	PRP	<avy,,,>	51	nsubj
-48	कोतवाली	NN	<unk,,,>	51	obl
-49	में	PSP	<n,f,sg,3>	48	case
-50	तहरीर	NN	<psp,,,>	51	obj
-51	दिया	VM	<unk,,,>	44	obj
-52	लेकिन	CC	<v,m,sg,any>	58	cc
-53	पुलिस	NN	<avy,,,>	58	nsubj
-54	ने	PSP	<n,f,sg,3>	53	case
-55	कोई	PRP	<psp,,,>	56	case
-56	कार्रवाई	NN	<pn,any,sg,3>	58	compound
-57	नहीं	NEG	<unk,,,>	58	advmod
-58	की	VM	<adv,,,>	51	conj
-59	सोमवार	NNP	<psp,f,sg,>	70	obl
-60	को	PSP	<n,m,sg,3>	59	case
-61	राकेश	NNP	<psp,,,>	70	nsubj
-62	ने	PSP	<n,m,sg,3>	61	case
-63	एसपी	NNP	<psp,,,>	70	obl
-64	से	PSP	<unk,,,>	63	case
-65	शिकायत	NN	<v,any,any,any>	67	nmod
-66	की	PSP	<n,f,sg,3>	65	case
-67	राकेश	NNP	<psp,f,sg,>	69	nsubj
-68	का	PSP	<n,m,sg,3>	67	case
-69	कहना	VM	<psp,m,sg,>	70	nsubj
-70	है	VM	<v,m,sg,any>	51	conj
-71	कि	CC	<v,any,sg,2>	90	mark
-72	एटीएम	NN	<avy,,,>	75	obl
-73	से	PSP	<unk,,,>	72	case
-74	पैसा	NN	<v,any,any,any>	75	obj
-75	निकालने	VM	<n,m,sg,3>	77	nmod
-76	के	PSP	<v,m,pl,any>	75	mark
-77	मामले	NN	<psp,m,sg,>	87	obl
-78	में	PSP	<n,m,pl,3>	77	case
-79	दो	QC	<psp,,,>	80	nummod
+13	से	PSP	<v,any,any,any>	12	case
+14	20	QCC	<num,,,>	15	case
+15	हजार	QC	<n,m,sg,3>	16	nummod
+16	रुपये	NN	<n,m,pl,3>	17	obj
+17	निकाल	VM	<v,any,any,any>	8	conj
+18	लिए	VAUX	<v,m,pl,any>	17	aux
+19	इसके	PRP	<pn,m,pl,3>	23	obl
+20	बाद	NST	<adv,,,>	19	case
+21	दोनों	QC	<n,m,pl,3>	22	nummod
+22	युवक	NN	<n,m,sg,3>	23	nsubj
+23	चले	VM	<v,any,sg,2>	26	acl:relcl
+24	गए	VAUX	<unk,,,>	23	aux:pass
+25	इस	DEM	<pn,any,sg,3>	26	det
+26	बीच	NST	<psp,,,>	30	obl
+27	एटीएम	NN	<unk,,,>	30	obl
+28	से	PSP	<v,any,any,any>	27	case
+29	पर्ची	NN	<unk,,,>	30	nsubj
+30	निकली	VM	<v,f,sg,any>	31	acl:relcl
+31	तो	PRP	<avy,,,>	45	obl
+32	उन्हें	PRP	<unk,,,>	38	nsubj
+33	खाते	NN	<n,m,pl,3>	38	obl
+34	से	PSP	<v,any,any,any>	33	case
+35	20	QCC	<num,,,>	36	case
+36	हजार	QC	<n,m,sg,3>	37	nummod
+37	रुपये	NN	<n,m,pl,3>	38	obj
+38	निकलने	VM	<v,m,pl,any>	40	nmod
+39	की	PSP	<psp,f,sg,>	38	mark
+40	जानकारी	NN	<n,f,sg,3>	41	compound
+41	हुई	VM	<v,f,sg,any>	42	acl
+42	राकेश	NNP	<n,m,sg,3>	44	nsubj
+43	का	PSP	<psp,m,sg,>	42	case
+44	कहना	VM	<v,m,sg,any>	45	nsubj
+45	है	VM	<v,any,sg,2>	0	root
+46	कि	CC	<avy,,,>	51	mark
+47	उन्होंने	PRP	<unk,,,>	51	nsubj
+48	कोतवाली	NN	<n,f,sg,3>	51	obl
+49	में	PSP	<psp,,,>	48	case
+50	तहरीर	NN	<unk,,,>	51	obj
+51	दिया	VM	<v,m,sg,any>	44	obj
+52	लेकिन	CC	<avy,,,>	58	cc
+53	पुलिस	NN	<n,f,sg,3>	58	nsubj
+54	ने	PSP	<psp,,,>	53	case
+55	कोई	PRP	<pn,any,sg,3>	56	case
+56	कार्रवाई	NN	<unk,,,>	58	compound
+57	नहीं	NEG	<adv,,,>	58	advmod
+58	की	VM	<psp,f,sg,>	51	conj
+59	सोमवार	NNP	<n,m,sg,3>	70	obl
+60	को	PSP	<psp,,,>	59	case
+61	राकेश	NNP	<n,m,sg,3>	70	nsubj
+62	ने	PSP	<psp,,,>	61	case
+63	एसपी	NNP	<unk,,,>	70	obl
+64	से	PSP	<v,any,any,any>	63	case
+65	शिकायत	NN	<n,f,sg,3>	67	nmod
+66	की	PSP	<psp,f,sg,>	65	case
+67	राकेश	NNP	<n,m,sg,3>	69	nsubj
+68	का	PSP	<psp,m,sg,>	67	case
+69	कहना	VM	<v,m,sg,any>	70	nsubj
+70	है	VM	<v,any,sg,2>	51	conj
+71	कि	CC	<avy,,,>	90	mark
+72	एटीएम	NN	<unk,,,>	75	obl
+73	से	PSP	<v,any,any,any>	72	case
+74	पैसा	NN	<n,m,sg,3>	75	obj
+75	निकालने	VM	<v,m,pl,any>	77	nmod
+76	के	PSP	<psp,m,sg,>	75	mark
+77	मामले	NN	<n,m,pl,3>	87	obl
+78	में	PSP	<psp,,,>	77	case
+79	दो	QC	<n,m,sg,3>	80	nummod
 80	दिन	NN	<n,m,sg,3>	87	obl
-81	पहले	NST	<n,m,sg,3>	80	case
-82	कौशांबी	NNP	<adv,,,>	87	obl
-83	में	PSP	<n,f,sg,3>	82	case
-84	जो	DEM	<psp,,,>	86	det
-85	दोनों	QC	<avy,,,>	86	nummod
-86	युवक	NN	<n,m,pl,3>	87	obj
-87	पकड़े	VM	<n,m,sg,3>	90	acl:relcl
-88	गए	VAUX	<v,any,sg,2>	87	aux:pass
-89	हैं	VAUX	<unk,,,>	88	aux:pass
-90	आशंका	NN	<v,any,pl,1>	69	obj
-91	है	VM	<n,f,sg,3>	90	cop
-92	कि	CC	<v,any,sg,2>	102	mark
-93	उन	DEM	<avy,,,>	95	det
-94	दोनों	QC	<unk,,,>	95	nummod
+81	पहले	NST	<adv,,,>	80	case
+82	कौशांबी	NNP	<n,f,sg,3>	87	obl
+83	में	PSP	<psp,,,>	82	case
+84	जो	DEM	<avy,,,>	86	det
+85	दोनों	QC	<n,m,pl,3>	86	nummod
+86	युवक	NN	<n,m,sg,3>	87	obj
+87	पकड़े	VM	<v,any,sg,2>	90	acl:relcl
+88	गए	VAUX	<unk,,,>	87	aux:pass
+89	हैं	VAUX	<v,any,pl,1>	88	aux:pass
+90	आशंका	NN	<n,f,sg,3>	69	obj
+91	है	VM	<v,any,sg,2>	90	cop
+92	कि	CC	<avy,,,>	102	mark
+93	उन	DEM	<unk,,,>	95	det
+94	दोनों	QC	<n,m,pl,3>	95	nummod
 95	युवकों	NN	<n,m,pl,3>	102	nsubj
-96	ने	PSP	<n,m,pl,3>	95	case
-97	ही	RP	<psp,,,>	95	dep
-98	उनके	PRP	<adv,,,>	99	nmod
-99	खाते	NN	<unk,,,>	102	obl
-100	से	PSP	<n,m,pl,3>	99	case
-101	पैसा	NN	<v,any,any,any>	102	obj
-102	निकाला	VM	<n,m,sg,3>	90	acl
-103	है	VAUX	<v,m,sg,any>	102	aux
+96	ने	PSP	<psp,,,>	95	case
+97	ही	RP	<adv,,,>	95	dep
+98	उनके	PRP	<unk,,,>	99	nmod
+99	खाते	NN	<n,m,pl,3>	102	obl
+100	से	PSP	<v,any,any,any>	99	case
+101	पैसा	NN	<n,m,sg,3>	102	obj
+102	निकाला	VM	<v,m,sg,any>	90	acl
+103	है	VAUX	<v,any,sg,2>	102	aux
 
- 1	इस	DEM	<v,any,sg,2>	2	det
- 2	मामले	NN	<pn,any,sg,3>	12	obl
- 3	में	PSP	<n,m,pl,3>	2	case
- 4	पुलिस	NN	<psp,,,>	12	nsubj
- 5	ने	PSP	<n,f,sg,3>	4	case
- 6	दो	QC	<psp,,,>	7	nummod
- 7	अज्ञात	NN	<n,m,sg,3>	12	obl
- 8	के	PSP	<adj,any,any,>	7	case
- 9	खिलाफ	PSP	<psp,m,sg,>	7	case
-10	मुकदमा	NN	<psp,,,>	12	obj
+ 1	इस	DEM	<pn,any,sg,3>	2	det
+ 2	मामले	NN	<n,m,pl,3>	12	obl
+ 3	में	PSP	<psp,,,>	2	case
+ 4	पुलिस	NN	<n,f,sg,3>	12	nsubj
+ 5	ने	PSP	<psp,,,>	4	case
+ 6	दो	QC	<n,m,sg,3>	7	nummod
+ 7	अज्ञात	NN	<adj,any,any,>	12	obl
+ 8	के	PSP	<psp,m,sg,>	7	case
+ 9	खिलाफ	PSP	<psp,,,>	7	case
+10	मुकदमा	NN	<n,m,sg,3>	12	obj
 11	दर्ज	JJ	<n,m,sg,3>	12	compound
-12	किया	VM	<n,m,sg,3>	0	root
-13	है	VAUX	<v,m,sg,any>	12	aux
+12	किया	VM	<v,m,sg,any>	0	root
+13	है	VAUX	<v,any,sg,2>	12	aux
 
- 1	पत्नी	NN	<v,any,sg,2>	7	nsubj
- 2	ने	PSP	<n,f,sg,3>	1	case
- 3	पैसे	NN	<psp,,,>	4	obj
- 4	देने	VM	<n,m,pl,3>	7	obj
- 5	से	PSP	<v,m,pl,any>	4	mark
+ 1	पत्नी	NN	<n,f,sg,3>	7	nsubj
+ 2	ने	PSP	<psp,,,>	1	case
+ 3	पैसे	NN	<n,m,pl,3>	4	obj
+ 4	देने	VM	<v,m,pl,any>	7	obj
+ 5	से	PSP	<v,any,any,any>	4	mark
  6	मना	NN	<v,any,any,any>	7	compound
- 7	किया	VM	<v,any,any,any>	8	acl:relcl
- 8	तो	PRP	<v,m,sg,any>	13	obl
- 9	पति	NN	<avy,,,>	13	nsubj
-10	ने	PSP	<n,m,sg,3>	9	case
-11	उसे	PRP	<psp,,,>	13	iobj
-12	तलाक	NN	<unk,,,>	13	compound
-13	दे	VM	<n,m,sg,3>	0	root
-14	दिया	VAUX	<v,any,any,any>	13	aux
+ 7	किया	VM	<v,m,sg,any>	8	acl:relcl
+ 8	तो	PRP	<avy,,,>	13	obl
+ 9	पति	NN	<n,m,sg,3>	13	nsubj
+10	ने	PSP	<psp,,,>	9	case
+11	उसे	PRP	<unk,,,>	13	iobj
+12	तलाक	NN	<n,m,sg,3>	13	compound
+13	दे	VM	<v,any,any,any>	0	root
+14	दिया	VAUX	<v,m,sg,any>	13	aux
 
- 1	पीड़िता	NN	<v,m,sg,any>	8	nsubj
- 2	ने	PSP	<unk,,,>	1	case
- 3	सदर	NNC	<psp,,,>	5	nmod
- 4	बाजार	NNC	<unk,,,>	5	nmod
- 5	थाने	NN	<n,m,sg,3>	8	obl
- 6	में	PSP	<n,m,pl,3>	5	case
- 7	शिकायत	NN	<psp,,,>	8	obj
- 8	दी	VM	<n,f,sg,3>	0	root
- 9	जिसके	PRP	<v,f,sg,any>	18	obl
-10	बाद	NST	<pn,m,pl,3>	9	case
-11	पुलिस	NN	<adv,,,>	18	nsubj
-12	ने	PSP	<n,f,sg,3>	11	case
-13	आरोपित	JJ	<psp,,,>	14	amod
-14	पति	NN	<adj,any,any,>	18	obj
-15	को	PSP	<n,m,sg,3>	14	case
-16	हिरासत	NN	<psp,,,>	18	obl
-17	में	PSP	<n,m,sg,3>	16	case
-18	ले	VM	<psp,,,>	22	nmod
-19	लिया	VAUX	<v,any,any,any>	18	aux
-20	पूर्वा	NNC	<v,m,sg,any>	22	compound
+ 1	पीड़िता	NN	<unk,,,>	8	nsubj
+ 2	ने	PSP	<psp,,,>	1	case
+ 3	सदर	NNC	<unk,,,>	5	nmod
+ 4	बाजार	NNC	<n,m,sg,3>	5	nmod
+ 5	थाने	NN	<n,m,pl,3>	8	obl
+ 6	में	PSP	<psp,,,>	5	case
+ 7	शिकायत	NN	<n,f,sg,3>	8	obj
+ 8	दी	VM	<v,f,sg,any>	0	root
+ 9	जिसके	PRP	<pn,m,pl,3>	18	obl
+10	बाद	NST	<adv,,,>	9	case
+11	पुलिस	NN	<n,f,sg,3>	18	nsubj
+12	ने	PSP	<psp,,,>	11	case
+13	आरोपित	JJ	<adj,any,any,>	14	amod
+14	पति	NN	<n,m,sg,3>	18	obj
+15	को	PSP	<psp,,,>	14	case
+16	हिरासत	NN	<n,m,sg,3>	18	obl
+17	में	PSP	<psp,,,>	16	case
+18	ले	VM	<v,any,any,any>	22	nmod
+19	लिया	VAUX	<v,m,sg,any>	18	aux
+20	पूर्वा	NNC	<unk,,,>	22	compound
 21	फैय्याज	NNPC	<unk,,,>	22	compound
-22	अली	NNP	<unk,,,>	23	advmod
+22	अली	NNP	<n,f,sg,3>	23	advmod
 23	निवासी	JJ	<n,f,sg,3>	25	amod
-24	सदर	NNC	<n,f,sg,3>	25	compound
-25	बाजार	NN	<unk,,,>	27	nmod
+24	सदर	NNC	<unk,,,>	25	compound
+25	बाजार	NN	<n,m,sg,3>	27	nmod
 26	थाना	NNC	<n,m,sg,3>	27	compound
 27	क्षेत्र	NN	<n,m,sg,3>	31	nmod
-28	के	PSP	<n,m,sg,3>	27	case
-29	नगला	NNP	<psp,m,sg,>	31	nmod
+28	के	PSP	<psp,m,sg,>	27	case
+29	नगला	NNP	<unk,,,>	31	nmod
 30	एरिया	NNC	<unk,,,>	31	compound
-31	निवासी	NN	<unk,,,>	32	nmod
-32	अफरोज	NNP	<n,f,sg,3>	34	nmod
-33	की	PSP	<unk,,,>	32	case
-34	शादी	NN	<psp,f,sg,>	46	conj
-35	करीब	RP	<n,f,sg,3>	36	dep
-36	आठ	QC	<adj,any,any,>	37	nummod
+31	निवासी	NN	<n,f,sg,3>	32	nmod
+32	अफरोज	NNP	<unk,,,>	34	nmod
+33	की	PSP	<psp,f,sg,>	32	case
+34	शादी	NN	<n,f,sg,3>	46	conj
+35	करीब	RP	<adj,any,any,>	36	dep
+36	आठ	QC	<n,m,sg,3>	37	nummod
 37	साल	NN	<n,m,sg,3>	46	obl
-38	पहले	NST	<n,m,sg,3>	37	case
-39	पूर्वा	NNP	<adv,,,>	41	nmod
+38	पहले	NST	<adv,,,>	37	case
+39	पूर्वा	NNP	<unk,,,>	41	nmod
 40	फैय्याज	NNPC	<unk,,,>	41	compound
-41	अली	NNP	<unk,,,>	42	advmod
+41	अली	NNP	<n,f,sg,3>	42	advmod
 42	निवासी	JJ	<n,f,sg,3>	43	amod
-43	जामू	NNP	<n,f,sg,3>	46	obl
-44	के	PSP	<unk,,,>	43	case
-45	साथ	NST	<psp,m,sg,>	43	case
-46	हुई	VM	<adv,,,>	54	acl:relcl
+43	जामू	NNP	<unk,,,>	46	obl
+44	के	PSP	<psp,m,sg,>	43	case
+45	साथ	NST	<adv,,,>	43	case
+46	हुई	VM	<v,f,sg,any>	54	acl:relcl
 47	थी	VAUX	<v,f,sg,any>	46	aux
-48	वह	PRP	<v,f,sg,any>	52	nsubj
-49	तीन	QC	<pn,any,sg,3>	50	nummod
-50	बच्चों	NN	<n,m,sg,3>	52	nmod
-51	की	PSP	<n,m,pl,3>	50	case
-52	मां	NN	<psp,f,sg,>	8	nmod
-53	है	VM	<n,f,sg,>	52	cop
-54	अफरोज	NNP	<v,any,sg,2>	65	nsubj
-55	करीब	RP	<unk,,,>	56	dep
+48	वह	PRP	<pn,any,sg,3>	52	nsubj
+49	तीन	QC	<n,m,sg,3>	50	nummod
+50	बच्चों	NN	<n,m,pl,3>	52	nmod
+51	की	PSP	<psp,f,sg,>	50	case
+52	मां	NN	<n,f,sg,>	8	nmod
+53	है	VM	<v,any,sg,2>	52	cop
+54	अफरोज	NNP	<unk,,,>	65	nsubj
+55	करीब	RP	<adj,any,any,>	56	dep
 56	एक	QC	<adj,any,any,>	57	nummod
-57	साल	NN	<adj,any,any,>	65	nmod
-58	से	PSP	<n,m,sg,3>	57	case
-59	रीढ़	NN	<v,any,any,any>	61	nmod
-60	की	PSP	<n,m,sg,3>	59	case
-61	हड्डी	NN	<psp,f,sg,>	63	nmod
-62	की	PSP	<n,f,sg,3>	61	case
-63	बीमारी	NN	<psp,f,sg,>	65	nmod
-64	से	PSP	<n,f,sg,3>	63	case
-65	परेशान	JJ	<v,any,any,any>	52	conj
-66	है	VM	<adj,any,any,>	65	cop
-67	और	CC	<v,any,sg,2>	73	cc
-68	कुछ	QF	<adv,,,>	69	det
-69	दिनों	NN	<adj,any,any,>	73	obl
-70	से	PSP	<n,m,pl,3>	69	case
-71	मायके	NN	<v,any,any,any>	73	obl
-72	में	PSP	<n,m,pl,3>	71	case
-73	रह	VM	<psp,,,>	65	conj
-74	रही	VAUX	<v,any,any,any>	73	aux
-75	है	VAUX	<v,f,sg,any>	74	aux:pass
-76	उसने	PRP	<v,any,sg,2>	84	nsubj
-77	अपने	PRP	<unk,,,>	78	nmod
-78	इलाज	NN	<n,m,pl,3>	84	obl
-79	के	PSP	<n,m,sg,3>	78	case
-80	लिए	PSP	<psp,m,sg,>	78	case
-81	पांच-छह	QCC	<v,m,pl,any>	82	case
-82	हजार	QC	<unk,,,>	83	nummod
-83	रुपये	NN	<n,m,sg,3>	84	obj
-84	जोड़	VM	<n,m,pl,3>	73	conj
-85	रखे	VAUX	<v,any,any,any>	84	aux
-86	थे	VAUX	<v,any,sg,2>	85	aux:pass
-87	आरोप	NN	<v,m,pl,any>	73	conj
-88	है	VM	<n,m,sg,3>	87	cop
-89	कि	CC	<v,any,sg,2>	96	mark
-90	जामू	NNP	<avy,,,>	96	nsubj
-91	शनिवार	NNP	<unk,,,>	92	nmod
-92	रात	NN	<n,m,sg,3>	96	obl
-93	अफरोज	NNP	<n,f,sg,3>	96	obl
-94	के	PSP	<unk,,,>	93	case
-95	पास	NST	<psp,m,sg,>	93	case
-96	पहुंचा	VM	<adv,,,>	87	acl
-97	और	CC	<unk,,,>	112	cc
-98	पैसे	NN	<adv,,,>	99	obj
-99	मांगने	VM	<n,m,pl,3>	101	amod
-100	लगा	VAUX	<unk,,,>	99	aux
-101	इलाज	NN	<v,any,any,any>	103	nmod
-102	का	PSP	<n,m,sg,3>	101	case
-103	हवाला	NN	<psp,m,sg,>	104	compound
-104	देते	VM	<n,m,sg,3>	112	advcl
+57	साल	NN	<n,m,sg,3>	65	nmod
+58	से	PSP	<v,any,any,any>	57	case
+59	रीढ़	NN	<n,m,sg,3>	61	nmod
+60	की	PSP	<psp,f,sg,>	59	case
+61	हड्डी	NN	<n,f,sg,3>	63	nmod
+62	की	PSP	<psp,f,sg,>	61	case
+63	बीमारी	NN	<n,f,sg,3>	65	nmod
+64	से	PSP	<v,any,any,any>	63	case
+65	परेशान	JJ	<adj,any,any,>	52	conj
+66	है	VM	<v,any,sg,2>	65	cop
+67	और	CC	<adv,,,>	73	cc
+68	कुछ	QF	<adj,any,any,>	69	det
+69	दिनों	NN	<n,m,pl,3>	73	obl
+70	से	PSP	<v,any,any,any>	69	case
+71	मायके	NN	<n,m,pl,3>	73	obl
+72	में	PSP	<psp,,,>	71	case
+73	रह	VM	<v,any,any,any>	65	conj
+74	रही	VAUX	<v,f,sg,any>	73	aux
+75	है	VAUX	<v,any,sg,2>	74	aux:pass
+76	उसने	PRP	<unk,,,>	84	nsubj
+77	अपने	PRP	<n,m,pl,3>	78	nmod
+78	इलाज	NN	<n,m,sg,3>	84	obl
+79	के	PSP	<psp,m,sg,>	78	case
+80	लिए	PSP	<v,m,pl,any>	78	case
+81	पांच-छह	QCC	<unk,,,>	82	case
+82	हजार	QC	<n,m,sg,3>	83	nummod
+83	रुपये	NN	<n,m,pl,3>	84	obj
+84	जोड़	VM	<v,any,any,any>	73	conj
+85	रखे	VAUX	<v,any,sg,2>	84	aux
+86	थे	VAUX	<v,m,pl,any>	85	aux:pass
+87	आरोप	NN	<n,m,sg,3>	73	conj
+88	है	VM	<v,any,sg,2>	87	cop
+89	कि	CC	<avy,,,>	96	mark
+90	जामू	NNP	<unk,,,>	96	nsubj
+91	शनिवार	NNP	<n,m,sg,3>	92	nmod
+92	रात	NN	<n,f,sg,3>	96	obl
+93	अफरोज	NNP	<unk,,,>	96	obl
+94	के	PSP	<psp,m,sg,>	93	case
+95	पास	NST	<adv,,,>	93	case
+96	पहुंचा	VM	<unk,,,>	87	acl
+97	और	CC	<adv,,,>	112	cc
+98	पैसे	NN	<n,m,pl,3>	99	obj
+99	मांगने	VM	<unk,,,>	101	amod
+100	लगा	VAUX	<v,any,any,any>	99	aux
+101	इलाज	NN	<n,m,sg,3>	103	nmod
+102	का	PSP	<psp,m,sg,>	101	case
+103	हवाला	NN	<n,m,sg,3>	104	compound
+104	देते	VM	<v,m,pl,any>	112	advcl
 105	हुए	VAUX	<v,m,pl,any>	104	aux
-106	अफरोज	NNP	<v,m,pl,any>	112	nsubj
-107	ने	PSP	<unk,,,>	106	case
-108	पैसे	NN	<psp,,,>	109	obj
-109	देने	VM	<n,m,pl,3>	112	obj
-110	से	PSP	<v,m,pl,any>	109	mark
+106	अफरोज	NNP	<unk,,,>	112	nsubj
+107	ने	PSP	<psp,,,>	106	case
+108	पैसे	NN	<n,m,pl,3>	109	obj
+109	देने	VM	<v,m,pl,any>	112	obj
+110	से	PSP	<v,any,any,any>	109	mark
 111	मना	NN	<v,any,any,any>	112	compound
 112	कर	VM	<v,any,any,any>	96	conj
-113	दिया	VAUX	<v,any,any,any>	112	aux
-114	तो	PRP	<v,m,sg,any>	120	obl
-115	जामू	NNP	<avy,,,>	120	nsubj
-116	ने	PSP	<unk,,,>	115	case
-117	तीन	QC	<psp,,,>	118	nummod
-118	बार	NN	<n,m,sg,3>	120	obl
-119	तलाक	NN	<adv,,,>	120	compound
-120	बोल	VM	<n,m,sg,3>	96	conj
-121	दिया	VAUX	<v,any,any,any>	120	aux
-122	और	CC	<v,m,sg,any>	133	cc
-123	घर	NN	<adv,,,>	124	obl
-124	आ	VM	<n,m,sg,3>	129	acl
-125	गया	VAUX	<v,any,any,any>	124	aux
+113	दिया	VAUX	<v,m,sg,any>	112	aux
+114	तो	PRP	<avy,,,>	120	obl
+115	जामू	NNP	<unk,,,>	120	nsubj
+116	ने	PSP	<psp,,,>	115	case
+117	तीन	QC	<n,m,sg,3>	118	nummod
+118	बार	NN	<adv,,,>	120	obl
+119	तलाक	NN	<n,m,sg,3>	120	compound
+120	बोल	VM	<v,any,any,any>	96	conj
+121	दिया	VAUX	<v,m,sg,any>	120	aux
+122	और	CC	<adv,,,>	133	cc
+123	घर	NN	<n,m,sg,3>	124	obl
+124	आ	VM	<v,any,any,any>	129	acl
+125	गया	VAUX	<unk,,,>	124	aux
 126	सदर	NNC	<unk,,,>	129	compound
-127	बाजार	NNC	<unk,,,>	129	compound
+127	बाजार	NNC	<n,m,sg,3>	129	compound
 128	थाना	NNC	<n,m,sg,3>	129	compound
-129	प्रभारी	NN	<n,m,sg,3>	131	nmod
-130	प्रशांत	NNPC	<adj,f,any,>	131	compound
+129	प्रभारी	NN	<adj,f,any,>	131	nmod
+130	प्रशांत	NNPC	<adj,any,any,>	131	compound
 131	कपिल	NNP	<adj,any,any,>	133	nsubj
-132	ने	PSP	<adj,any,any,>	131	case
-133	बताया	VM	<psp,,,>	120	conj
-134	कि	CC	<v,m,sg,any>	149	mark
-135	मामला	NN	<avy,,,>	133	obj
+132	ने	PSP	<psp,,,>	131	case
+133	बताया	VM	<v,m,sg,any>	120	conj
+134	कि	CC	<avy,,,>	149	mark
+135	मामला	NN	<n,m,sg,3>	133	obj
 136	मारपीट	NN	<n,m,sg,3>	135	nmod
-137	का	PSP	<n,m,sg,3>	136	case
-138	है	VM	<psp,m,sg,>	135	cop
-139	जांच	NN	<v,any,sg,2>	144	obl
-140	में	PSP	<unk,,,>	139	case
-141	जो	DEM	<psp,,,>	142	det
-142	तथ्य	NN	<avy,,,>	144	nsubj
-143	सामने	NST	<n,m,sg,3>	144	obl
-144	आएंगे	VM	<n,m,pl,3>	145	acl:relcl
-145	उसके	PRP	<v,m,pl,1>	146	nmod
-146	आधार	NN	<unk,,,>	149	obl
-147	पर	PSP	<n,m,sg,3>	146	case
-148	कार्रवाई	NN	<psp,,,>	149	compound
-149	की	VM	<unk,,,>	133	obj
-150	जाएगी	VAUX	<v,f,sg,any>	149	aux:pass
+137	का	PSP	<psp,m,sg,>	136	case
+138	है	VM	<v,any,sg,2>	135	cop
+139	जांच	NN	<unk,,,>	144	obl
+140	में	PSP	<psp,,,>	139	case
+141	जो	DEM	<avy,,,>	142	det
+142	तथ्य	NN	<n,m,sg,3>	144	nsubj
+143	सामने	NST	<n,m,pl,3>	144	obl
+144	आएंगे	VM	<v,m,pl,1>	145	acl:relcl
+145	उसके	PRP	<unk,,,>	146	nmod
+146	आधार	NN	<n,m,sg,3>	149	obl
+147	पर	PSP	<psp,,,>	146	case
+148	कार्रवाई	NN	<unk,,,>	149	compound
+149	की	VM	<v,f,sg,any>	133	obj
+150	जाएगी	VAUX	<v,f,sg,2>	149	aux:pass
 
- 1	फिलहाल	RB	<v,f,sg,2>	6	obl
- 2	आरोपित	NN	<n,m,sg,3>	6	obj
- 3	को	PSP	<adj,any,any,>	2	case
- 4	हिरासत	NN	<psp,,,>	6	obl
- 5	में	PSP	<n,m,sg,3>	4	case
- 6	ले	VM	<psp,,,>	0	root
- 7	लिया	VAUX	<v,any,any,any>	6	aux
- 8	है	VAUX	<v,m,sg,any>	7	aux:pass
+ 1	फिलहाल	RB	<n,m,sg,3>	6	obl
+ 2	आरोपित	NN	<adj,any,any,>	6	obj
+ 3	को	PSP	<psp,,,>	2	case
+ 4	हिरासत	NN	<n,m,sg,3>	6	obl
+ 5	में	PSP	<psp,,,>	4	case
+ 6	ले	VM	<v,any,any,any>	0	root
+ 7	लिया	VAUX	<v,m,sg,any>	6	aux
+ 8	है	VAUX	<v,any,sg,2>	7	aux:pass
 
- 1	नगर	NNC	<v,any,sg,2>	2	compound
+ 1	नगर	NNC	<n,m,sg,3>	2	compound
  2	निगम	NN	<n,m,sg,3>	9	obl
- 3	और	CC	<n,m,sg,3>	5	cc
- 4	जनस्वास्थ्य	NNPC	<adv,,,>	5	compound
- 5	विभाग	NNP	<unk,,,>	2	conj
- 6	में	PSP	<n,m,sg,3>	2	case
- 7	समन्वय	NN	<psp,,,>	9	compound
- 8	न	NEG	<n,m,sg,3>	9	advmod
- 9	होने	VM	<adv,,,>	15	advcl
-10	से	PSP	<v,m,pl,any>	9	mark
-11	जनता	NN	<v,any,any,any>	13	nmod
-12	का	PSP	<n,f,sg,3>	11	case
-13	पैसा	NN	<psp,m,sg,>	15	nsubj
-14	बर्बाद	JJ	<n,m,sg,3>	15	compound
-15	हो	VM	<adj,any,any,>	0	root
-16	रहा	VAUX	<v,any,any,any>	15	aux
-17	है	VAUX	<v,m,sg,any>	16	aux:pass
+ 3	और	CC	<adv,,,>	5	cc
+ 4	जनस्वास्थ्य	NNPC	<unk,,,>	5	compound
+ 5	विभाग	NNP	<n,m,sg,3>	2	conj
+ 6	में	PSP	<psp,,,>	2	case
+ 7	समन्वय	NN	<n,m,sg,3>	9	compound
+ 8	न	NEG	<adv,,,>	9	advmod
+ 9	होने	VM	<v,m,pl,any>	15	advcl
+10	से	PSP	<v,any,any,any>	9	mark
+11	जनता	NN	<n,f,sg,3>	13	nmod
+12	का	PSP	<psp,m,sg,>	11	case
+13	पैसा	NN	<n,m,sg,3>	15	nsubj
+14	बर्बाद	JJ	<adj,any,any,>	15	compound
+15	हो	VM	<v,any,any,any>	0	root
+16	रहा	VAUX	<v,m,sg,any>	15	aux
+17	है	VAUX	<v,any,sg,2>	16	aux:pass
 
- 1	अभी	PRP	<v,any,sg,2>	11	obl
- 2	हाल	NN	<adv,,,>	11	obl
- 3	ही	RP	<n,m,sg,3>	2	dep
- 4	में	PSP	<adv,,,>	2	case
- 5	विधायक	NN	<psp,,,>	8	nmod
+ 1	अभी	PRP	<adv,,,>	11	obl
+ 2	हाल	NN	<n,m,sg,3>	11	obl
+ 3	ही	RP	<adv,,,>	2	dep
+ 4	में	PSP	<psp,,,>	2	case
+ 5	विधायक	NN	<n,m,sg,3>	8	nmod
  6	डा	NNPC	<n,m,sg,3>	8	compound
  7	कमल	NNPC	<n,m,sg,3>	8	compound
  8	गुप्ता	NNP	<n,m,sg,3>	11	nsubj
- 9	ऑटो	NNC	<n,m,sg,3>	10	compound
-10	मार्केट	NN	<unk,,,>	11	obl
-11	गए	VM	<n,m,sg,3>	0	root
-12	थे	VAUX	<unk,,,>	11	aux
-13	जहां	PRP	<v,m,pl,any>	24	obl
-14	पानी	NN	<adv,,,>	17	nmod
-15	की	PSP	<n,m,sg,3>	14	case
-16	पाइप	NNC	<psp,f,sg,>	17	compound
-17	लाइन	NN	<n,m,sg,3>	18	obj
-18	डाले	VM	<n,f,sg,3>	24	advcl
-19	बिना	RP	<v,any,sg,2>	18	dep
-20	ही	RP	<v,m,sg,any>	18	dep
-21	सड़क	NN	<adv,,,>	23	nmod
-22	का	PSP	<n,f,sg,3>	21	case
-23	निर्माण	NN	<psp,m,sg,>	24	compound
-24	किया	VM	<n,m,sg,3>	28	acl:relcl
-25	जा	VAUX	<v,m,sg,any>	24	aux:pass
-26	रहा	VAUX	<v,any,any,any>	25	aux:pass
+ 9	ऑटो	NNC	<unk,,,>	10	compound
+10	मार्केट	NN	<n,m,sg,3>	11	obl
+11	गए	VM	<unk,,,>	0	root
+12	थे	VAUX	<v,m,pl,any>	11	aux
+13	जहां	PRP	<adv,,,>	24	obl
+14	पानी	NN	<n,m,sg,3>	17	nmod
+15	की	PSP	<psp,f,sg,>	14	case
+16	पाइप	NNC	<n,m,sg,3>	17	compound
+17	लाइन	NN	<n,f,sg,3>	18	obj
+18	डाले	VM	<v,any,sg,2>	24	advcl
+19	बिना	RP	<v,m,sg,any>	18	dep
+20	ही	RP	<adv,,,>	18	dep
+21	सड़क	NN	<n,f,sg,3>	23	nmod
+22	का	PSP	<psp,m,sg,>	21	case
+23	निर्माण	NN	<n,m,sg,3>	24	compound
+24	किया	VM	<v,m,sg,any>	28	acl:relcl
+25	जा	VAUX	<v,any,any,any>	24	aux:pass
+26	रहा	VAUX	<v,m,sg,any>	25	aux:pass
 27	था	VAUX	<v,m,sg,any>	26	aux:pass
-28	जिस	PRP	<v,m,sg,any>	40	obl
-29	पर	PSP	<pn,any,sg,3>	28	case
-30	विधायक	NN	<psp,,,>	40	nsubj
-31	ने	PSP	<n,m,sg,3>	30	case
-32	नगर	NNC	<psp,,,>	33	compound
+28	जिस	PRP	<pn,any,sg,3>	40	obl
+29	पर	PSP	<psp,,,>	28	case
+30	विधायक	NN	<n,m,sg,3>	40	nsubj
+31	ने	PSP	<psp,,,>	30	case
+32	नगर	NNC	<n,m,sg,3>	33	compound
 33	निगम	NN	<n,m,sg,3>	35	nmod
-34	के	PSP	<n,m,sg,3>	33	case
-35	जेई	NN	<psp,m,sg,>	40	obj
-36	व	CC	<unk,,,>	37	cc
-37	ठेकेदार	NN	<avy,,,>	35	conj
-38	को	PSP	<n,m,sg,3>	35	case
-39	खूब	QF	<psp,,,>	40	compound
-40	लताड़ा	VM	<adj,any,any,>	42	acl:relcl
+34	के	PSP	<psp,m,sg,>	33	case
+35	जेई	NN	<unk,,,>	40	obj
+36	व	CC	<avy,,,>	37	cc
+37	ठेकेदार	NN	<n,m,sg,3>	35	conj
+38	को	PSP	<psp,,,>	35	case
+39	खूब	QF	<adj,any,any,>	40	compound
+40	लताड़ा	VM	<v,m,sg,any>	42	acl:relcl
 41	था	VAUX	<v,m,sg,any>	40	aux
-42	वहीं	RB	<v,m,sg,any>	50	obl
-43	इस	PRP	<unk,,,>	50	obl
-44	बारे	PSP	<pn,any,sg,3>	43	case
-45	में	PSP	<n,m,sg,3>	43	case
-46	निगम	NNC	<psp,,,>	47	compound
-47	अधिकारियों	NN	<n,m,sg,3>	49	nsubj
-48	का	PSP	<n,m,pl,3>	47	case
-49	कहना	VM	<psp,m,sg,>	50	nsubj
-50	है	VM	<v,m,sg,any>	11	conj
-51	कि	CC	<v,any,sg,2>	60	mark
-52	जनस्वास्थ्य	NNPC	<avy,,,>	53	compound
-53	विभाग	NNP	<unk,,,>	56	nsubj
-54	कुछ	PRP	<n,m,sg,3>	56	obj
-55	भी	RP	<adj,any,any,>	54	dep
-56	उखाड़ेगा	VM	<adv,,,>	49	obj
-57	उसकी	PRP	<v,m,sg,2>	58	nmod
+42	वहीं	RB	<unk,,,>	50	obl
+43	इस	PRP	<pn,any,sg,3>	50	obl
+44	बारे	PSP	<n,m,sg,3>	43	case
+45	में	PSP	<psp,,,>	43	case
+46	निगम	NNC	<n,m,sg,3>	47	compound
+47	अधिकारियों	NN	<n,m,pl,3>	49	nsubj
+48	का	PSP	<psp,m,sg,>	47	case
+49	कहना	VM	<v,m,sg,any>	50	nsubj
+50	है	VM	<v,any,sg,2>	11	conj
+51	कि	CC	<avy,,,>	60	mark
+52	जनस्वास्थ्य	NNPC	<unk,,,>	53	compound
+53	विभाग	NNP	<n,m,sg,3>	56	nsubj
+54	कुछ	PRP	<adj,any,any,>	56	obj
+55	भी	RP	<adv,,,>	54	dep
+56	उखाड़ेगा	VM	<v,m,sg,2>	49	obj
+57	उसकी	PRP	<unk,,,>	58	nmod
 58	रिपेयर	NN	<unk,,,>	59	obj
-59	करवाकर	VM	<unk,,,>	60	advcl
-60	देगा	VM	<v,any,any,any>	49	obj
+59	करवाकर	VM	<v,any,any,any>	60	advcl
+60	देगा	VM	<v,m,sg,2>	49	obj
 
- 1	यहां	PRP	<v,m,sg,2>	7	obl
- 2	जनस्वास्थ्य	NNC	<adv,,,>	3	compound
- 3	विभाग	NNP	<unk,,,>	7	nsubj:pass
- 4	द्वारा	PSP	<n,m,sg,3>	3	case
- 5	पाइप	NNC	<psp,,,>	6	compound
- 6	लाइन	NN	<n,m,sg,3>	7	obj
- 7	डाली	VM	<n,f,sg,3>	0	root
+ 1	यहां	PRP	<adv,,,>	7	obl
+ 2	जनस्वास्थ्य	NNC	<unk,,,>	3	compound
+ 3	विभाग	NNP	<n,m,sg,3>	7	nsubj:pass
+ 4	द्वारा	PSP	<psp,,,>	3	case
+ 5	पाइप	NNC	<n,m,sg,3>	6	compound
+ 6	लाइन	NN	<n,f,sg,3>	7	obj
+ 7	डाली	VM	<v,f,sg,any>	0	root
  8	जानी	VAUX	<v,f,sg,any>	7	aux:pass
- 9	है	VAUX	<v,f,sg,any>	8	aux:pass
+ 9	है	VAUX	<v,any,sg,2>	8	aux:pass
 
- 1	पाइप	NNPC	<v,any,sg,2>	3	compound
- 2	लाइन	NNPC	<n,m,sg,3>	3	compound
+ 1	पाइप	NNPC	<n,m,sg,3>	3	compound
+ 2	लाइन	NNPC	<n,f,sg,3>	3	compound
  3	रोड	NNP	<n,f,sg,3>	5	nmod
- 4	के	PSP	<n,f,sg,3>	3	case
- 5	किनारे	NN	<psp,m,sg,>	6	obl
- 6	पहुंच	VM	<n,m,pl,3>	0	root
- 7	भी	RP	<unk,,,>	6	dep
- 8	चुकी	VAUX	<adv,,,>	6	aux
- 9	है	VAUX	<v,f,sg,any>	8	aux:pass
+ 4	के	PSP	<psp,m,sg,>	3	case
+ 5	किनारे	NN	<n,m,pl,3>	6	obl
+ 6	पहुंच	VM	<unk,,,>	0	root
+ 7	भी	RP	<adv,,,>	6	dep
+ 8	चुकी	VAUX	<v,f,sg,any>	6	aux
+ 9	है	VAUX	<v,any,sg,2>	8	aux:pass
 
- 1	इस	DEM	<v,any,sg,2>	2	det
- 2	तरह	NN	<pn,any,sg,3>	18	obl
- 3	दो	QC	<adv,,,>	4	nummod
- 4	विभागों	NN	<n,m,sg,3>	7	nmod
- 5	के	PSP	<n,m,pl,3>	4	case
- 6	आपसी	JJ	<psp,m,sg,>	7	amod
- 7	तालमेल	NN	<n,f,sg,3>	9	nmod
- 8	के	PSP	<n,m,sg,3>	7	case
- 9	अभाव	NN	<psp,m,sg,>	12	obl
-10	में	PSP	<n,m,sg,3>	9	case
-11	खर्च	NN	<psp,,,>	12	compound
-12	की	VM	<n,m,sg,3>	14	acl
-13	गई	VAUX	<v,f,sg,any>	12	aux:pass
-14	लाखों	NN	<unk,,,>	16	nmod
-15	की	PSP	<n,m,pl,3>	14	case
-16	राशि	NN	<psp,f,sg,>	18	nsubj
-17	बेकार	JJ	<n,f,sg,3>	18	xcomp
-18	चली	VM	<adj,any,any,>	0	root
-19	जाएगी	VAUX	<v,f,sg,any>	18	aux
+ 1	इस	DEM	<pn,any,sg,3>	2	det
+ 2	तरह	NN	<adv,,,>	18	obl
+ 3	दो	QC	<n,m,sg,3>	4	nummod
+ 4	विभागों	NN	<n,m,pl,3>	7	nmod
+ 5	के	PSP	<psp,m,sg,>	4	case
+ 6	आपसी	JJ	<n,f,sg,3>	7	amod
+ 7	तालमेल	NN	<n,m,sg,3>	9	nmod
+ 8	के	PSP	<psp,m,sg,>	7	case
+ 9	अभाव	NN	<n,m,sg,3>	12	obl
+10	में	PSP	<psp,,,>	9	case
+11	खर्च	NN	<n,m,sg,3>	12	compound
+12	की	VM	<v,f,sg,any>	14	acl
+13	गई	VAUX	<unk,,,>	12	aux:pass
+14	लाखों	NN	<n,m,pl,3>	16	nmod
+15	की	PSP	<psp,f,sg,>	14	case
+16	राशि	NN	<n,f,sg,3>	18	nsubj
+17	बेकार	JJ	<adj,any,any,>	18	xcomp
+18	चली	VM	<v,f,sg,any>	0	root
+19	जाएगी	VAUX	<v,f,sg,2>	18	aux
 
- 1	क्षेत्रवासियों	NN	<v,f,sg,2>	9	nsubj
- 2	ने	PSP	<unk,,,>	1	case
- 3	इस	DEM	<psp,,,>	4	det
- 4	तरह	NN	<pn,any,sg,3>	6	nmod
- 5	की	PSP	<adv,,,>	4	case
- 6	कार्यप्रणाली	NN	<psp,f,sg,>	8	nmod
- 7	का	PSP	<n,f,sg,3>	6	case
- 8	विरोध	NN	<psp,m,sg,>	9	compound
- 9	जताया	VM	<n,m,sg,3>	0	root
-10	है	VAUX	<v,m,sg,any>	9	aux
+ 1	क्षेत्रवासियों	NN	<unk,,,>	9	nsubj
+ 2	ने	PSP	<psp,,,>	1	case
+ 3	इस	DEM	<pn,any,sg,3>	4	det
+ 4	तरह	NN	<adv,,,>	6	nmod
+ 5	की	PSP	<psp,f,sg,>	4	case
+ 6	कार्यप्रणाली	NN	<n,f,sg,3>	8	nmod
+ 7	का	PSP	<psp,m,sg,>	6	case
+ 8	विरोध	NN	<n,m,sg,3>	9	compound
+ 9	जताया	VM	<v,m,sg,any>	0	root
+10	है	VAUX	<v,any,sg,2>	9	aux
 
