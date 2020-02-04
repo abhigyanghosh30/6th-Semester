@@ -11,6 +11,8 @@ doc = nlp(lines)
 morph_lines = f3.readline()
 for sentence in doc.sentences:
     for word in sentence.words:
+        if word.text=='.':
+            continue
         morph = morph_lines.split('\t')
         f2.write(str(word.index.rjust(2))+"\t"+word.text+"\t"+word.xpos+"\t")
         f2.write("<"+",".join(morph[4:-1])+">\t")
