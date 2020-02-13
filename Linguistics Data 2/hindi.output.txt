@@ -1,7 +1,3 @@
-जागरण	जागरण	NN	0	n	m	sg	3	d
-संवाददाता	संवाददाता	XC		unk				
-यमुनानगर	यमुनानगर	NNP		unk				
-:	:	SYM		punc				
 नगर	नगर	NN	0	n	m	sg	3	d
 निगम	निगम	NN	0	n	m	sg	3	d
 ने	ने	PSP		psp				
@@ -63,31 +59,10 @@
 शहर	शहर	NN	0	n	m	sg	3	d
 में	में	PSP		psp				
 प्राय	प्रायः	NN		adv				
-:	:	SYM		punc				
 जाम	जाम	NN	0	n	m	sg	3	d
 लगते	लग	VM	ता	v	m	pl	any	
 रहते	रह	VAUX	ता	v	m	pl	any	
 हैं	है	VAUX	है	v	any	pl	1	
-जगाधरी	जगाधरी	NN		unk				
-के	का	PSP	का	psp	m	sg		o
-पुराने	पुराना	JJ		adj	m	sg		o
-सहारनपुर	सहारनपुर	XC		unk				
-रोड	रोड	NNP	0	n	f	sg	3	d
-से	से	PSP	0	v	any	any	any	
-लेकर	ले	VM	कर	v	any	any	any	
-रेलवे	रेलवे	XC		unk				
-स्टेशन	स्टेशन	XC	0	n	m	sg	3	d
-रोड	रोड	NNP	0	n	f	sg	3	d
-पर	पर	PSP		psp				
-भगत	भगत	XC	0	n	m	sg	3	d
-¨	¨	XC		unk				
-सह	सह	XC	0	v	any	any	any	
-चौक	चौक	NNP	0	n	m	sg	3	d
-तक	तक	RP		avy				
-सडक	सडक	JJ	0	n	f	sg	3	d
-पहले	पहले	NST		adv				
-फोरलेन	फोरलेन	NN		unk				
-थी	था	VM	था	v	f	sg	any	
 वाहनों	वाहन	NN	0	n	m	pl	3	o
 की	का	PSP	का	psp	f	sg		d
 संख्या	संख्या	NN	0	n	f	sg	3	d
@@ -101,9 +76,8 @@
 सडक	सडक	NN	0	n	f	sg	3	d
 पर	पर	PSP		psp				
 प्राय	प्रायः	NN		adv				
-:	:	SYM		punc				
-जाम	जाम	NN	0	n	m	sg	3	d
-लगा	लगा	VM	0	v	any	any	any	
+जाम	जाम	VM	0	n	m	sg	3	d
+लगा	लगा	VAUX	0	v	any	any	any	
 रहता	रह	VAUX	ता	v	m	sg	any	
 था	था	VAUX	था	v	m	sg	any	
 लोगों	लोग	NN	0	n	m	pl	3	o
@@ -115,7 +89,7 @@
 मुख्यमंत्री	मुख्यमंत्री	NN	0	n	m	sg	3	d
 ने	ने	PSP		psp				
 फोरलेन	फोरलेन	NN		unk				
-सडक	सडक	NN	0	n	f	sg	3	d
+सडक	सडक	JJ	0	n	f	sg	3	d
 को	को	PSP		psp				
 सिक्सलेन	सिक्सलेन	NN		unk				
 बनाने	बना	VM	ना	v	m	pl	any	
@@ -257,50 +231,6 @@
 नहीं	नहीं	NEG		adv				
 कहा	कह	VM	या	v	m	sg	any	
 जाता	जा	VAUX	ता	v	m	sg	any	
-शहर	शहर	NN	0	n	m	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-रवि	रवि	XC	0	n	m	sg	3	d
-विकास	विकास	XC	0	n	m	sg	3	d
-सोनू	सोनू	XC		unk				
-प्रीतम	प्रीतम	NNP	0	n	m	sg	3	d
-आदि	आदि	RP	0	n	m	sg	3	d
-ने	ने	PSP		psp				
-बताया	बता	VM	या	v	m	sg	any	
-कि	कि	CC		avy				
-यमुनानगर	यमुनानगर	NNP		unk				
-के	का	PSP	का	psp	m	sg		o
-सिविल	सिविल	XC	0	n	m	sg	3	d
-अस्पताल	अस्पताल	NN	0	n	m	sg	3	d
-से	से	PSP	0	v	any	any	any	
-लेकर	ले	VM	कर	v	any	any	any	
-रामपुरा	रामपुरा	NNP		unk				
-के	का	PSP	का	psp	m	sg		o
-मोड	मोड	NN	0	n	m	sg	3	d
-तक	तक	RP		avy				
-और	और	CC		adv				
-मधु	मधु	XC	0	n	m	sg	3	d
-पेट्रोल	पेट्रोल	NNP	0	n	m	sg	3	d
-पंप	पंप	NN	0	n	m	sg	3	d
-तक	तक	RP		avy				
-बाइक	बाइक	NN		unk				
-व	व	CC		avy				
-कार	कार	NN	0	n	f	sg	3	d
-मैकेनिकों	मैकेनिकों	NN		unk				
-की	का	PSP	का	psp	f	sg		d
-दुकाने	दुकाने	VM		unk				
-हैं	है	VAUX	है	v	any	pl	1	
-इसलिए	इसलिये	CC		avy				
-मैकेनिक	मैकेनिक	NN		unk				
-पूरे	पूरा	JJ	0	n	m	pl	3	d
-दिन	दिन	NN	0	n	m	sg	3	d
-सडक	सडक	NN	0	n	f	sg	3	d
-पर	पर	PSP		psp				
-खराब	खराब	JJ		adj	any	any		any
-वाहनों	वाहन	NN	0	n	m	pl	3	o
-को	को	PSP		psp				
-ठीक	ठीक	JJ		adj	any	any		any
-करते	कर	VM	ता	v	m	pl	any	
-हैं	है	VAUX	है	v	any	pl	1	
 इसलिए	इसलिये	CC		avy				
 सिक्सलेन	सिक्सलेन	NN		unk				
 एक	एक	QC		adj	any	any		any
@@ -386,41 +316,6 @@
 खडे	खडा	VM		adj	m	sg		o
 रहते	रह	VAUX	ता	v	m	pl	any	
 हैं	है	VAUX	है	v	any	pl	1	
-मधु	मधु	XC	0	n	m	sg	3	d
-चौक	चौक	NNP	0	n	m	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-निकट	निकट	NST		adv				
-ओबरॉय	ओबरॉय	JJ		unk				
-क्लीनिक	क्लीनिक	NN		unk				
-नत्थू	नत्थू	XC		unk				
-स्वीट	स्वीट	XC		unk				
-नेहरू	नेहरू	XC	0	n	m	sg	3	d
-पार्क	पार्क	NNP	0	n	m	sg	3	d
-मोड	मोड	NN	0	n	m	sg	3	d
-एफआरएफ	एफआरएफ	NN		unk				
-शोरूम	शोरूम	NN		unk				
-के	का	PSP	का	psp	m	sg		o
-सामने	सामना	NST	0	n	m	pl	3	d
-होटल	होटल	NN	0	n	m	sg	3	d
-दावत-ए-पलाजा	दावत-ए-पलाजा	NN		unk				
-के	का	PSP	का	psp	m	sg		o
-सामने	सामना	NST	0	n	m	pl	3	d
-होटल	होटल	NN	0	n	m	sg	3	d
-जेके	जेके	XC		unk				
-रेजीडेंसी	रेजीडेंसी	NN		unk				
-के	का	PSP	का	psp	m	sg		o
-सामने	सामना	NST	0	n	m	pl	3	d
-और	और	CC		adv				
-आइसीआइसीआइ	आइसीआइसीआइ	NN		unk				
-बैंक	बैंक	NN	0	n	m	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-सामने	सामना	NST	0	n	m	pl	3	d
-सडक	सडक	NN	0	n	f	sg	3	d
-पर	पर	PSP		psp				
-वाहन	वाहन	NN	0	n	m	sg	3	d
-खडे	खडा	VM		adj	m	sg		o
-रहते	रह	VAUX	ता	v	m	pl	any	
-हैं	है	VAUX	है	v	any	pl	1	
 इससे	इससे	PRP		pn	any	sg	3	o
 उक्त	उक्त	JJ		adj	any	any		any
 मार्ग	मार्ग	NN	0	n	m	sg	3	d
@@ -434,7 +329,7 @@
 नगर	नगर	NN	0	n	m	sg	3	d
 निगम	निगम	NN	0	n	m	sg	3	d
 के	का	PSP	का	psp	m	sg		o
-कमिश्नर	कमिश्नर	XC	0	n	m	sg	3	d
+कमिश्नर	कमिश्नर	NN	0	n	m	sg	3	d
 गिरीश	गिरीश	XC	0	n	m	sg	3	d
 अरोडा	अरोडा	NNP		unk				
 का	का	PSP	का	psp	m	sg		d
@@ -448,10 +343,6 @@
 की	कर	VM	या	v	f	sg	any	
 गई	गई	VAUX		unk				
 थी	था	VAUX	था	v	f	sg	any	
-ताकि	ताकि	CC		avy				
-जाम	जाम	NN	0	n	m	sg	3	d
-न	न	NEG		adv				
-लगे	लग	VM	एं	v	any	sg	2	
 लोगों	लोग	NN	0	n	m	pl	3	o
 की	का	PSP	का	psp	f	sg		d
 नैतिक	नैतिक	JJ		adj	any	any		any
@@ -487,11 +378,6 @@
 पर	पर	PSP		psp				
 कार्रवाई	कार्रवाई	NN		unk				
 करेंगे	कर	VM	गा	v	m	pl	1	
-लालगंज	लालगंज	XC		unk				
--LRB-	-LRB-	XC		unk				
-मीरजापुर	मीरजापुर	NNP		unk				
--RRB-	-RRB-	NN		unk				
-:	:	SYM		punc				
 स्थानीय	स्थानीय	JJ	0	n	m	sg	3	d
 थाना	थाना	VM	0	n	m	sg	3	d
 क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
@@ -512,22 +398,6 @@
 आग	आग	NN	0	n	f	sg	3	d
 लग	लग	VM	0	v	any	any	any	
 गई	गई	VAUX		unk				
-इस	इस	DEM		pn	any	sg	3	o
-हादसे	हादसा	NN	0	n	m	pl	3	d
-में	में	PSP		psp				
-हजारों	हजारा	QC	0	n	m	pl	3	o
-रुपये	रुपया	NN	0	n	m	pl	3	d
-का	का	PSP	का	psp	m	sg		d
-अनाज	अनाज	NN	0	n	m	sg	3	d
-तथा	तथा	CC		adv				
-¨	¨	JJ		unk				
-सचाई	सचाई	NN	0	n	f	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-उपकरण	उपकरण	NN	0	n	m	sg	3	d
-जलकर	जल	VM	कर	v	any	any	any	
-राख	राख	NN	0	n	f	sg	3	d
-हो	हो	VM	0	v	any	any	any	
-गया	गया	VAUX		unk				
 ग्रामीणों	ग्रामीण	NN	0	n	m	pl	3	o
 के	का	PSP	का	psp	m	sg		o
 एक	एक	QC		adj	any	any		any
@@ -598,41 +468,6 @@
 कर	कर	VM	0	v	any	any	any	
 चुका	चुका	VAUX	0	v	any	any	any	
 था	था	VAUX	था	v	m	sg	any	
-इस	इस	DEM		pn	any	sg	3	o
-घटना	घटना	NN	0	n	f	sg	3	d
-में	में	PSP		psp				
-पीडित	पीडित	JJ	0	n	m	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-अनुसार	अनुसार	PSP:?		psp				
-पांच	पांच	QC		unk				
-¨	¨	NN		unk				
-क्वटल	क्वटल	NN		unk				
-गेहूं	गेहूँ	NN	0	n	m	sg		d
-एक	एक	QC		adj	any	any		any
-¨	¨	JJ		unk				
-क्वटल	क्वटल	NN		unk				
-चना	चना	VM	0	n	m	sg	3	d
-पंपिग	पंपिग	XC		unk				
-सेट	सेट	NN	0	n	m	sg	3	d
-मशीन	मशीन	NN	0	n	f	sg	3	d
-तीस	तीस	QC		adj	any	any		any
-¨	¨	JJ		unk				
-क्वटल	क्वटल	NN		unk				
-भूसा	भूसा	NN	0	n	m	sg	3	d
-समेत	समेत	PSP		psp				
-हजारों	हजारा	QC	0	n	m	pl	3	o
-रुपये	रुपया	NN	0	n	m	pl	3	d
-का	का	PSP	का	psp	m	sg		d
-घरेलू	घरेलू	JJ		adj	any	any		any
-सामान	सामान	NN	0	n	m	sg	3	d
-जलकर	जल	VM	कर	v	any	any	any	
-राख	राख	NN	0	n	f	sg	3	d
-हो	हो	VM	0	v	any	any	any	
-गया	गया	VAUX		unk				
-कैलाश	कैलाश	XC		unk				
-नाथ	नाथ	XC	0	v	any	any	any	
-चंडीगढ़	चंडीगढ़	NNP		unk				
-:	:	SYM		punc				
 दो	दो	QC	0	n	m	sg	3	d
 दिन	दिन	NN	0	n	m	sg	3	d
 से	से	PSP	0	v	any	any	any	
@@ -712,25 +547,6 @@
 संज्ञान	संज्ञान	NN	0	n	m	sg	3	d
 लिया	ले	VM	या	v	m	sg	any	
 जाए	जा	VAUX	एं	v	any	sg	2	
-प्रस्ताव	प्रस्ताव	NN	0	n	m	sg	3	d
-सदन	सदन	NN	0	n	m	sg	3	d
-में	में	PSP		psp				
-आते	आ	VM	ता	v	m	pl	any	
-ही	ही	RP		adv				
-नेता	नेता	NN	0	n	m	sg	3	d
-प्रतिपक्ष	प्रतिपक्ष	JJ	0	n	m	sg	3	d
-सुखपाल	सुखपाल	XC		unk				
-खैहरा	खैहरा	NNP		unk				
-ने	ने	PSP		psp				
-कहा	कह	VM	या	v	m	sg	any	
-`	`	SYM		punc				
-सरकार	सरकार	NN	0	n	f	sg	3	d
-उनके	उनके	PRP		unk				
-खिलाफ	खिलाफ	PSP:?		psp				
-साजिश	साजिश	NN	0	n	f	sg	3	d
-रच	रच	VM	0	v	any	any	any	
-रही	रह	VAUX	या	v	f	sg	any	
-है	है	VAUX	है	v	any	sg	2	
 संसदीय	संसदीय	JJ	0	n	m	sg	3	d
 मामले	मामला	NN	0	n	m	pl	3	d
 के	का	PSP	का	psp	m	sg		o
@@ -791,30 +607,6 @@
 गोली	गोली	NN	0	n	f	sg	3	d
 मार	मार	VM	0	v	any	any	any	
 दो	दे	VAUX	एं	v	any	pl	2	
-'	'	SYM		punc				
-खैहरा	खैहरा	NN		unk				
-ने	ने	PSP		psp				
-कहा	कह	VM	या	v	m	sg	any	
-'	'	SYM		punc				
-न	न	NEG		adv				
-तो	तो	RP		avy				
-मैंने	मैं	PRP	ने	pn	any	sg	1	o
-और	और	CC		adv				
-न	न	NEG		adv				
-ही	ही	RP		adv				
-बैंस	बैंस	NN		unk				
-बंधुओं	बंधु	NN	0	n	m	pl	3	o
-ने	ने	PSP		psp				
-कभी	कभी	PRP		adv				
-यह	यह	PRP	0	pn	any	sg	3	d
-कहा	कह	VM	या	v	m	sg	any	
-कि	कि	CC		avy				
-उन्हें	उन्हें	PRP		unk				
-न्यायालय	न्यायालय	NN	0	n	m	sg	3	d
-पर	पर	PSP		psp				
-भरोसा	भरोसा	NN	0	n	m	sg	3	d
-नहीं	नहीं	NEG		adv				
-है	है	VM	है	v	any	sg	2	
 इसके	इसके	PRP		pn	m	pl	3	d
 बावजूद	बावजूद	PSP:?	0	n	m	sg	3	d
 यह	यह	DEM	0	pn	any	sg	3	d
@@ -822,26 +614,6 @@
 लाया	ला	VM	या	v	m	sg	any	
 जा	जा	VAUX	0	v	any	any	any	
 रहा	रह	VAUX	या	v	m	sg	any	
-है	है	VAUX	है	v	any	sg	2	
-वहीं	वहीं	PRP		unk				
-ब्रह्म	ब्रह्म	XC	0	n	m	sg	3	d
-मोहिंदरा	मोहिंदरा	NNP		unk				
-ने	ने	PSP		psp				
-प्रस्ताव	प्रस्ताव	NN	0	n	m	sg	3	d
-का	का	PSP	का	psp	m	sg		d
-समर्थन	समर्थन	NN	0	n	m	sg	3	d
-करते	कर	VM	ता	v	m	pl	any	
-हुए	हो	VAUX	या	v	m	pl	any	
-कहा	कह	VM	या	v	m	sg	any	
-`	`	SYM		punc				
-प्रस्ताव	प्रस्ताव	NN	0	n	m	sg	3	d
-में	में	PSP		psp				
-कोई	कोई	PRP	0	pn	any	sg	3	d
-गलत	गलत	JJ		adj	any	any		any
-बात	बात	NN	0	n	f	sg	3	d
-नहीं	नहीं	NEG		adv				
-लिखी	लिख	VM	या	v	f	sg	any	
-गई	गई	VAUX		unk				
 है	है	VAUX	है	v	any	sg	2	
 खैहरा	खैहरा	JJ		unk				
 सीबीआइ	सीबीआइ	NN		unk				
@@ -860,7 +632,6 @@
 बेहतर	बेहतर	JJ		adj	any	any		any
 क्या	क्या	WQ		avy				
 होगा	हो	VM	गा	v	m	sg	2	
-'	'	SYM		punc				
 इसके	इसके	PRP		pn	m	pl	3	d
 बाद	बाद	NST		adv				
 आप	आप	PRP	0	pn	any	any	any	o
@@ -1033,9 +804,6 @@
 किया	कर	VM	या	v	m	sg	any	
 गया	गया	VAUX		unk				
 था	था	VAUX	था	v	m	sg	any	
-जासं	जासं	JJ		unk				
-प्रतापगढ़	प्रतापगढ़	NN		unk				
-:	:	SYM		punc				
 शहर	शहर	NN	0	n	m	sg	3	d
 के	का	PSP	का	psp	m	sg		o
 राजापाल	राजापाल	NN		unk				
@@ -1102,7 +870,6 @@
 मोहन	मोहन	XC	0	n	m	sg	3	d
 मिश्र	मिश्र	NNP	0	n	m	sg	3	d
 20	20	QC		num				
-वीं	वीं	XC		unk				
 वीं	वीं	XC		unk				
 वाहिनी	वाहिनी	XC	0	n	f	sg	3	d
 पीएसी	पीएसी	NN		unk				
@@ -1222,7 +989,7 @@
 से	से	PSP	0	v	any	any	any	
 शिकायत	शिकायत	NN	0	n	f	sg	3	d
 की	का	PSP	का	psp	f	sg		d
-राकेश	राकेश	NN	0	n	m	sg	3	d
+राकेश	राकेश	XC	0	n	m	sg	3	d
 का	का	PSP	का	psp	m	sg		d
 कहना	कह	VM	ना	v	m	sg	any	
 है	है	VAUX	है	v	any	sg	2	
@@ -1272,8 +1039,6 @@
 दर्ज	दर्ज	JJ	0	n	m	sg	3	d
 किया	कर	VM	या	v	m	sg	any	
 है	है	VAUX	है	v	any	sg	2	
-मेरठ	मेरठ	NN		unk				
-:	:	SYM		punc				
 पत्नी	पत्नी	NN	0	n	f	sg	3	d
 ने	ने	PSP		psp				
 पैसे	पैसा	NN	0	n	m	pl	3	d
@@ -1446,11 +1211,6 @@
 ले	ले	VM	0	v	any	any	any	
 लिया	ले	VAUX	या	v	m	sg	any	
 है	है	VAUX	है	v	any	sg	2	
-''	''	JJ		unk				
-जागरण	जागरण	NN	0	n	m	sg	3	d
-संवाददाता	संवाददाता	NN		unk				
-हिसार	हिसार	NN	0	n	m	sg	3	d
-:	:	SYM		punc				
 नगर	नगर	NN	0	n	m	sg	3	d
 निगम	निगम	NN	0	n	m	sg	3	d
 और	और	CC		adv				
@@ -1509,45 +1269,6 @@
 खूब	खूब	JJ		adj	any	any		any
 लताडा	लताड	VM	या	v	m	sg	any	
 था	था	VAUX	था	v	m	sg	any	
-मगर	मगर	CC	0	n	m	sg	3	d
-अब	अब	PRP		adv				
-विधायक	विधायक	NN	0	n	m	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-ही	ही	RP		adv				
-वार्ड	वार्ड	NN	0	n	m	sg	3	d
-में	में	PSP		psp				
-ऐसा	ऐसा	DEM		adj	m	sg		d
-मामला	मामला	NN	0	n	m	sg	3	d
-सामने	सामना	NST	0	n	m	pl	3	d
-आया	आ	VM	या	v	m	sg	any	
-है	है	VAUX	है	v	any	sg	2	
-यहां	यहाँ	PRP		adv				
-नगर	नगर	NN	0	n	m	sg	3	d
-निगम	निगम	NN	0	n	m	sg	3	d
-ने	ने	PSP		psp				
-कुछ	कुछ	QF		adj	any	any		d
-माह	माह	NN		unk				
-पहले	पहले	NST		adv				
-ही	ही	RP		adv				
-करीब	करीब	RB		adj	any	any		any
-50	50	QC		num				
-लाख	लाख	QC		adj	any	any		any
-रुपये	रुपया	NN	0	n	m	pl	3	d
-की	का	PSP	का	psp	f	sg		d
-लागत	लागत	NN	0	n	f	sg	3	d
-से	से	PSP	0	v	any	any	any	
-सडक	सडक	NN	0	n	f	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-दोनों	दोना	NN	0	n	m	pl	3	o
-और	और	CC		adv				
-इंटरलॉ	इंटरलॉ	XC		unk				
-¨	¨	XC		unk				
-कग	कग	XC		unk				
-टाइल्स	टाइल्स	NN		unk				
-का	का	PSP	का	psp	m	sg		d
-काम	काम	NN	0	n	m	sg	3	d
-करवाया	करवा	VM	या	v	m	sg	any	
-था	था	VAUX	था	v	m	sg	any	
 वहीं	वहीं	PRP		unk				
 इस	इस	DEM		pn	any	sg	3	o
 बारे	बारे	PSP	0	n	m	sg	3	d
@@ -1567,36 +1288,8 @@
 रिपेयर	रिपेयर	NN		unk				
 करवाकर	करवा	VM	कर	v	any	any	any	
 देगा	दे	VAUX	गा	v	m	sg	2	
-बता	बता	VM	0	v	any	any	any	
-दें	दे	VAUX	एं	v	any	pl	1	
-कि	कि	CC		avy				
-नगर	नगर	NN	0	n	m	sg	3	d
-निगम	निगम	NN	0	n	m	sg	3	d
-द्वारा	द्वारा	PSP		psp				
-हाल	हाल	NN	0	n	m	sg	3	d
-ही	ही	RP		adv				
-में	में	PSP		psp				
-घोडा	घोडा	NN	0	n	m	sg	3	d
-फार्म	फार्म	XC		unk				
-रोड	रोड	NNP	0	n	f	sg	3	d
-पर	पर	PSP		psp				
-करवाई	करवा	VM	या	v	f	sg	any	
-गई	गई	VAUX		unk				
-इंटरलॉ	इंटरलॉ	XC		unk				
-¨	¨	XC		unk				
-कग	कग	XC		unk				
-टाइल्स	टाइल्स	NN		unk				
-की	का	PSP	का	psp	f	sg		d
-वाइड	वाइड	XC		unk				
-¨	¨	NNP		unk				
-नग	नग	NN	0	n	m	sg	3	d
-जल्द	जल्द	NN		adj	any	any		any
-ही	ही	RP		adv				
-उखडने	उखड	VM	ना	v	m	pl	any	
-वाली	वाली	VAUX	0	n	f	sg	3	d
-है	है	VAUX	है	v	any	sg	2	
 यहां	यहाँ	PRP		adv				
-जनस्वास्थ्य	जनस्वास्थ्य	JJ		unk				
+जनस्वास्थ्य	जनस्वास्थ्य	NN		unk				
 विभाग	विभाग	NN	0	n	m	sg	3	d
 द्वारा	द्वारा	PSP		psp				
 पाइप	पाइप	NN	0	n	m	sg	3	d
@@ -1626,70 +1319,12 @@
 खर्च	खर्च	NN	0	n	m	sg	3	d
 की	कर	VM	या	v	f	sg	any	
 गई	गई	VAUX		unk				
-लाखों	लाख	NN	0	n	m	pl	3	o
+लाखों	लाख	QC	0	n	m	pl	3	o
 की	का	PSP	का	psp	f	sg		d
 राशि	राशि	NN	0	n	f	sg	3	d
 बेकार	बेकार	JJ		adj	any	any		any
 चली	चल	VM	या	v	f	sg	any	
 जाएगी	जा	VAUX	गा	v	f	sg	2	
-इंटरलॉ	इंटरलॉ	XC		unk				
-¨	¨	XC		unk				
-कग	कग	XC		unk				
-टाइल्स	टाइल्स	NN		unk				
-उखाडकर	उखाड	VM	कर	v	any	any	any	
-दोबारा	दोबारा	XC		adv				
-रोड	रोड	NNP	0	n	f	sg	3	d
-चौडा	चौडा	NN		adj	m	sg		d
-करने	कर	VM	ना	v	m	pl	any	
-में	में	PSP		psp				
-भी	भी	RP		adv				
-काफी	काफी	QF	0	n	f	sg	3	d
-पैसा	पैसा	NN	0	n	m	sg	3	d
-खर्च	खर्च	NN	0	n	m	sg	3	d
-किया	कर	VM	या	v	m	sg	any	
-जाएगा	जा	VAUX	गा	v	m	sg	2	
-इस	इस	DEM		pn	any	sg	3	o
-रोड	रोड	NN	0	n	f	sg	3	d
-की	का	PSP	का	psp	f	sg		d
-वाइड	वाइड	XC		unk				
-¨	¨	NNP		unk				
-नग	नग	NN	0	n	m	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-लिए	ले	PSP	या	v	m	pl	any	
-करीब	करीब	RB		adj	any	any		any
-50	50	QC		num				
-लाख	लाख	QC		adj	any	any		any
-रुपये	रुपया	NN	0	n	m	pl	3	d
-का	का	PSP	का	psp	m	sg		d
-टेंडर	टेंडर	NN	0	n	m	sg	3	d
-लगाया	लगा	VM	या	v	m	sg	any	
-गया	गया	VAUX		unk				
-था	था	VAUX	था	v	m	sg	any	
-यहां	यहाँ	PRP		adv				
-पाइप	पाइप	XC	0	n	m	sg	3	d
-लाइन	लाइन	NNP	0	n	f	sg	3	d
-की	का	PSP	का	psp	f	sg		d
-जानकारी	जानकारी	NN	0	n	f	sg	3	d
-लिए	ले	PSP	या	v	m	pl	any	
-बगैर	बगैर	XC	0	n	m	sg	3	d
-रोड	रोड	NNP	0	n	f	sg	3	d
-की	का	PSP	का	psp	f	sg		d
-वाइड	वाइड	XC		unk				
-¨	¨	XC		unk				
-नग	नग	NN	0	n	m	sg	3	d
-करने	कर	VM	ना	v	m	pl	any	
-से	से	PSP	0	v	any	any	any	
-कुछ	कुछ	QF		adj	any	any		d
-माह	माह	NN		unk				
-में	में	PSP		psp				
-ही	ही	RP		adv				
-नए	नया	JJ		adj	m	sg		o
-रोड	रोड	NNP	0	n	f	sg	3	d
-को	को	PSP		psp				
-उखाडा	उखाडा	VM		v	m	sg	any	
-जा	जा	VAUX	0	v	any	any	any	
-रहा	रह	VAUX	या	v	m	sg	any	
-है	है	VAUX	है	v	any	sg	2	
 क्षेत्रवासियों	क्षेत्रवासियों	NN		unk				
 ने	ने	PSP		psp				
 इस	इस	DEM		pn	any	sg	3	o
@@ -1700,22 +1335,3 @@
 विरोध	विरोध	NN	0	n	m	sg	3	d
 जताया	जता	VM	या	v	m	sg	any	
 है	है	VAUX	है	v	any	sg	2	
-पहले	पहले	NST		adv				
-घोडाफार्म	घोडाफार्म	XC		unk				
-रोड	रोड	NNP	0	n	f	sg	3	d
-पर	पर	PSP		psp				
-बनी	बन	VM	या	v	f	sg	any	
-तारकोल	तारकोल	NNP	0	n	m	sg	3	d
-की	का	PSP	का	psp	f	sg		d
-सडक	सडक	NN	0	n	f	sg	3	d
-के	का	PSP	का	psp	m	sg		o
-दोनों	दोना	NN	0	n	m	pl	3	o
-तरफ	तरफ	NST		adv				
-वॉल	वॉल	NN		unk				
-टू	टू	PSP		unk				
-वॉल	वॉल	XC		unk				
-वाइड	वाइड	XC		unk				
-¨	¨	XC		unk				
-नग	नग	NN	0	n	m	sg	3	d
-करवाई	करवा	VM	या	v	f	sg	any	
-गई	गई	VAUX		unk				
