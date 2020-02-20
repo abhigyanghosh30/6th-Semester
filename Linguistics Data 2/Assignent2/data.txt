@@ -1,0 +1,31 @@
+मध्य प्रदेश भारत का एक राज्य है, इसकी राजधानी भोपाल है।
+<Sentence id="1">
+1   ((  NP  <fs af='प्रदेश,n,m,sg,3,d,0,0' head="प्रदेश">     
+1.1 मध्य NN  <fs af='मध्य,adj,any,any,,any,,'>     
+1.2 प्रदेश    NN  <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+    ))      	      	     
+2   ((  NP  <fs af='भारत,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="भारत">     
+2.1 भारत NNP <fs af='भारत,n,m,sg,3,d,0,0' name="भारत">
+2.2 का   PSP <fs af='का,psp,m,sg,,d,का,का'>    
+    ))      	      	     
+3   ((  NP  <fs af='राज्य,n,m,sg,3,d,0,0' head="राज्य">     
+3.1 एक  QC  <fs af='एक,adj,any,any,,any,,'>     
+3.2 राज्य NN  <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+    ))      	      	     
+4   ((  VGF <fs af='है,v,any,sg,2,,है,hE' head="है_2">     
+4.1 है   VM  <fs af='है,v,any,sg,2,,है,hE' name="है_2">       	      	      	     
+4.2 ,   SYM <fs af='&comma,punc,,,,,,'>     
+    ))      	      	     
+5   ((  NP  <fs af='राजधानी,n,f,sg,3,d,0,0' head="राजधानी">     
+5.1 इसकी PRP <fs af='यह,pn,any,sg,3,o,का,का' agr_gen='f' agr_cas='d' agr_num='sg'>     
+5.2 राजधानी    NN  <fs af='राजधानी,n,f,sg,3,d,0,0' name="राजधानी">     
+    ))      	      	     
+6   ((  NP  <fs af='भोपाल,n,m,sg,3,d,0,0' head="भोपाल">     
+6.1 भोपाल NN  <fs af='भोपाल,n,m,sg,3,d,0,0' name="भोपाल">     
+    ))      	      	     
+7   ((  VGF <fs af='है,v,any,sg,2,,है,hE' head="है">     
+7.1 है   VM  <fs af='है,v,any,sg,2,,है,hE' name="है">     
+7.2 ।   RD_PUNC <fs af='।,punc,,,,,,' name='।'>    
+    ))      	      	     
+</Sentence>
+
