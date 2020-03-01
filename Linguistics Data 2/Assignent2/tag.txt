@@ -1,0 +1,981 @@
+
+<Sentence id="3">			
+1     ((     NP     <fs af='दिन,n,m,sg,3,d,0,0' head="दिन">     
+1.1     इस     DEM     <fs af='यह,pn,any,sg,3,o,0,0'>     
+1.2     दिन     NN     <fs af='दिन,n,m,sg,3,d,0,0' name="दिन">     
+     ))               
+2     ((     NP     <fs af='राज्य,n,m,sg,3,d,0_से,0' vpos="vib2_3"  head="राज्य">     
+2.1     मध्यप्रदेश     XC     <fs af='मध्यप्रदेश,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+     ))               
+3     ((     NP     <fs af='जिला,n,m,pl,3,d,0,0' head="जिले">     
+3.1     14     QC     <fs af='14,num,,,,,,'>     
+3.2     जिले     NN     <fs af='जिला,n,m,pl,3,d,0,0' name="जिले">     
+     ))               
+4     ((     JJP     <fs af='अलग,adj,any,any,,any,,' head="अलग">     
+4.1     अलग     JJ     <fs af='अलग,adj,any,any,,any,,' name="अलग">     
+     ))               
+5     ((     VGNF     <fs af='कर,v,any,any,any,,0,0' head="कर">     
+5.1     कर     VM     <fs af='कर,v,any,any,any,,0,0' name="कर">     
+     ))               
+6     ((     NP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0_का,0' vpos="vib3_4"  head="छत्तीसगढ़">     
+6.1     छत्तीसगढ़     XC     <fs af='छत्तीसगढ़,n,m,sg,3,d,0,0' poslcat="NM">     
+6.2     राज्य     XC     <fs af='राज्य,n,m,sg,3,d,0,0' poslcat="NM">     
+6.3     छत्तीसगढ़     NNP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0,0' name="छत्तीसगढ़">     
+     ))               
+7     ((     NP     <fs af='स्थापना,n,f,sg,3,d,0,0' head="स्थापना">     
+7.1     स्थापना     NN     <fs af='स्थापना,n,f,sg,3,d,0,0' name="स्थापना">     
+     ))               
+8     ((     VGF     <fs af='हो,v,f,sg,any,,या_था,yA' vpos="tam1_2"  head="हुई">     
+8.1     हुई     VM     <fs af='हो,v,f,sg,any,,या,yA' name="हुई">     
+8.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="4">			
+1     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="प्रदेश">     
+1.1     मध्य     JJ     <fs af='मध्य,adj,any,any,,any,,'>     
+1.2     प्रदेश     NN     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+     ))               
+2     ((     NP     <fs af='सीमाऐं,unk,,,,,,' head="सीमाऐं"  poslcat="NM">     
+2.1     सीमाऐं     NN     <fs af='सीमाऐं,unk,,,,,,' name="सीमाऐं"  poslcat="NM">     
+     ))               
+3     ((     NP     <fs af='राज्य,n,m,pl,3,o,0_का,0' vpos="vib2_3"  head="राज्यों">     
+3.1     पांच     QC     <fs af='पांच,adj,any,pl,,d,,'>     
+3.2     राज्यों     NN     <fs af='राज्य,n,m,pl,3,o,0,0' name="राज्यों">     
+     ))               
+4     ((     NP     <fs af='सीमा,n,f,pl,3,o,0_से,0' vpos="vib1_2"  head="सीमाओं">     
+4.1     सीमाओं     NN     <fs af='सीमा,n,f,pl,3,o,0,0' name="सीमाओं">     
+     ))               
+5     ((     VGF     <fs af='मिल,v,f,sg,2,,ता_है,wA' vpos="tam1_2"  head="मिलती">     
+5.1     मिलती     VM     <fs af='मिल,v,f,sg,any,,ता,wA' name="मिलती">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="5">			
+1     ((     NP     <fs af='उत्तर,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head="उत्तर">     
+1.1     इसके     PRP     <fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>     
+1.2     उत्तर     NN     <fs af='उत्तर,n,m,sg,3,d,0,0' name="उत्तर">     
+     ))               
+2     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0,0' head="प्रदेश">     
+2.1     उत्तर     XC     <fs af='उत्तर,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2     प्रदेश     NNP     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+                    
+2.3     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+3     ((     NP     <fs af='पूर्व,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head="पूर्व">     
+3.1     पूर्व     NN     <fs af='पूर्व,n,m,sg,3,d,0,0' name="पूर्व">     
+     ))               
+4     ((     NP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0,0' head="छत्तीसगढ़">     
+4.1     छत्तीसगढ़     NNP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0,0' name="छत्तीसगढ़">     
+                    
+4.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+5     ((     NP     <fs af='दक्षिण,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head="दक्षिण">     
+5.1     दक्षिण     NN     <fs af='दक्षिण,n,m,sg,3,d,0,0' name="दक्षिण">     
+     ))               
+6     ((     JJP     <fs af='महाराष्ट्र,n,m,sg,3,d,0,0' head="महाराष्ट्र"  poslcat="NM">     
+6.1     महाराष्ट्र     JJ     <fs af='महाराष्ट्र,n,m,sg,3,d,0,0' name="महाराष्ट्र"  poslcat="NM">     
+                    
+6.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+7     ((     NP     <fs af='पश्चिम,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head="पश्चिम_2">     
+7.1     पश्चिम     NN     <fs af='पश्चिम,n,m,sg,3,d,0,0' name="पश्चिम_2">     
+     ))               
+8     ((     NP     <fs af='गुजरात,n,m,sg,3,d,0,0' head="गुजरात">     
+8.1     गुजरात     NN     <fs af='गुजरात,n,m,sg,3,d,0,0' name="गुजरात">     
+                    
+8.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+9     ((     CCP     <fs af='तथा,avy,,,,,,' head="तथा">     
+9.1     तथा     CC     <fs af='तथा,avy,,,,,,' name="तथा">     
+     ))               
+10     ((     NP     <fs af='पश्चिम,n,m,sg,3,d,0_में,0' vpos="vib3_4"  head="पश्चिम">     
+10.1     उत्तर     XC     <fs af='उत्तर,n,m,sg,3,d,0,0' poslcat="NM">     
+10.2     -     SYM     <fs af='-,punc,,,,,,'>     
+10.3     पश्चिम     NN     <fs af='पश्चिम,n,m,sg,3,d,0,0' name="पश्चिम">     
+     ))               
+11     ((     NP     <fs af='राजस्थान,n,m,sg,3,d,0,0' head="राजस्थान">     
+11.1     राजस्थान     NNP     <fs af='राजस्थान,n,m,sg,3,d,0,0' name="राजस्थान">     
+     ))               
+12     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+12.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+12.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="6">			
+1     ((     NP     <fs af='संसाधन,n,m,pl,3,o,0_से,0' vpos="vib2_3"  head="संसाधनों">     
+1.1     खनिज     XC     <fs af='खनिज,n,m,sg,3,d,0,0' poslcat="NM">     
+1.2     संसाधनों     NN     <fs af='संसाधन,n,m,pl,3,o,0,0' name="संसाधनों">     
+     ))               
+2     ((     JJP     <fs af='समृद्ध,adj,any,any,,any,,' head="समृद्ध">     
+2.1     समृद्ध     JJ     <fs af='समृद्ध,adj,any,any,,any,,' name="समृद्ध">     
+                    
+2.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+3     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0,0' head="प्रदेश">     
+3.1     मध्य     JJ     <fs af='मध्य,adj,any,any,,any,,'>     
+3.2     प्रदेश     NN     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+     ))               
+4     ((     NP     <fs af='हीरा,n,m,pl,3,d,0,0' head="हीरे">     
+4.1     हीरे     NN     <fs af='हीरा,n,m,pl,3,d,0,0' name="हीरे">     
+     ))               
+5     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+5.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+6     ((     NP     <fs af='तांबा,n,m,pl,3,d,0_का,0' vpos="vib1_2"  head="तांबे">     
+6.1     तांबे     NN     <fs af='तांबा,n,m,pl,3,d,0,0' name="तांबे">     
+     ))               
+7     ((     NP     <fs af='भंडार,n,m,sg,3,d,0,0' head="भंडार">     
+7.1     सबसे     INTF     <fs af='सबसा,adj,m,sg,,o,,' poslcat="NM">     
+7.2     बड़ा     JJ     <fs af='बड़ा,adj,m,sg,,d,,'>     
+7.3     भंडार     NN     <fs af='भंडार,n,m,sg,3,d,0,0' name="भंडार">     
+     ))               
+8     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+8.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+8.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="7">			
+1     ((     NP     <fs af='क्षेत्र,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="क्षेत्र_2">     
+1.1     अपने     PRP     <fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>     
+1.2     क्षेत्र     NN     <fs af='क्षेत्र,n,m,sg,3,d,0,0' name="क्षेत्र_2">     
+     ))               
+2     ((     NP     <fs af='%,punc,,,,,0_से,' vpos="vib2_3"  head="%">     
+2.1     30     QC     <fs af='30,num,,,,,,'>     
+2.2     %     SYM     <fs af='%,punc,,,,,,' name="%">     
+     ))               
+3     ((     NP     <fs af='क्षेत्र,n,m,sg,3,d,0_का,0' vpos="vib3_4"  head="क्षेत्र">     
+3.1     अधिक     QF     <fs af='अधिक,adj,any,any,,any,,'>     
+3.2     वन     XC     <fs af='वन,n,m,sg,3,d,0,0' poslcat="NM">     
+3.3     क्षेत्र     NN     <fs af='क्षेत्र,n,m,sg,3,d,0,0' name="क्षेत्र">     
+     ))               
+4     ((     JJP     <fs af='अधीन,adj,any,any,,any,,' head="अधीन">     
+4.1     अधीन     JJ     <fs af='अधीन,adj,any,any,,any,,' name="अधीन">     
+     ))               
+5     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+5.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="8">			
+1     ((     NP     <fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  head="इसके"  agr_cas='d'  agr_num='pl'>     
+1.1     इसके     PRP     <fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  name="इसके"  agr_cas='d'  agr_num='pl'>     
+     ))               
+2     ((     NP     <fs af='उद्योग,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head="उद्योग">     
+2.1     पर्यटन     XC     <fs af='पर्यटन,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2     उद्योग     NN     <fs af='उद्योग,n,m,sg,3,d,0,0' name="उद्योग">     
+     ))               
+3     ((     NP     <fs af='वृद्धि,n,f,sg,3,d,0,0' head="वृद्धि">     
+3.1     काफी     QF     <fs af='काफी,adj,any,any,,any,,'>     
+3.2     वृद्धि     NN     <fs af='वृद्धि,n,f,sg,3,d,0,0' name="वृद्धि">     
+     ))               
+4     ((     VGF     <fs af='हो,v,f,sg,2,,या_है,yA' vpos="tam1_2"  head="हुई">     
+4.1     हुई     VM     <fs af='हो,v,f,sg,any,,या,yA' name="हुई">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="9">			
+1     ((     NP     <fs af='राज्य,n,m,sg,3,d,0_ने,0' vpos="vib1_2"  head="राज्य">     
+1.1     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+     ))               
+2     ((     NP     <fs af='वर्ष,n,m,sg,3,d,0,0' head="वर्ष">     
+2.1     वर्ष     NN     <fs af='वर्ष,n,m,sg,3,d,0,0' name="वर्ष">     
+     ))               
+3     ((     NP     <fs af='11,num,,,,,0_का_लिये,' vpos="vib3_4_5"  head="11">     
+3.1     2010     XC     <fs af='2010,num,,,,,,' poslcat="NM">     
+3.2     -     SYM     <fs af='-,punc,,,,,,'>     
+3.3     11     QC     <fs af='11,num,,,,,,' name="11">     
+     ))               
+4     ((     NP     <fs af='पर्यटन,n,m,sg,3,d,0,0' head="पर्यटन">     
+4.1     राष्ट्रीय     JJ     <fs af='राष्ट्रीय,adj,any,any,,any,,'>     
+4.2     पर्यटन     NN     <fs af='पर्यटन,n,m,sg,3,d,0,0' name="पर्यटन">     
+     ))               
+5     ((     NP     <fs af='पुरस्कार,n,m,sg,3,d,0,0' head="पुरस्कार">     
+5.1     पुरस्कार     NN     <fs af='पुरस्कार,n,m,sg,3,d,0,0' name="पुरस्कार">     
+     ))               
+6     ((     VGF     <fs af='जीता,v,any,sg,any,,0_था,0' vpos="tam1_2"  head="जीता">     
+6.1     जीता     VM     <fs af='जीता,v,any,any,any,,0,0' name="जीता">     
+6.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="10">			
+1     ((     NP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0,0' head="मध्यप्रदेश">     
+1.1     मध्यप्रदेश     NNP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0,0' name="मध्यप्रदेश">     
+     ))               
+2     ((     NP     <fs af='रूप,n,m,sg,3,d,0_से,0' vpos="vib2_3"  head="रूप">     
+2.1     मुख्य     JJ     <fs af='मुख्य,adj,any,any,,any,,'>     
+2.2     रूप     NN     <fs af='रूप,n,m,sg,3,d,0,0' name="रूप">     
+     ))               
+3     ((     NP     <fs af='पर्यटन,n,m,sg,3,d,0_का_लिए,0' vpos="vib2_3_4_RP"  head="पर्यटन">     
+3.1     अपने     PRP     <fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>     
+3.2     पर्यटन     NN     <fs af='पर्यटन,n,m,sg,3,d,0,0' name="पर्यटन">     
+3.3     भी     RP     <fs af='भी,avy,,,,,,'>     
+     ))               
+4     ((     VGF     <fs af='जा,v,m,sg,2,,ना_जा+ता_है,nA' vpos="tam1_2_3"  head="जाना">     
+4.1     जाना     VM     <fs af='जा,v,m,sg,any,,ना,nA' name="जाना">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="11">			
+1     ((     NP     <fs af='पूर्व,adv,,,,,0_पूर्व,' vpos="vib2_2"  head="पूर्व"  poslcat="NM">     
+1.1     स्वत्रंता     NN     <fs af='स्वत्रंता,unk,,,,,,' poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='क्षेत्र,n,m,sg,3,d,0,0' head="क्षेत्र">     
+2.1     मध्य     JJ     <fs af='मध्य,adj,any,any,,any,,'>     
+2.2     प्रदेश     XC     <fs af='प्रदेश,n,m,sg,3,d,0,0' poslcat="NM">     
+2.3     क्षेत्र     NN     <fs af='क्षेत्र,n,m,sg,3,d,0,0' name="क्षेत्र">     
+     ))               
+3     ((     NP     <fs af='स्वरूप,n,m,sg,3,d,0_से,0' vpos="vib3_4"  head="स्वरूप">     
+3.1     अपने     PRP     <fs af='अपना,pn,any,sg,1,o,का,kA' agr_gen='m'  agr_cas='d'  agr_num='pl'>     
+3.2     वर्तमान     JJ     <fs af='वर्तमान,adj,any,any,,any,,'>     
+3.3     स्वरूप     NN     <fs af='स्वरूप,n,m,sg,3,d,0,0' name="स्वरूप">     
+     ))               
+4     ((     JJP     <fs af='अलग,adj,any,any,,any,,' head="अलग">     
+4.1     काफी     INTF     <fs af='काफी,adv,,,,,,' poslcat="NM">     
+4.2     अलग     JJ     <fs af='अलग,adj,any,any,,any,,' name="अलग">     
+     ))               
+5     ((     VGF     <fs af='था,v,m,sg,any,,था,WA' head="था">     
+5.1     था     VM     <fs af='था,v,m,sg,any,,था,WA' name="था">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="12">			
+1     ((     NP     <fs af='तब,adv,,,,,,' head="तब"  poslcat="NM">     
+1.1     तब     PRP     <fs af='तब,adv,,,,,,' name="तब"  poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='यह,pn,any,sg,3,d,0,0' head="यह">     
+2.1     यह     PRP     <fs af='यह,pn,any,sg,3,d,0,0' name="यह">     
+     ))               
+3     ((     NP     <fs af='हिस्सा,n,m,pl,3,o,0_में,0' vpos="vib4_5"  head="हिस्सों">     
+3.1     3     QC     <fs af='3,num,,,,,,'>     
+3.2     -     SYM     <fs af='-,punc,,,,,,'>     
+3.3     4     QC     <fs af='4,num,,,,,,'>     
+3.4     हिस्सों     NN     <fs af='हिस्सा,n,m,pl,3,o,0,0' name="हिस्सों">     
+     ))               
+4     ((     VGF     <fs af='बट,v,m,sg,any,,या_हो+या_था,yA' vpos="tam1_2_3"  head="बटा">     
+4.1     बटा     VM     <fs af='बट,v,m,sg,any,,या,yA' name="बटा">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="13">			
+1     ((     NP     <fs af='तब,adv,,,,,,' head="तब"  poslcat="NM">     
+1.1     तब     PRP     <fs af='तब,adv,,,,,,' name="तब"  poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='राजधानी,n,f,sg,3,d,0,0' head="राजधानी">     
+2.1     इसकी     PRP     <fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>     
+2.2     राजधानी     NN     <fs af='राजधानी,n,f,sg,3,d,0,0' name="राजधानी">     
+     ))               
+3     ((     NP     <fs af='नागपुर,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head="नागपुर">     
+3.1     नागपुर     NNP     <fs af='नागपुर,n,m,sg,3,d,0,0' name="नागपुर">     
+     ))               
+4     ((     VGF     <fs af='था,v,f,sg,any,,था,WA' head="थी">     
+4.1     थी     VM     <fs af='था,v,f,sg,any,,था,WA' name="थी">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="14">			
+1     ((     NP     <fs af='शैली,n,f,sg,3,d,0,0' head="शैली">     
+1.1     जीवन     XC     <fs af='जीवन,n,m,sg,3,d,0,0' poslcat="NM">     
+1.2     शैली     NN     <fs af='शैली,n,f,sg,3,d,0,0' name="शैली">     
+                    
+1.3     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+2     ((     NP     <fs af='कला,n,f,sg,3,d,0,0' head="कला">     
+2.1     कला     NN     <fs af='कला,n,f,sg,3,d,0,0' name="कला">     
+                    
+2.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+3     ((     NP     <fs af='साहित्य,n,m,sg,3,d,0,0' head="साहित्य">     
+3.1     साहित्य     NN     <fs af='साहित्य,n,m,sg,3,d,0,0' name="साहित्य">     
+     ))               
+4     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+4.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+5     ((     NP     <fs af='परम्परा,n,f,sg,3,d,0,0' head="परम्परा">     
+5.1     वाचिक     JJ     <fs af='वाचिक,adj,any,any,,any,,'>     
+5.2     परम्परा     NN     <fs af='परम्परा,n,f,sg,3,d,0,0' name="परम्परा">     
+     ))               
+6     ((     VGNF     <fs af='मिल,v,any,any,any,,कर,kara' head="मिलकर">     
+6.1     मिलकर     VM     <fs af='मिल,v,any,any,any,,कर,kara' name="मिलकर">     
+     ))               
+7     ((     NP     <fs af='कोई,pn,any,sg,3,o,0,0' head="किसी">     
+7.1     किसी     PRP     <fs af='कोई,pn,any,sg,3,o,0,0' name="किसी">     
+     ))               
+8     ((     NP     <fs af='अंचल,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="अंचल">     
+8.1     अंचल     NN     <fs af='अंचल,n,m,sg,3,d,0,0' name="अंचल">     
+     ))               
+9     ((     NP     <fs af='पहचान,n,f,sg,3,d,0,0' head="पहचान">     
+9.1     सांस्कृतिक     JJ     <fs af='सांस्कृतिक,adj,any,any,,any,,'>     
+9.2     पहचान     NN     <fs af='पहचान,n,f,sg,3,d,0,0' name="पहचान">     
+     ))               
+10     ((     VGF     <fs af='बना,v,f,sg,2,,ता_है,wA' vpos="tam1_2"  head="बनाती">     
+10.1     बनाती     VM     <fs af='बना,v,f,sg,any,,ता,wA' name="बनाती">     
+10.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="15">			
+1     ((     NP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="मध्यप्रदेश">     
+1.1     मध्यप्रदेश     NNP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0,0' name="मध्यप्रदेश">     
+     ))               
+2     ((     NP     <fs af='संस्कृति,n,f,sg,3,d,0,0' head="संस्कृति">     
+2.1     संस्कृति     NN     <fs af='संस्कृति,n,f,sg,3,d,0,0' name="संस्कृति">     
+     ))               
+3     ((     JJP     <fs af='विविधवर्णी,unk,,,,,,' head="विविधवर्णी"  poslcat="NM">     
+3.1     विविधवर्णी     JJ     <fs af='विविधवर्णी,unk,,,,,,' name="विविधवर्णी"  poslcat="NM">     
+     ))               
+4     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+4.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="16">			
+1     ((     NP     <fs af='गुजरात,n,m,sg,3,d,0,0' head="गुजरात">     
+1.1     गुजरात     NN     <fs af='गुजरात,n,m,sg,3,d,0,0' name="गुजरात">     
+                    
+1.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+2     ((     NP     <fs af='महाराष्ट्र,n,m,sg,3,d,0,0' head="महाराष्ट्र">     
+2.1     महाराष्ट्र     NN     <fs af='महाराष्ट्र,n,m,sg,3,d,0,0' name="महाराष्ट्र">     
+     ))               
+3     ((     CCP     <fs af='अथवा,avy,,,,,,' head="अथवा">     
+3.1     अथवा     CC     <fs af='अथवा,avy,,,,,,' name="अथवा">     
+     ))               
+4     ((     NP     <fs af='उड़ीसा,n,m,sg,,d,0_का,0' vpos="vib1_2"  head="उड़ीसा">     
+4.1     उड़ीसा     NNP     <fs af='उड़ीसा,n,m,sg,,d,0,0' name="उड़ीसा">     
+     ))               
+5     ((     NP     <fs af='तरह,n,m,sg,3,d,0,0' head="तरह">     
+5.1     तरह     NN     <fs af='तरह,n,m,sg,3,d,0,0' name="तरह">     
+     ))               
+6     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0_को,0' vpos="vib2_3"  head="प्रदेश">     
+6.1     इस     DEM     <fs af='यह,pn,any,sg,3,o,0,0'>     
+6.2     प्रदेश     NN     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+     ))               
+7     ((     NP     <fs af='कोई,pn,any,sg,3,o,0,0' head="किसी">     
+7.1     किसी     PRP     <fs af='कोई,pn,any,sg,3,o,0,0' name="किसी">     
+     ))               
+8     ((     NP     <fs af='संस्कृति,n,f,sg,3,d,0_में,0' vpos="vib2_3"  head="संस्कृति">     
+8.1     भाषाई     JJ     <fs af='भाषाई,adj,any,any,,any,,'>     
+8.2     संस्कृति     NN     <fs af='संस्कृति,n,f,sg,3,d,0,0' name="संस्कृति">     
+     ))               
+9     ((     VGF     <fs af='पहचान,v,m,sg,any,,नहीं_या_जा+ता,yA' vpos="NEG1_tam2_3"  head="पहचाना">     
+9.1     पहचाना     VM     <fs af='पहचान,v,m,sg,any,,या,yA' name="पहचाना">     
+9.2     ।     SYM     <fs af='.,punc,,,,,,' name="।">     
+     ))               
+</Sentence>			
+
+<Sentence id="17">			
+1     ((     NP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0,0' head="मध्यप्रदेश">     
+1.1     मध्यप्रदेश     NNP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0,0' name="मध्यप्रदेश">     
+     ))               
+2     ((     NP     <fs af='लोक,n,m,sg,3,d,0,0' head="लोक">     
+2.1     विभिन्न     JJ     <fs af='विभिन्न,adj,any,any,,any,,'>     
+2.2     लोक     NN     <fs af='लोक,n,m,sg,3,d,0,0' name="लोक">     
+     ))               
+3     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+3.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+4     ((     NP     <fs af='संस्कृति,n,f,pl,3,o,0_का,0' vpos="vib2_3"  head="संस्कृतियों">     
+4.1     जनजातीय     JJ     <fs af='जनजातीय,adj,any,any,,any,,'>     
+4.2     संस्कृतियों     NN     <fs af='संस्कृति,n,f,pl,3,o,0,0' name="संस्कृतियों">     
+     ))               
+5     ((     NP     <fs af='समागम,n,m,sg,3,d,0,0' head="समागम">     
+5.1     समागम     NN     <fs af='समागम,n,m,sg,3,d,0,0' name="समागम">     
+     ))               
+6     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+6.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+6.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="18">			
+1     ((     NP     <fs af='यहाँ,adv,,,,,,' head="यहाँ"  poslcat="NM">     
+1.1     यहाँ     PRP     <fs af='यहाँ,adv,,,,,,' name="यहाँ"  poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='संस्कृति,n,f,sg,3,d,0,0' head="संस्कृति">     
+2.1     कोई     PRP     <fs af='कोई,pn,any,sg,3,d,0,0'>     
+2.2     एक     QC     <fs af='एक,adj,any,any,,any,,'>     
+2.3     लोक     XC     <fs af='लोक,n,m,sg,3,d,0,0' poslcat="NM">     
+2.4     संस्कृति     NN     <fs af='संस्कृति,n,f,sg,3,d,0,0' name="संस्कृति">     
+     ))               
+3     ((     VGF     <fs af='है,v,any,sg,2,,नहीं_है,hE' vpos="NEG1_tam2"  head="है">     
+3.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+3.2     ।     SYM     <fs af='.,punc,,,,,,' name="।">     
+     ))               
+</Sentence>			
+
+<Sentence id="19">			
+1     ((     NP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="मध्यप्रदेश">     
+1.1     निमाड़     XC     <fs af='निमाड़,unk,,,,,,' poslcat="NM">     
+1.2     मध्यप्रदेश     NNP     <fs af='मध्यप्रदेश,n,m,sg,3,d,0,0' name="मध्यप्रदेश">     
+     ))               
+2     ((     NP     <fs af='अंचल,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head="अंचल">     
+2.1     पश्चिमी     JJ     <fs af='पश्चिमी,adj,any,any,,any,,'>     
+2.2     अंचल     NN     <fs af='अंचल,n,m,sg,3,d,0,0' name="अंचल">     
+     ))               
+3     ((     JJP     <fs af='स्थित,adj,any,any,,any,,' head="स्थित">     
+3.1     स्थित     JJ     <fs af='स्थित,adj,any,any,,any,,' name="स्थित">     
+     ))               
+4     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+4.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="20">			
+1     ((     NP     <fs af='बाद,adv,,,,,0_में,' vpos="vib1_2"  head="बाद"  poslcat="NM">     
+1.1     बाद     NST     <fs af='बाद,adv,,,,,,' name="बाद"  poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+2.1     इसे     PRP     <fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+     ))               
+3     ((     NP     <fs af='निमाड़,unk,,,,,0_का,' vpos="vib1_2"  head="निमाड़"  poslcat="NM">     
+3.1     निमाड़     NN     <fs af='निमाड़,unk,,,,,,' name="निमाड़"  poslcat="NM">     
+     ))               
+4     ((     NP     <fs af='संज्ञा,n,f,sg,3,d,0,0' head="संज्ञा">     
+4.1     संज्ञा     NN     <fs af='संज्ञा,n,f,sg,3,d,0,0' name="संज्ञा">     
+     ))               
+5     ((     VGF     <fs af='दे,v,f,sg,any,,या_जा+या1,yA' vpos="tam1_2"  head="दी">     
+5.1     दी     VM     <fs af='दे,v,f,sg,any,,या,yA' name="दी">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="21">			
+1     ((     RBP     <fs af='फिर,adv,,,,,,' head="फिर">     
+1.1     फिर     RB     <fs af='फिर,adv,,,,,,' name="फिर">     
+     ))               
+2     ((     NP     <fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+2.1     इसे     PRP     <fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+     ))               
+3     ((     JJP     <fs af='पूर्वी,adj,any,any,,any,,' head="पूर्वी">     
+3.1     पूर्वी     JJ     <fs af='पूर्वी,adj,any,any,,any,,' name="पूर्वी">     
+     ))               
+4     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+4.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+5     ((     NP     <fs af='निमाड़,unk,,,,,0_का,' vpos="vib2_3"  head="निमाड़"  poslcat="NM">     
+5.1     पश्चिमी     JJ     <fs af='पश्चिमी,adj,any,any,,any,,'>     
+5.2     निमाड़     NN     <fs af='निमाड़,unk,,,,,,' name="निमाड़"  poslcat="NM">     
+     ))               
+6     ((     NP     <fs af='रूप,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head="रूप">     
+6.1     रूप     NN     <fs af='रूप,n,m,sg,3,d,0,0' name="रूप">     
+     ))               
+7     ((     VGF     <fs af='जा,v,any,any,any,,ना_जान+ए_लगा,nA' vpos="tam1_2_3"  head="जाना">     
+7.1     जाना     VM     <fs af='जा,v,m,sg,any,,ना,nA' name="जाना">     
+7.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="22">			
+1     ((     NP     <fs af='मालवा,n,m,sg,3,d,0,0' head="मालवा">     
+1.1     मालवा     NN     <fs af='मालवा,n,m,sg,3,d,0,0' name="मालवा">     
+     ))               
+2     ((     NP     <fs af='कालिदास,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="कालिदास">     
+2.1     महाकवि     XC     <fs af='महाकवि,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2     कालिदास     NNP     <fs af='कालिदास,n,m,sg,3,d,0,0' name="कालिदास">     
+     ))               
+3     ((     NP     <fs af='धरती,n,f,sg,3,d,0,0' head="धरती">     
+3.1     धरती     NN     <fs af='धरती,n,f,sg,3,d,0,0' name="धरती">     
+     ))               
+4     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+4.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="23">			
+1     ((     NP     <fs af='यहाँ,adv,,,,,0_का,' vpos="vib1_2"  head="यहाँ"  poslcat="NM">     
+1.1     यहाँ     PRP     <fs af='यहाँ,adv,,,,,,' name="यहाँ"  poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='धरती,n,f,sg,3,d,0,0' head="धरती">     
+2.1     धरती     NN     <fs af='धरती,n,f,sg,3,d,0,0' name="धरती">     
+     ))               
+3     ((     JJP     <fs af='हरा,adj,f,any,,any,,' head="हरी">     
+3.1     हरी     JJ     <fs af='हरा,adj,f,any,,any,,' name="हरी">     
+3.2     -     SYM     <fs af='-,punc,,,,,,'>     
+     ))               
+4     ((     VGF     <fs af='भर,v,f,sg,any,,या,yA' head="भरी">     
+4.1     भरी     VM     <fs af='भर,v,f,sg,any,,या,yA' name="भरी">     
+                    
+4.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+5     ((     NP     <fs af='धान्य,n,m,sg,3,d,0_से,0' vpos="vib3_4"  head="धान्य">     
+5.1     धन     XC     <fs af='धन,n,m,sg,3,d,0,0' poslcat="NM">     
+5.2     -     SYM     <fs af='-,punc,,,,,,'>     
+5.3     धान्य     NN     <fs af='धान्य,n,m,sg,3,d,0,0' name="धान्य">     
+     ))               
+6     ((     JJP     <fs af='भरपूर,adj,any,any,,any,,' head="भरपूर">     
+6.1     भरपूर     JJ     <fs af='भरपूर,adj,any,any,,any,,' name="भरपूर">     
+     ))               
+7     ((     VGF     <fs af='रह,v,f,sg,2,,या_है,yA' vpos="tam1_2"  head="रही">     
+7.1     रही     VM     <fs af='रह,v,f,sg,any,,या,yA' name="रही">     
+7.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="24">			
+1     ((     NP     <fs af='यहाँ,adv,,,,,0_का,' vpos="vib1_2"  head="यहाँ"  poslcat="NM">     
+1.1     यहाँ     PRP     <fs af='यहाँ,adv,,,,,,' name="यहाँ"  poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='लोग,n,m,pl,3,o,0_ने,0' vpos="vib1_2"  head="लोगों">     
+2.1     लोगों     NN     <fs af='लोग,n,m,pl,3,o,0,0' name="लोगों">     
+     ))               
+3     ((     NP     <fs af='भी,avy,,,,,,' head="भी">     
+3.1     कभी     PRP     <fs af='कभी,adv,,,,,,' poslcat="NM">     
+3.2     भी     RP     <fs af='भी,avy,,,,,,' name="भी">     
+     ))               
+4     ((     NP     <fs af='अकाल,n,m,sg,3,d,0_को,0' vpos="vib1_2"  head="अकाल">     
+4.1     अकाल     NN     <fs af='अकाल,n,m,sg,3,d,0,0' name="अकाल">     
+     ))               
+5     ((     VGF     <fs af='देख,v,m,sg,any,,नहीं_या,yA' vpos="NEG1_tam2"  head="देखा">     
+5.1     देखा     VM     <fs af='देख,v,m,sg,any,,या,yA' name="देखा">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,' name="।">     
+     ))               
+</Sentence>			
+
+<Sentence id="25">			
+1     ((     NP     <fs af='बघेलखण्ड,unk,,,,,0_का,' vpos="vib1_2"  head="बघेलखण्ड"  poslcat="NM">     
+1.1     बघेलखण्ड     NN     <fs af='बघेलखण्ड,unk,,,,,,' name="बघेलखण्ड"  poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='धरती,n,f,sg,3,d,0_का,0' vpos="vib1_2"  head="धरती">     
+2.1     धरती     NN     <fs af='धरती,n,f,sg,3,d,0,0' name="धरती">     
+     ))               
+3     ((     NP     <fs af='सम्बन्ध,n,m,sg,3,d,0,0' head="सम्बन्ध">     
+3.1     सम्बन्ध     NN     <fs af='सम्बन्ध,n,m,sg,3,d,0,0' name="सम्बन्ध">     
+     ))               
+4     ((     NP     <fs af='संस्कृति,n,f,sg,3,d,0_से,0' vpos="vib4_5"  head="संस्कृति">     
+4.1     अति     INTF     <fs af='अति,n,f,sg,3,d,0,0' poslcat="NM">     
+4.2     प्राचीन     JJ     <fs af='प्राचीन,adj,any,any,,any,,'>     
+4.3     भारतीय     JJ     <fs af='भारतीय,adj,any,any,,any,,'>     
+4.4     संस्कृति     NN     <fs af='संस्कृति,n,f,sg,3,d,0,0' name="संस्कृति">     
+     ))               
+5     ((     VGF     <fs af='रह,v,m,sg,2,,या_है,yA' vpos="tam1_2"  head="रहा">     
+5.1     रहा     VM     <fs af='रह,v,m,sg,any,,या,yA' name="रहा">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="26">			
+1     ((     NP     <fs af='भाग,n,m,sg,3,d,0,0' head="भाग">     
+1.1     यह     DEM     <fs af='यह,pn,any,sg,3,d,0,0'>     
+1.2     भू     XC     <fs af='भू,n,f,sg,3,d,0,0' poslcat="NM">     
+1.3     -     SYM     <fs af='-,punc,,,,,,'>     
+1.4     भाग     NN     <fs af='भाग,n,m,sg,3,d,0,0' name="भाग">     
+     ))               
+2     ((     NP     <fs af='रामायणकाल,unk,,,,,0_में,' vpos="vib1_2"  head="रामायणकाल"  poslcat="NM">     
+2.1     रामायणकाल     NN     <fs af='रामायणकाल,unk,,,,,,' name="रामायणकाल"  poslcat="NM">     
+     ))               
+3     ((     NP     <fs af='प्रान्त,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="प्रान्त">     
+3.1     कोसल     JJ     <fs af='कोसल,unk,,,,,,' poslcat="NM">     
+3.2     प्रान्त     NN     <fs af='प्रान्त,n,m,sg,3,d,0,0' name="प्रान्त">     
+     ))               
+4     ((     JJP     <fs af='अन्तर्गत,adj,any,any,,any,,' head="अन्तर्गत">     
+4.1     अन्तर्गत     JJ     <fs af='अन्तर्गत,adj,any,any,,any,,' name="अन्तर्गत">     
+     ))               
+5     ((     VGF     <fs af='था,v,m,sg,any,,था,WA' head="था">     
+5.1     था     VM     <fs af='था,v,m,sg,any,,था,WA' name="था">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="27">			
+1     ((     NP     <fs af='संभाग,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="संभाग">     
+1.1     जबलपुर     XC     <fs af='जबलपुर,n,m,sg,3,d,0,0' poslcat="NM">     
+1.2     संभाग     NN     <fs af='संभाग,n,m,sg,3,d,0,0' name="संभाग">     
+     ))               
+2     ((     NP     <fs af='हिस्सा,n,m,sg,3,d,0,0' head="हिस्सा">     
+2.1     संपूर्ण     JJ     <fs af='संपूर्ण,adj,any,any,,any,,'>     
+2.2     हिस्सा     NN     <fs af='हिस्सा,n,m,sg,3,d,0,0' name="हिस्सा">     
+     ))               
+3     ((     JJP     <fs af='महाकोशल,unk,,,,,,' head="महाकोशल"  poslcat="NM">     
+3.1     महाकोशल     JJ     <fs af='महाकोशल,unk,,,,,,' name="महाकोशल"  poslcat="NM">     
+     ))               
+4     ((     VGF     <fs af='कहला,v,m,sg,2,,ता_है,wA' vpos="tam1_2"  head="कहलाता">     
+4.1     कहलाता     VM     <fs af='कहला,v,m,sg,any,,ता,wA' name="कहलाता">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="28">			
+1     ((     NP     <fs af='नदी,n,f,sg,3,d,0,0' head="नदी">     
+1.1     नर्मदा     JJ     <fs af='नर्मदा,n,f,sg,3,d,0,0' poslcat="NM">     
+1.2     नदी     NN     <fs af='नदी,n,f,sg,3,d,0,0' name="नदी">     
+     ))               
+2     ((     NP     <fs af='किनारा,n,m,pl,3,d,0,0' head="किनारे">     
+2.1     किनारे     NN     <fs af='किनारा,n,m,pl,3,d,0,0' name="किनारे">     
+     ))               
+3     ((     VGNF     <fs af='बस,v,m,sg,any,,या,yA' head="बसा">     
+3.1     बसा     VM     <fs af='बस,v,m,sg,any,,या,yA' name="बसा">     
+     ))               
+4     ((     NP     <fs af='क्षेत्र,n,m,sg,3,d,0,0' head="क्षेत्र">     
+4.1     यह     DEM     <fs af='यह,pn,any,sg,3,d,0,0'>     
+4.2     क्षेत्र     NN     <fs af='क्षेत्र,n,m,sg,3,d,0,0' name="क्षेत्र">     
+     ))               
+5     ((     JJP     <fs af='सांस्कृतिक,adj,any,any,,any,,' head="सांस्कृतिक">     
+5.1     सांस्कृतिक     JJ     <fs af='सांस्कृतिक,adj,any,any,,any,,' name="सांस्कृतिक">     
+     ))               
+6     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+6.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+7     ((     JJP     <fs af='प्राकृतिक,adj,any,any,,any,,' head="प्राकृतिक">     
+7.1     प्राकृतिक     JJ     <fs af='प्राकृतिक,adj,any,any,,any,,' name="प्राकृतिक">     
+     ))               
+8     ((     NP     <fs af='समृद्धता,n,f,sg,3,d,0_में,0' vpos="vib1_2"  head="समृद्धता">     
+8.1     समृद्धता     NN     <fs af='समृद्धता,n,f,sg,3,d,0,0' name="समृद्धता">     
+     ))               
+9     ((     VGF     <fs af='धनी,n,m,sg,2,d,0_है,0' vpos="tam1_2"  head="धनी"  poslcat="NM">     
+9.1     धनी     VM     <fs af='धनी,n,m,sg,3,d,0,0' name="धनी"  poslcat="NM">     
+9.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="29">			
+1     ((     NP     <fs af='क्षेत्र,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="क्षेत्र">     
+1.1     इस     DEM     <fs af='यह,pn,any,sg,3,o,0,0'>     
+1.2     क्षेत्र     NN     <fs af='क्षेत्र,n,m,sg,3,d,0,0' name="क्षेत्र">     
+     ))               
+2     ((     NP     <fs af='केंद्र,n,m,sg,3,d,0,0' head="केंद्र">     
+2.1     सांस्कृतिक     JJ     <fs af='सांस्कृतिक,adj,any,any,,any,,'>     
+2.2     -     SYM     <fs af='-,punc,,,,,,'>     
+2.3     आर्थिक     JJ     <fs af='आर्थिक,adj,any,any,,any,,'>     
+2.4     केंद्र     NN     <fs af='केंद्र,n,m,sg,3,d,0,0' name="केंद्र">     
+     ))               
+3     ((     NP     <fs af='शहर,n,m,sg,3,d,0,0' head="शहर">     
+3.1     ग्वालियर     JJ     <fs af='ग्वालियर,n,m,sg,3,d,0,0' poslcat="NM">     
+3.2     शहर     NN     <fs af='शहर,n,m,sg,3,d,0,0' name="शहर">     
+     ))               
+4     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+4.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+4.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="30">			
+1     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head="प्रदेश">     
+1.1     मध्य     JJ     <fs af='मध्य,adj,any,any,,any,,'>     
+1.2     प्रदेश     NN     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+     ))               
+2     ((     NP     <fs af='जलवायु,n,f,sg,3,d,0,0' head="जलवायु">     
+2.1     उपोष्णकटिबंधीय     JJ     <fs af='उपोष्णकटिबंधीय,adj,any,any,,any,,'>     
+2.2     जलवायु     NN     <fs af='जलवायु,n,f,sg,3,d,0,0' name="जलवायु">     
+     ))               
+3     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+3.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+3.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="31">			
+1     ((     NP     <fs af='राज्य,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="राज्य">     
+1.1     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+     ))               
+2     ((     NP     <fs af='जंगला,n,m,pl,3,o,0_में,0' vpos="vib1_2"  head="जंगलों">     
+2.1     जंगलों     NN     <fs af='जंगला,n,m,pl,3,o,0,0' name="जंगलों">     
+     ))               
+3     ((     NP     <fs af='सागौन,n,m,sg,3,d,0,0' head="सागौन">     
+3.1     सागौन     NN     <fs af='सागौन,n,m,sg,3,d,0,0' name="सागौन">     
+     ))               
+4     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+4.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+5     ((     NP     <fs af='साल,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="साल">     
+5.1     साल     NN     <fs af='साल,n,m,sg,3,d,0,0' name="साल">     
+     ))               
+6     ((     NP     <fs af='बहुतायत,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head="बहुतायत">     
+6.1     पेड़     XC     <fs af='पेड़,n,m,sg,3,d,0,0' poslcat="NM">     
+6.2     बहुतायत     NN     <fs af='बहुतायत,n,m,sg,3,d,0,0' name="बहुतायत">     
+     ))               
+7     ((     VGF     <fs af='पा,v,m,pl,1,,ए_जा+ता_है,e' vpos="tam1_2_3"  head="पाये">     
+7.1     पाये     VM     <fs af='पा,v,any,sg,2,,ए,e' name="पाये">     
+7.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="32">			
+1     ((     NP     <fs af='नदी,n,f,sg,3,d,0,0' head="नदी">     
+1.1     नर्मदा     JJ     <fs af='नर्मदा,n,f,sg,3,d,0,0' poslcat="NM">     
+1.2     नदी     NN     <fs af='नदी,n,f,sg,3,d,0,0' name="नदी">     
+     ))               
+2     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head="प्रदेश">     
+2.1     मध्य     JJ     <fs af='मध्य,adj,any,any,,any,,'>     
+2.2     प्रदेश     NN     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+     ))               
+3     ((     JJP     <fs af='प्रमुख,adj,any,any,,any,,' head="प्रमुख">     
+3.1     सबसे     INTF     <fs af='सबसा,adj,m,sg,,o,,' poslcat="NM">     
+3.2     प्रमुख     JJ     <fs af='प्रमुख,adj,any,any,,any,,' name="प्रमुख">     
+     ))               
+4     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+4.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+5     ((     JJP     <fs af='लंबा,adj,f,any,,any,,' head="लंबी">     
+5.1     लंबी     JJ     <fs af='लंबा,adj,f,any,,any,,' name="लंबी">     
+     ))               
+</Sentence>			
+
+<Sentence id="33">			
+1     ((     NP     <fs af='नदी,n,f,sg,3,d,0,0' head="नदी">     
+1.1     ताप्ती     JJ     <fs af='ताप्ती,n,f,sg,3,d,0,0' poslcat="NM">     
+1.2     नदी     NN     <fs af='नदी,n,f,sg,3,d,0,0' name="नदी">     
+1.3     भी     RP     <fs af='भी,avy,,,,,,'>     
+     ))               
+2     ((     NP     <fs af='नर्मदा,n,f,sg,3,d,0_का,0' vpos="vib1_2"  head="नर्मदा">     
+2.1     नर्मदा     NN     <fs af='नर्मदा,n,f,sg,3,d,0,0' name="नर्मदा">     
+2.2     समानांतर     PSP:?     <fs af='समानांतर,n,m,sg,3,d,0,0' poslcat="NM">     
+                    
+2.3     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+3     ((     NP     <fs af='घाटी,n,f,sg,3,d,0_का,0' vpos="vib2_3"  head="घाटी">     
+3.1     दरार     XC     <fs af='दरार,n,f,sg,3,d,0,0' poslcat="NM">     
+3.2     घाटी     NNP     <fs af='घाटी,n,f,sg,3,d,0,0' name="घाटी">     
+     ))               
+4     ((     NP     <fs af='माध्यम,n,m,sg,3,d,0_से,0' vpos="vib1_2"  head="माध्यम">     
+4.1     माध्यम     NN     <fs af='माध्यम,n,m,sg,3,d,0,0' name="माध्यम">     
+     ))               
+5     ((     VGF     <fs af='बह,v,f,pl,1,,ता_है,wA' vpos="tam1_2"  head="बहती">     
+5.1     बहती     VM     <fs af='बह,v,f,sg,any,,ता,wA' name="बहती">     
+5.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="34">			
+1     ((     NP     <fs af='सोन,n,m,sg,3,d,0,0' head="सोन">     
+1.1     सोन     NN     <fs af='सोन,n,m,sg,3,d,0,0' name="सोन">     
+     ))               
+2     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+2.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+3     ((     NP     <fs af='सहायक,n,m,sg,3,d,0,0' head="सहायक">     
+3.1     उसकी     PRP     <fs af='वह,pn,any,sg,3,o,का,kA' agr_gen='f'  agr_cas='d'  agr_num='sg'>     
+3.2     सहायक     NN     <fs af='सहायक,n,m,sg,3,d,0,0' name="सहायक">     
+     ))               
+4     ((     NP     <fs af='नदिया,n,f,pl,3,o,0,0' head="नदियों">     
+4.1     नदियों     NN     <fs af='नदिया,n,f,pl,3,o,0,0' name="नदियों">     
+                    
+4.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+5     ((     NP     <fs af='गंगा,n,f,sg,3,d,0_में,0' vpos="vib1_2"  head="गंगा">     
+5.1     गंगा     NN     <fs af='गंगा,n,f,sg,3,d,0,0' name="गंगा">     
+     ))               
+6     ((     NP     <fs af='मानसून,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="मानसून">     
+6.1     मानसून     NN     <fs af='मानसून,n,m,sg,3,d,0,0' name="मानसून">     
+     ))               
+7     ((     NP     <fs af='अथाह,adj,any,any,,any,,' head="अथाह"  poslcat="NM">     
+7.1     अथाह     NN     <fs af='अथाह,adj,any,any,,any,,' name="अथाह"  poslcat="NM">     
+     ))               
+8     ((     JJP     <fs af='प्रवाहित,adj,any,any,,any,,' head="प्रवाहित">     
+8.1     जल     XC     <fs af='जल,n,m,sg,3,d,0,0' poslcat="NM">     
+8.2     प्रवाहित     JJ     <fs af='प्रवाहित,adj,any,any,,any,,' name="प्रवाहित">     
+     ))               
+9     ((     VGF     <fs af='कर,v,f,sg,any,,ता_हैंं,wA' vpos="tam1_2"  head="करती">     
+9.1     करती     VM     <fs af='कर,v,f,sg,any,,ता,wA' name="करती">     
+9.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="35">			
+1     ((     NP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0,0' head="छत्तीसगढ़_2">     
+1.1     छत्तीसगढ़     NNP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0,0' name="छत्तीसगढ़_2">     
+     ))               
+2     ((     NP     <fs af='राज्य,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="राज्य">     
+2.1     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+     ))               
+3     ((     NP     <fs af='बाद,adv,,,,,0_का_बाद,' vpos="2_vib3_3"  head="बाद"  poslcat="NM">     
+3.1     गठन     NN     <fs af='गठन,n,m,sg,3,d,0,0'>     
+                    
+3.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+4     ((     NP     <fs af='बेसिन,n,f,sg,3,d,0_का,0' vpos="vib2_3"  head="बेसिन">     
+4.1     महानदी     JJ     <fs af='महानदी,n,f,sg,3,d,0,0' poslcat="NM">     
+4.2     बेसिन     NN     <fs af='बेसिन,n,f,sg,3,d,0,0' name="बेसिन">     
+     ))               
+5     ((     NP     <fs af='हिस्सा,n,m,sg,3,d,0,0' head="हिस्सा">     
+5.1     बड़ा     JJ     <fs af='बड़ा,adj,m,sg,,d,,'>     
+5.2     हिस्सा     NN     <fs af='हिस्सा,n,m,sg,3,d,0,0' name="हिस्सा">     
+     ))               
+6     ((     NP     <fs af='अब,adv,,,,,,' head="अब"  poslcat="NM">     
+6.1     अब     PRP     <fs af='अब,adv,,,,,,' name="अब"  poslcat="NM">     
+     ))               
+7     ((     NP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head="छत्तीसगढ़">     
+7.1     छत्तीसगढ़     NNP     <fs af='छत्तीसगढ़,n,m,sg,3,d,0,0' name="छत्तीसगढ़">     
+     ))               
+8     ((     JJP     <fs af='प्रवाहित,adj,any,any,,any,,' head="प्रवाहित">     
+8.1     प्रवाहित     JJ     <fs af='प्रवाहित,adj,any,any,,any,,' name="प्रवाहित">     
+     ))               
+9     ((     VGF     <fs af='हो,v,m,pl,1,,ता_है,wA' vpos="tam1_2"  head="होता">     
+9.1     होता     VM     <fs af='हो,v,m,sg,any,,ता,wA' name="होता">     
+9.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="36">			
+1     ((     NP     <fs af='वैनगंगा,unk,,,,,,' head="वैनगंगा"  poslcat="NM">     
+1.1     वैनगंगा     NNP     <fs af='वैनगंगा,unk,,,,,,' name="वैनगंगा"  poslcat="NM">     
+                    
+1.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+2     ((     NP     <fs af='वर्धा,unk,,,,,,' head="वर्धा"  poslcat="NM">     
+2.1     वर्धा     NNP     <fs af='वर्धा,unk,,,,,,' name="वर्धा"  poslcat="NM">     
+                    
+2.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+3     ((     NP     <fs af='पेंच,n,m,sg,3,d,0,0' head="पेंच">     
+3.1     पेंच     NN     <fs af='पेंच,n,m,sg,3,d,0,0' name="पेंच">     
+                    
+3.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+4     ((     NP     <fs af='नदिया,n,f,pl,3,d,0,0' head="नदियां">     
+4.1     कान्हां     JJ     <fs af='कान्हां,unk,,,,,,' poslcat="NM">     
+4.2     नदियां     NN     <fs af='नदिया,n,f,pl,3,d,0,0' name="नदियां">     
+                    
+4.3     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+5     ((     NP     <fs af='नदी,n,f,sg,3,d,0,0' head="नदी">     
+5.1     गोदावरी     JJ     <fs af='गोदावरी,n,f,sg,3,d,0,0' poslcat="NM">     
+5.2     नदी     NN     <fs af='नदी,n,f,sg,3,d,0,0' name="नदी">     
+     ))               
+6     ((     NP     <fs af='प्रणाली,n,f,sg,3,d,0_में,0' vpos="vib1_2"  head="प्रणाली">     
+6.1     प्रणाली     NN     <fs af='प्रणाली,n,f,sg,3,d,0,0' name="प्रणाली">     
+     ))               
+7     ((     NP     <fs af='मात्रा,n,f,sg,3,d,0_में,0' vpos="vib2_3"  head="मात्रा">     
+7.1     विशाल     JJ     <fs af='विशाल,adj,any,any,,any,,'>     
+7.2     मात्रा     NN     <fs af='मात्रा,n,f,sg,3,d,0,0' name="मात्रा">     
+     ))               
+8     ((     NP     <fs af='पानी,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="पानी">     
+8.1     पानी     NN     <fs af='पानी,n,m,sg,3,d,0,0' name="पानी">     
+     ))               
+9     ((     NP     <fs af='निर्वहन,n,m,sg,3,d,0,0' head="निर्वहन">     
+9.1     निर्वहन     NN     <fs af='निर्वहन,n,m,sg,3,d,0,0' name="निर्वहन">     
+     ))               
+10     ((     VGF     <fs af='कर,v,f,sg,any,,ता_हैंं,wA' vpos="tam1_2"  head="करती">     
+10.1     करती     VM     <fs af='कर,v,f,sg,any,,ता,wA' name="करती">     
+10.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="37">			
+1     ((     NP     <fs af='राज्य,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="राज्य_2">     
+1.1     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य_2">     
+1.2     प्रति     RP:?     <fs af='प्रति,n,f,sg,3,d,0,0' poslcat="NM">     
+     ))               
+2     ((     NP     <fs af='व्यक्ति,n,m,sg,3,d,0,0' head="व्यक्ति">     
+2.1     व्यक्ति     NN     <fs af='व्यक्ति,n,m,sg,3,d,0,0' name="व्यक्ति">     
+     ))               
+3     ((     NP     <fs af='राज्य,n,m,sg,3,d,0,0' head="राज्य">     
+3.1     सकल     JJ     <fs af='सकल,adj,any,any,,any,,'>     
+3.2     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+     ))               
+4     ((     NP     <fs af='उत्पाद,n,m,sg,3,d,0,0' head="उत्पाद">     
+4.1     घरेलू     JJ     <fs af='घरेलू,adj,any,any,,any,,'>     
+4.2     उत्पाद     NN     <fs af='उत्पाद,n,m,sg,3,d,0,0' name="उत्पाद">     
+     ))               
+</Sentence>			
+
+<Sentence id="38">			
+1     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0,0' head="प्रदेश">     
+1.1     प्रदेश     NN     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+                    
+1.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+2     ((     NP     <fs af='भारत,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="भारत">     
+2.1     भारत     NNP     <fs af='भारत,n,m,sg,3,d,0,0' name="भारत">     
+     ))               
+3     ((     NP     <fs af='राज्य,n,m,sg,3,d,0,0' head="राज्य_2">     
+3.1     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य_2">     
+     ))               
+4     ((     NP     <fs af='इंडेक्स,n,m,sg,3,d,0_पर,0' vpos="vib2_3_RP"  head="इंडेक्स">     
+4.1     हंगर     JJ     <fs af='हंगर,unk,,,,,,' poslcat="NM">     
+4.2     इंडेक्स     NN     <fs af='इंडेक्स,n,m,sg,3,d,0,0' name="इंडेक्स">     
+4.3     भी     RP     <fs af='भी,avy,,,,,,'>     
+     ))               
+5     ((     NP     <fs af='रैंकिंग,n,f,sg,3,d,0_वाला,0' vpos="vib3_4"  head="रैंकिंग">     
+5.1     सबसे     INTF     <fs af='सबसा,adj,m,sg,,o,,' poslcat="NM">     
+5.2     कम     QF     <fs af='कम,adj,any,any,,any,,'>     
+5.3     रैंकिंग     NN     <fs af='रैंकिंग,n,f,sg,3,d,0,0' name="रैंकिंग">     
+     ))               
+6     ((     NP     <fs af='राज्य,n,m,sg,3,d,0_में_से,0' vpos="vib1_2_3"  head="राज्य">     
+6.1     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+     ))               
+7     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+7.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+7.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="39">			
+1     ((     NP     <fs af='प्रदेश,n,m,sg,3,d,0,0' head="प्रदेश">     
+1.1     मध्य     JJ     <fs af='मध्य,adj,any,any,,any,,'>     
+1.2     प्रदेश     NN     <fs af='प्रदेश,n,m,sg,3,d,0,0' name="प्रदेश">     
+     ))               
+2     ((     NP     <fs af='कुपोषण,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head="कुपोषण">     
+2.1     कुपोषण     NN     <fs af='कुपोषण,n,m,sg,3,d,0,0' name="कुपोषण">     
+     ))               
+3     ((     NP     <fs af='मामला,n,m,pl,3,d,0_में,0' vpos="vib1_2"  head="मामले">     
+3.1     मामले     NN     <fs af='मामला,n,m,pl,3,d,0,0' name="मामले">     
+     ))               
+4     ((     NP     <fs af='राज्य,n,m,pl,3,o,0_में_से,0' vpos="vib4_5_6"  head="राज्यों">     
+4.1     सबसे     INTF     <fs af='सबसा,adj,m,sg,,o,,' poslcat="NM">     
+4.2     ज्यादा     QF     <fs af='ज्यादा,adj,any,any,,any,,'>     
+4.3     प्रभावित     JJ     <fs af='प्रभावित,adj,any,any,,any,,'>     
+4.4     राज्यों     NN     <fs af='राज्य,n,m,pl,3,o,0,0' name="राज्यों">     
+     ))               
+5     ((     NP     <fs af='एक,adj,any,any,,any,,' head="एक">     
+5.1     एक     QC     <fs af='एक,adj,any,any,,any,,' name="एक">     
+     ))               
+6     ((     VGF     <fs af='है,v,any,sg,2,,है,hE' head="है">     
+6.1     है     VM     <fs af='है,v,any,sg,2,,है,hE' name="है">     
+6.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
+
+<Sentence id="40">			
+1     ((     NP     <fs af='राज्य,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head="राज्य">     
+1.1     राज्य     NN     <fs af='राज्य,n,m,sg,3,d,0,0' name="राज्य">     
+     ))               
+2     ((     NP     <fs af='इंजीनियरिंग,n,f,sg,3,d,0,0' head="इंजीनियरिंग"  poslcat="NM">     
+2.1     400     QC     <fs af='400,num,,,,,,'>     
+2.2     इंजीनियरिंग     XC     <fs af='इंजीनियरिंग,n,f,sg,3,d,0,0' name="इंजीनियरिंग"  poslcat="NM">     
+     ))               
+3     ((     CCP     <fs af='और,avy,,,,,,' head="और_2">     
+3.1     और     CC     <fs af='और,avy,,,,,,' name="और_2">     
+     ))               
+4     ((     NP     <fs af='आर्किटेक्चर,n,m,sg,3,d,0,0' head="आर्किटेक्चर">     
+4.1     आर्किटेक्चर     NN     <fs af='आर्किटेक्चर,n,m,sg,3,d,0,0' name="आर्किटेक्चर">     
+     ))               
+5     ((     NP     <fs af='कॉलेज,n,m,pl,3,o,0,0' head="कॉलेजों">     
+5.1     कॉलेजों     NN     <fs af='कॉलेज,n,m,pl,3,o,0,0' name="कॉलेजों">     
+                    
+5.2     ,     SYM     <fs af='&comma,punc,,,,,,'>     
+     ))               
+6     ((     NP     <fs af='प्रबंधन,n,m,sg,3,d,0,0' head="प्रबंधन">     
+6.1     250     QC     <fs af='250,num,,,,,,'>     
+6.2     प्रबंधन     NN     <fs af='प्रबंधन,n,m,sg,3,d,0,0' name="प्रबंधन">     
+     ))               
+7     ((     NP     <fs af='संस्थान,n,m,pl,3,o,0,0' head="संस्थानों">     
+7.1     संस्थानों     NN     <fs af='संस्थान,n,m,pl,3,o,0,0' name="संस्थानों">     
+     ))               
+8     ((     CCP     <fs af='और,avy,,,,,,' head="और">     
+8.1     और     CC     <fs af='और,avy,,,,,,' name="और">     
+     ))               
+9     ((     NP     <fs af='कॉलेज,n,m,sg,3,d,0,0' head="कॉलेज">     
+9.1     12     QC     <fs af='12,num,,,,,,'>     
+9.2     मेडिकल     XC     <fs af='मेडिकल,n,m,sg,3,d,0,0' poslcat="NM">     
+9.3     कॉलेज     NN     <fs af='कॉलेज,n,m,sg,3,d,0,0' name="कॉलेज">     
+     ))               
+10     ((     VGF     <fs af='है,v,any,pl,1,,है,hE' head="हैं">     
+10.1     हैं     VM     <fs af='है,v,any,pl,1,,है,hE' name="हैं">     
+10.2     ।     SYM     <fs af='.,punc,,,,,,'>     
+     ))               
+</Sentence>			
