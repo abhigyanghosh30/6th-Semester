@@ -1,0 +1,1533 @@
+<sentence1>
+1	जयपुर	जयपुर	NNP	NNP	_	2	nmod__adj	_	_
+2	राज्य	राज्य	NN	NN	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	राजधानी	राजधानी	NN	NN	_	5	k1	_	_
+5	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence2>
+1	तब	तब	PRP	PRP	_	6	k7t	_	_
+2	इसकी	इसकी	PRP	PRP	_	3	r6	_	_
+3	राजधानी	राजधानी	NN	NN	_	6	k1	_	_
+4	नागपुर	नागपुर	NNP	NNP	_	6	k7p	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	थी	थी	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence3>
+1	यह	यह	PRP	PRP	_	5	k1	_	_
+2	बाड़मेर	बाड़मेर	NNP	NNP	_	3	nmod__adj	_	_
+3	जिले	जिले	NN	NN	_	5	k7p	_	_
+4	मे	मे	PSP	PSP	_	3	lwg__psp	_	_
+5	आया	आया	VM	VM	_	0	main	_	_
+6	हुआ	हुआ	VAUX	VAUX	_	5	lwg__vaux	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence4>
+1	मालवा	मालवा	NNP	NNP	_	2	nmod__adj	_	_
+2	महाकवि	महाकवि	NN	NN	_	3	nmod	_	_
+3	कालिदास	कालिदास	NNP	NNP	_	5	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	धरती	धरती	NN	NN	_	6	k1	_	_
+6	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence5>
+1	तब	तब	PRP	PRP	_	6	k7t	_	_
+2	यह	यह	PRP	PRP	_	6	k1	_	_
+3	३-४	३-४	QC	QC	_	4	nmod__adj	_	_
+4	हिस्सों	हिस्सों	NN	NN	_	6	k7	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	बटा	बटा	VM	VM	_	0	main	_	_
+7	हुआ	हुआ	VAUX	VAUX	_	6	lwg__vaux	_	_
+8	था	था	VAUX	VAUX	_	7	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence6>
+1	यहाँ	यहाँ	PRP	PRP	_	7	k7p	_	_
+2	कोई	कोई	PRP	PRP	_	5	mod	_	_
+3	एक	एक	QC	QC	_	5	nmod__adj	_	_
+4	लोक	लोक	JJ	JJ	_	5	nmod__adj	_	_
+5	संस्कृति	संस्कृति	NN	NN	_	7	k1	_	_
+6	नहीं	नहीं	NEG	NEG	_	7	lwg__neg	_	_
+7	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence7>
+1	राजस्थान	राजस्थान	NNP	NNP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	आकृति	आकृति	NN	NN	_	6	k1	_	_
+4	लगभग	लगभग	RP	RP	_	5	lwg__rp	_	_
+5	पतंगाकार	पतंगाकार	NN	NN	_	6	k1s	_	_
+6	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence8>
+1	बाद	बाद	NST	NST	_	7	k7t	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	इसे	इसे	PRP	PRP	_	7	k4	_	_
+4	निमाड़	निमाड़	NNP	NNP	_	6	r6	_	_
+5	की	की	PSP	PSP	_	4	lwg__psp	_	_
+6	संज्ञा	संज्ञा	NN	NN	_	7	k2	_	_
+7	दी	दी	VM	VM	_	0	main	_	_
+8	गयी	गयी	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence9>
+1	मध्यप्रदेश	मध्यप्रदेश	NNP	NNP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	संस्कृति	संस्कृति	NN	NN	_	5	k1	_	_
+4	विविधवर्णी	विविधवर्णी	NN	NN	_	5	k1s	_	_
+5	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence10>
+1	राज्य	राज्य	NN	NN	_	5	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	कृषिप्रधान	कृषिप्रधान	JJ	JJ	_	4	nmod__adj	_	_
+4	अर्थव्यवस्था	अर्थव्यवस्था	NN	NN	_	5	k1	_	_
+5	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence11>
+1	मध्य	मध्य	NNPC	NNPC	_	2	pof__cn	_	_
+2	प्रदेश	प्रदेश	NNP	NNP	_	9	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	विधान	विधान	NNC	NNC	_	5	pof__cn	_	_
+5	सभा	सभा	NN	NN	_	8	r6	_	_
+6	की	की	PSP	PSP	_	5	lwg__psp	_	_
+7	230	230	QC	QC	_	8	nmod__adj	_	_
+8	सीट	सीट	NN	NN	_	9	k1	_	_
+9	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence12>
+1	जनसंख्या	जनसंख्या	NN	NN	_	7	k1	_	_
+2	घनत्व	घनत्व	NN	NN	_	5	nmod__adj	_	_
+3	प्रति	प्रति	RP	RP	_	2	lwg__rp	_	_
+4	वर्ग	वर्ग	NNC	NNC	_	5	pof__cn	_	_
+5	कि॰मी॰	कि॰मी॰	NN	NN	_	7	k1s	_	_
+6	126	126	QC	QC	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence13>
+1	मध्य	मध्य	NNPC	NNPC	_	2	pof__cn	_	_
+2	प्रदेश	प्रदेश	NNP	NNP	_	6	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	उपोष्णकटिबंधीय	उपोष्णकटिबंधीय	JJ	JJ	_	5	nmod__adj	_	_
+5	जलवायु	जलवायु	NN	NN	_	6	k1	_	_
+6	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence14>
+1	राजस्थान	राजस्थान	NNP	NNP	_	7	k1	_	_
+2	भारत	भारत	NNP	NNP	_	6	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	एक	एक	QC	QC	_	6	nmod__adj	_	_
+5	महत्वपूर्ण	महत्वपूर्ण	JJ	JJ	_	6	nmod__adj	_	_
+6	प्रांत	प्रांत	NN	NN	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence15>
+1	इसके	इसके	PRP	PRP	_	3	r6	_	_
+2	पर्यटन	पर्यटन	NNPC	NNPC	_	3	pof__cn	_	_
+3	उद्योग	उद्योग	NN	NN	_	7	k7	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	काफी	काफी	QF	QF	_	6	nmod__adj	_	_
+6	वृद्धि	वृद्धि	NN	NN	_	7	pof	_	_
+7	हुई	हुई	VM	VM	_	0	main	_	_
+8	है	है	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence16>
+1	यहाँ	यहाँ	PRP	PRP	_	3	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	लोगों	लोगों	NN	NN	_	10	k1	_	_
+4	ने	ने	PSP	PSP	_	3	lwg__psp	_	_
+5	कभी	कभी	PRP	PRP	_	10	k7t	_	_
+6	भी	भी	RP	RP	_	5	lwg__rp	_	_
+7	अकाल	अकाल	NN	NN	_	10	k2	_	_
+8	को	को	PSP	PSP	_	7	lwg__psp	_	_
+9	नहीं	नहीं	NEG	NEG	_	10	lwg__neg	_	_
+10	देखा	देखा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence17>
+1	निमाड़	निमाड़	NNPC	NNPC	_	2	pof__cn	_	_
+2	मध्यप्रदेश	मध्यप्रदेश	NNP	NNP	_	5	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	पश्चिमी	पश्चिमी	JJ	JJ	_	5	nmod__adj	_	_
+5	अंचल	अंचल	NN	NN	_	8	k7p	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	स्थित	स्थित	JJ	JJ	_	8	k1s	_	_
+8	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence18>
+1	यहाँ	यहाँ	PRP	PRP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	धरती	धरती	NN	NN	_	7	k1	_	_
+4	हरी-भरी,	हरी-भरी,	NNP	NNP	_	7	k1	_	_
+5	धन-धान्य	धन-धान्य	NN	NN	_	7	adv	_	_
+6	से	से	PSP	PSP	_	5	lwg__psp	_	_
+7	भरपूर	भरपूर	VM	VM	_	0	main	_	_
+8	रही	रही	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence19>
+1	जबलपुर	जबलपुर	NNP	NNP	_	2	nmod__adj	_	_
+2	संभाग	संभाग	NN	NN	_	5	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	संपूर्ण	संपूर्ण	JJ	JJ	_	5	nmod__adj	_	_
+5	हिस्सा	हिस्सा	NN	NN	_	7	k1	_	_
+6	महाकोशल	महाकोशल	NNP	NNP	_	7	k1	_	_
+7	कहलाता	कहलाता	VM	VM	_	0	main	_	_
+8	है	है	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence20>
+1	वाल्मीकि	वाल्मीकि	NNP	NNP	_	7	k1	_	_
+2	ने	ने	PSP	PSP	_	1	lwg__psp	_	_
+3	राजस्थान	राजस्थान	NNPC	NNPC	_	4	pof__cn	_	_
+4	प्रदेश	प्रदेश	NNP	NNP	_	7	k4	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	मरुकान्तार	मरुकान्तार	JJ	JJ	_	7	k2s	_	_
+7	कहा	कहा	VM	VM	_	0	main	_	_
+8	है	है	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence21>
+1	अपने	अपने	PRP	PRP	_	2	r6	_	_
+2	क्षेत्र	क्षेत्र	NN	NN	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	30%	30%	NNP	NNP	_	6	jjmod	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	अधिक	अधिक	QF	QF	_	8	nmod	_	_
+7	वन	वन	NNC	NNC	_	8	pof__cn	_	_
+8	क्षेत्र	क्षेत्र	NN	NN	_	11	k7a	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	अधीन	अधीन	PSP	PSP	_	8	lwg__psp	_	_
+11	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence22>
+1	राजस्थान	राजस्थान	NNP	NNP	_	4	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	पूर्वी	पूर्वी	JJ	JJ	_	4	nmod__adj	_	_
+4	सम्भाग	सम्भाग	NN	NN	_	9	k1	_	_
+5	शुरु	शुरु	NN	NN	_	9	k7t	_	_
+6	से	से	PSP	PSP	_	5	lwg__psp	_	_
+7	ही	ही	RP	RP	_	5	lwg__rp	_	_
+8	उपजाऊ	उपजाऊ	JJ	JJ	_	9	k1s	_	_
+9	रहा	रहा	VM	VM	_	0	main	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux	_	_
+----------------------------------------
+<sentence23>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	सम्भाग	सम्भाग	NN	NN	_	9	k1	_	_
+3	अभी	अभी	PRP	PRP	_	9	k7t	_	_
+4	तक	तक	PSP	PSP	_	3	lwg__psp	_	_
+5	औद्योगिक	औद्योगिक	JJ	JJ	_	6	nmod__adj	_	_
+6	दृष्टि	दृष्टि	NN	NN	_	9	adv	_	_
+7	से	से	PSP	PSP	_	6	lwg__psp	_	_
+8	पिछड़ा	पिछड़ा	JJ	JJ	_	9	pof	_	_
+9	हुआ	हुआ	VM	VM	_	0	main	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux	_	_
+----------------------------------------
+<sentence24>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	भू-भाग	भू-भाग	NN	NN	_	9	k1	_	_
+3	रामायणकाल	रामायणकाल	NNP	NNP	_	9	k7p	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	कोसल	कोसल	NNP	NNP	_	6	nmod__adj	_	_
+6	प्रान्त	प्रान्त	NNP	NNP	_	9	k7a	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	अन्तर्गत	अन्तर्गत	PSP	PSP	_	6	lwg__psp	_	_
+9	था	था	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence25>
+1	नर्मदा	नर्मदा	NNP	NNP	_	2	nmod__adj	_	_
+2	नदी	नदी	NN	NN	_	11	k1	_	_
+3	मध्य	मध्य	NNPC	NNPC	_	4	pof__cn	_	_
+4	प्रदेश	प्रदेश	NNP	NNP	_	10	r6	_	_
+5	की	की	PSP	PSP	_	4	lwg__psp	_	_
+6	सबसे	सबसे	INTF	INTF	_	7	jjmod__intf	_	_
+7	प्रमुख	प्रमुख	JJ	JJ	_	8	ccof	_	_
+8	और	और	CC	CC	_	10	nmod	_	_
+9	लंबी	लंबी	JJ	JJ	_	8	ccof	_	_
+10	नदी	नदी	NN	NN	_	11	k1s	_	_
+11	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence26>
+1	राज्य	राज्य	NN	NN	_	12	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	भारत	भारत	NNP	NNP	_	5	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	हीरे	हीरे	NN	NN	_	6	ccof	_	_
+6	और	और	CC	CC	_	11	r6	_	_
+7	तांबे	तांबे	NN	NN	_	6	ccof	_	_
+8	का	का	PSP	PSP	_	7	lwg__psp	_	_
+9	सबसे	सबसे	INTF	INTF	_	10	jjmod__intf	_	_
+10	बड़ा	बड़ा	JJ	JJ	_	11	nmod__adj	_	_
+11	भंडार	भंडार	NN	NN	_	12	k1	_	_
+12	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence27>
+1	भरतपुर	भरतपुर	NNP	NNP	_	9	k1	_	_
+2	भारत	भारत	NNP	NNP	_	5	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	पर्यटन	पर्यटन	NNC	NNC	_	5	pof__cn	_	_
+5	मानचित्र	मानचित्र	NN	NN	_	9	k7	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	अपना	अपना	PRP	PRP	_	8	r6	_	_
+8	महत्व	महत्व	NN	NN	_	9	k2	_	_
+9	रखता	रखता	VM	VM	_	0	main	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux	_	_
+----------------------------------------
+<sentence28>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	क्षेत्र	क्षेत्र	NN	NN	_	5	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	सांस्कृतिक-आर्थिक	सांस्कृतिक-आर्थिक	JJ	JJ	_	5	nmod__adj	_	_
+5	केंद्र	केंद्र	NN	NN	_	8	k1	_	_
+6	ग्वालियर	ग्वालियर	NNP	NNP	_	7	nmod__adj	_	_
+7	शहर	शहर	NN	NN	_	8	k1s	_	_
+8	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence29>
+1	प्राचीन	प्राचीन	JJ	JJ	_	2	nmod__adj	_	_
+2	समय	समय	NN	NN	_	10	k7t	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	राजस्थान	राजस्थान	NNP	NNP	_	10	k7p	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	आदिवासी	आदिवासी	JJ	JJ	_	7	nmod__adj	_	_
+7	कबीलों	कबीलों	NN	NN	_	9	r6	_	_
+8	का	का	PSP	PSP	_	7	lwg__psp	_	_
+9	शासन	शासन	NN	NN	_	10	k1	_	_
+10	था	था	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence30>
+1	मध्य	मध्य	NNPC	NNPC	_	2	pof__cn	_	_
+2	प्रदेश	प्रदेश	NNP	NNP	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	सीमाऐं	सीमाऐं	NN	NN	_	10	k1	_	_
+5	पांच	पांच	QC	QC	_	6	nmod__adj	_	_
+6	राज्यों	राज्यों	NN	NN	_	8	r6	_	_
+7	की	की	PSP	PSP	_	6	lwg__psp	_	_
+8	सीमाओं	सीमाओं	NN	NN	_	10	k5	_	_
+9	से	से	PSP	PSP	_	8	lwg__psp	_	_
+10	मिलती	मिलती	VM	VM	_	0	main	_	_
+11	है	है	VAUX	VAUX	_	10	lwg__vaux	_	_
+----------------------------------------
+<sentence31>
+1	मध्य	मध्य	NNPC	NNPC	_	2	pof__cn	_	_
+2	प्रदेश	प्रदेश	NNP	NNP	_	10	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	बस	बस	NN	NN	_	5	ccof	_	_
+5	और	और	CC	CC	_	10	k1	_	_
+6	ट्रेन	ट्रेन	NNC	NNC	_	7	pof__cn	_	_
+7	सेवाएं	सेवाएं	NN	NN	_	5	ccof	_	_
+8	चारो	चारो	QC	QC	_	9	nmod__adj	_	_
+9	तरफ	तरफ	NST	NST	_	10	rd	_	_
+10	फैली	फैली	VM	VM	_	0	main	_	_
+11	हुई	हुई	VAUX	VAUX	_	10	lwg__vaux	_	_
+12	हैं	हैं	VAUX	VAUX	_	11	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence32>
+1	इसमें	इसमें	PRP	PRP	_	2	k7	_	_
+2	मिल	मिल	VM	VM	_	11	k7	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	शक्कर	शक्कर	NN	NN	_	5	k2	_	_
+5	बनाने	बनाने	VM	VM	_	7	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	कार्य	कार्य	NN	NN	_	11	k1	_	_
+8	1946	1946	NNP	NNP	_	11	k7t	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	प्रारम्भ	प्रारम्भ	NN	NN	_	11	pof	_	_
+11	हुआ	हुआ	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence33>
+1	मध्यप्रदेश	मध्यप्रदेश	NNP	NNP	_	9	k1	_	_
+2	विभिन्न	विभिन्न	JJ	JJ	_	3	nmod__adj	_	_
+3	लोक	लोक	NN	NN	_	4	ccof	_	_
+4	और	और	CC	CC	_	8	r6	_	_
+5	जनजातीय	जनजातीय	JJ	JJ	_	6	nmod__adj	_	_
+6	संस्कृतियों	संस्कृतियों	NN	NN	_	4	ccof	_	_
+7	का	का	PSP	PSP	_	6	lwg__psp	_	_
+8	समागम	समागम	NN	NN	_	9	k1s	_	_
+9	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence34>
+1	फिर	फिर	RB	RB	_	10	adv	_	_
+2	इसे	इसे	PRP	PRP	_	10	k2	_	_
+3	पूर्वी	पूर्वी	JJ	JJ	_	4	ccof	_	_
+4	और	और	CC	CC	_	6	nmod	_	_
+5	पश्चिमी	पश्चिमी	JJ	JJ	_	4	ccof	_	_
+6	निमाड़	निमाड़	NNP	NNP	_	10	k7	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	रूप	रूप	PSP	PSP	_	6	lwg__psp	_	_
+9	में	में	PSP	PSP	_	6	lwg__psp	_	_
+10	जाना	जाना	VM	VM	_	0	main	_	_
+11	जाने	जाने	VAUX	VAUX	_	10	lwg__vaux	_	_
+12	लगा	लगा	VAUX	VAUX	_	11	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence35>
+1	मध्यप्रदेश	मध्यप्रदेश	NNP	NNP	_	10	k1	_	_
+2	मुख्य	मुख्य	JJ	JJ	_	3	nmod__adj	_	_
+3	रूप	रूप	NN	NN	_	10	adv	_	_
+4	से	से	PSP	PSP	_	3	lwg__psp	_	_
+5	अपने	अपने	PRP	PRP	_	6	r6	_	_
+6	पर्यटन	पर्यटन	NN	NN	_	10	rt	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	लिए	लिए	PSP	PSP	_	6	lwg__psp	_	_
+9	भी	भी	RP	RP	_	6	lwg__rp	_	_
+10	जाना	जाना	VM	VM	_	0	main	_	_
+11	जाता	जाता	VAUX	VAUX	_	10	lwg__vaux	_	_
+12	है	है	VAUX	VAUX	_	11	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence36>
+1	भील	भील	NNP	NNP	_	2	ccof	_	_
+2	और	और	CC	CC	_	13	k1	_	_
+3	मीना	मीना	NNPC	NNPC	_	4	pof__cn	_	_
+4	जनजाति	जनजाति	NNP	NNP	_	2	ccof	_	_
+5	इस	इस	DEM	DEM	_	6	nmod__adj	_	_
+6	क्षेत्र	क्षेत्र	NN	NN	_	8	k7p	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	रहने	रहने	VM	VM	_	13	rt	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	लिए	लिए	PSP	PSP	_	8	lwg__psp	_	_
+11	सबसे	सबसे	JJ	JJ	_	12	nmod__adj	_	_
+12	पहले	पहले	NST	NST	_	13	k7t	_	_
+13	थे	थे	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence37>
+1	एक	एक	QC	QC	_	3	nmod__adj	_	_
+2	सुंदर	सुंदर	JJ	JJ	_	3	nmod__adj	_	_
+3	बगीचा,	बगीचा,	NN	NN	_	0	k1	_	_
+4	नेहरू	नेहरू	NNP	NNP	_	5	nmod__adj	_	_
+5	पार्क,	पार्क,	NNP	NNP	_	0	nmod	_	_
+6	जो	जो	PRP	PRP	_	11	k1	_	_
+7	भरतपुर	भरतपुर	NNP	NNP	_	8	nmod__adj	_	_
+8	संग्रहालय	संग्रहालय	NN	NN	_	11	k7p	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	पास	पास	NST	NST	_	8	lwg__psp	_	_
+11	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence38>
+1	मीणा	मीणा	NNP	NNP	_	2	jjmod	_	_
+2	बाहुल्य	बाहुल्य	JJ	JJ	_	4	nmod	_	_
+3	इस	इस	DEM	DEM	_	4	nmod__adj	_	_
+4	जिले	जिले	NN	NN	_	6	r6	_	_
+5	का	का	PSP	PSP	_	4	lwg__psp	_	_
+6	ऐतिहासिकता	ऐतिहासिकता	NN	NN	_	12	k7	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	तौर	तौर	PSP	PSP	_	6	lwg__psp	_	_
+9	पर	पर	PSP	PSP	_	6	lwg__psp	_	_
+10	काफी	काफी	QF	QF	_	11	nmod__adj	_	_
+11	महत्व	महत्व	NN	NN	_	12	k1	_	_
+12	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence39>
+1	वही	वही	PRP	PRP	_	0	main	_	_
+2	साँची	साँची	NNP	NNP	_	4	jjmod	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	स्थित	स्थित	JJ	JJ	_	5	nmod	_	_
+5	साँची	साँची	NNP	NNP	_	7	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	स्तूप,	स्तूप,	NN	NN	_	0	nmod	_	_
+8	बौध्द	बौध्द	NN	NN	_	12	rt	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	लिए	लिए	PSP	PSP	_	8	lwg__psp	_	_
+11	केंद्र	केंद्र	NNP	NNP	_	12	k1	_	_
+12	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence40>
+1	सन्	सन्	NNPC	NNPC	_	2	pof__cn	_	_
+2	1991	1991	NNP	NNP	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	जनगणना	जनगणना	NN	NN	_	12	k7a	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	अनुसार	अनुसार	PSP	PSP	_	4	lwg__psp	_	_
+7	राज्य	राज्य	NN	NN	_	9	r6	_	_
+8	की	की	PSP	PSP	_	7	lwg__psp	_	_
+9	जनसंख्या	जनसंख्या	NN	NN	_	12	k1	_	_
+10	4.39	4.39	QCC	QCC	_	11	mod	_	_
+11	करोड़	करोड़	QC	QC	_	12	k1s	_	_
+12	थी	थी	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence41>
+1	26	26	NNPC	NNPC	_	3	pof__cn	_	_
+2	जनवरी,	जनवरी,	NNPC	NNPC	_	3	pof__cn	_	_
+3	1950	1950	NNP	NNP	_	11	k7t	_	_
+4	को	को	PSP	PSP	_	3	lwg__psp	_	_
+5	इस	इस	DEM	DEM	_	6	nmod__adj	_	_
+6	प्रदेश	प्रदेश	NN	NN	_	8	r6	_	_
+7	का	का	PSP	PSP	_	6	lwg__psp	_	_
+8	नाम	नाम	NN	NN	_	11	k2	_	_
+9	राजस्थान	राजस्थान	NNP	NNP	_	11	k7p	_	_
+10	स्वीकृत	स्वीकृत	JJ	JJ	_	11	pof	_	_
+11	किया	किया	VM	VM	_	0	main	_	_
+12	गया	गया	VAUX	VAUX	_	11	lwg__vaux	_	_
+----------------------------------------
+<sentence42>
+1	मध्य	मध्य	NNPC	NNPC	_	2	pof__cn	_	_
+2	प्रदेश	प्रदेश	NNP	NNP	_	12	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	अपनी	अपनी	PRP	PRP	_	8	r6	_	_
+5	शास्त्रीय	शास्त्रीय	JJ	JJ	_	6	ccof	_	_
+6	और	और	CC	CC	_	8	nmod	_	_
+7	लोक	लोक	JJ	JJ	_	6	ccof	_	_
+8	संगीत	संगीत	NN	NN	_	12	rt	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	लिए	लिए	PSP	PSP	_	8	lwg__psp	_	_
+11	विख्यात	विख्यात	JJ	JJ	_	12	k1s	_	_
+12	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence43>
+1	राज्य	राज्य	NN	NN	_	10	k1	_	_
+2	ने	ने	PSP	PSP	_	1	lwg__psp	_	_
+3	वर्ष	वर्ष	NN	NN	_	4	nmod__adj	_	_
+4	2010-11	2010-11	NNP	NNP	_	10	rt	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	लिये	लिये	PSP	PSP	_	4	lwg__psp	_	_
+7	राष्ट्रीय	राष्ट्रीय	NNPC	NNPC	_	9	pof__cn	_	_
+8	पर्यटन	पर्यटन	NNPC	NNPC	_	9	pof__cn	_	_
+9	पुरस्कार	पुरस्कार	NNP	NNP	_	10	k1	_	_
+10	जीता	जीता	VM	VM	_	0	main	_	_
+11	था	था	VAUX	VAUX	_	10	lwg__vaux	_	_
+----------------------------------------
+<sentence44>
+1	सन्	सन्	NNPC	NNPC	_	2	pof__cn	_	_
+2	1976	1976	NNP	NNP	_	12	k7t	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	उदयपुर	उदयपुर	NNP	NNP	_	12	k7p	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	चीनी	चीनी	JJ	JJ	_	12	nmod	_	_
+7	मिल	मिल	VM	VM	_	12	vmod	_	_
+8	निजी	निजी	JJ	JJ	_	9	nmod__adj	_	_
+9	क्षेत्र	क्षेत्र	NN	NN	_	12	k7p	_	_
+10	में	में	PSP	PSP	_	9	lwg__psp	_	_
+11	स्थापित	स्थापित	JJ	JJ	_	12	pof	_	_
+12	की	की	VM	VM	_	0	main	_	_
+13	गई	गई	VAUX	VAUX	_	12	lwg__vaux	_	_
+----------------------------------------
+<sentence45>
+1	राजस्थान	राजस्थान	NNP	NNP	_	12	k1	_	_
+2	भारत	भारत	NNPC	NNPC	_	3	pof__cn	_	_
+3	गणराज्य	गणराज्य	NNP	NNP	_	5	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	क्षेत्रफल	क्षेत्रफल	NN	NN	_	7	r6	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	आधार	आधार	NN	NN	_	12	k7	_	_
+8	पर	पर	PSP	PSP	_	7	lwg__psp	_	_
+9	सबसे	सबसे	INTF	INTF	_	10	jjmod__intf	_	_
+10	बड़ा	बड़ा	JJ	JJ	_	11	nmod__adj	_	_
+11	राज्य	राज्य	NN	NN	_	12	k1	_	_
+12	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence46>
+1	बघेलखण्ड	बघेलखण्ड	NNP	NNP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	धरती	धरती	NN	NN	_	5	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	सम्बन्ध	सम्बन्ध	NN	NN	_	11	k1	_	_
+6	अति	अति	INTF	INTF	_	7	jjmod__intf	_	_
+7	प्राचीन	प्राचीन	JJ	JJ	_	9	nmod__adj	_	_
+8	भारतीय	भारतीय	JJ	JJ	_	7	mod	_	_
+9	संस्कृति	संस्कृति	NN	NN	_	11	ras-k1	_	_
+10	से	से	PSP	PSP	_	9	lwg__psp	_	_
+11	रहा	रहा	VM	VM	_	0	main	_	_
+12	है	है	VAUX	VAUX	_	11	lwg__vaux	_	_
+----------------------------------------
+<sentence47>
+1	ताप्ती	ताप्ती	NNP	NNP	_	2	nmod__adj	_	_
+2	नदी	नदी	NN	NN	_	12	k1	_	_
+3	भी	भी	RP	RP	_	2	lwg__rp	_	_
+4	नर्मदा	नर्मदा	NNP	NNP	_	7	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	समानांतर,	समानांतर,	JJ	JJ	_	7	nmod__adj	_	_
+7	दरार	दरार	NN	NN	_	12	k1	_	_
+8	घाटी	घाटी	NN	NN	_	10	r6	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	माध्यम	माध्यम	NN	NN	_	12	adv	_	_
+11	से	से	PSP	PSP	_	10	lwg__psp	_	_
+12	बहती	बहती	VM	VM	_	0	main	_	_
+13	हैं	हैं	VAUX	VAUX	_	12	lwg__vaux	_	_
+----------------------------------------
+<sentence48>
+1	भरतपुर	भरतपुर	NNP	NNP	_	4	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	जाट	जाट	JJ	JJ	_	4	nmod__adj	_	_
+4	शासक	शासक	NN	NN	_	13	k1	_	_
+5	ने	ने	PSP	PSP	_	4	lwg__psp	_	_
+6	भी	भी	RP	RP	_	4	lwg__rp	_	_
+7	अपनी	अपनी	PRP	PRP	_	8	r6	_	_
+8	रियासत	रियासत	NN	NN	_	10	r6	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	विलय	विलय	NN	NN	_	13	pof	_	_
+11	राजस्थान	राजस्थान	NNP	NNP	_	13	k7p	_	_
+12	में	में	PSP	PSP	_	11	lwg__psp	_	_
+13	किया	किया	VM	VM	_	0	main	_	_
+14	था	था	VAUX	VAUX	_	13	lwg__vaux	_	_
+----------------------------------------
+<sentence49>
+1	राज्य	राज्य	NN	NN	_	3	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	जंगलों	जंगलों	NN	NN	_	12	k7p	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	सागौन	सागौन	NN	NN	_	6	ccof	_	_
+6	और	और	CC	CC	_	12	k1	_	_
+7	साल	साल	NN	NN	_	9	r6	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	पेड़	पेड़	NN	NN	_	6	ccof	_	_
+10	बहुतायत	बहुतायत	NN	NN	_	12	k7p	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	पाये	पाये	VM	VM	_	0	main	_	_
+13	जाते	जाते	VAUX	VAUX	_	12	lwg__vaux	_	_
+14	हैं	हैं	VAUX	VAUX	_	13	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence50>
+1	डीग	डीग	NNPC	NNPC	_	2	pof__cn	_	_
+2	जलमहल	जलमहल	NNP	NNP	_	6	k7p	_	_
+3	एक	एक	QC	QC	_	5	nmod__adj	_	_
+4	आकर्षक	आकर्षक	JJ	JJ	_	5	nmod__adj	_	_
+5	राजमहल	राजमहल	NN	NN	_	6	k7p	_	_
+6	है,	है,	VM	VM	_	0	vmod	_	_
+7	जो	जो	PRP	PRP	_	13	k1	_	_
+8	भरतपुर	भरतपुर	NNP	NNP	_	11	r6	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	जाट	जाट	JJ	JJ	_	11	nmod__adj	_	_
+11	शासकों	शासकों	NN	NN	_	13	k1	_	_
+12	ने	ने	PSP	PSP	_	11	lwg__psp	_	_
+13	बनवाया	बनवाया	VM	VM	_	0	main	_	_
+14	था	था	VAUX	VAUX	_	13	lwg__vaux	_	_
+----------------------------------------
+<sentence51>
+1	पन्ना	पन्ना	NN	NN	_	2	nmod	_	_
+2	धाय	धाय	NNP	NNP	_	14	k1u	_	_
+3	जैसी	जैसी	PSP	PSP	_	2	lwg__psp	_	_
+4	बलिदानी	बलिदानी	NNC	NNC	_	6	pof__cn	_	_
+5	माता,	माता,	NNPC	NNPC	_	6	pof__cn	_	_
+6	मीरां	मीरां	NNP	NNP	_	7	ccof	_	_
+7	जैसी	जैसी	CC	CC	_	14	k7p	_	_
+8	जोगिन	जोगिन	NNP	NNP	_	7	ccof	_	_
+9	यहां	यहां	PRP	PRP	_	13	r6	_	_
+10	की	की	PSP	PSP	_	9	lwg__psp	_	_
+11	एक	एक	QC	QC	_	13	nmod__adj	_	_
+12	बड़ी	बड़ी	JJ	JJ	_	13	nmod__adj	_	_
+13	शान	शान	NN	NN	_	14	k1s	_	_
+14	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence52>
+1	राजस्थान	राजस्थान	NNP	NNP	_	5	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	आदिवासी	आदिवासी	JJ	JJ	_	5	nmod__adj	_	_
+4	इन्हीं	इन्हीं	DEM	DEM	_	5	nmod__adj	_	_
+5	मत्स्यों	मत्स्यों	NN	NN	_	7	r6	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	वंशज	वंशज	NN	NN	_	12	k1	_	_
+8	आज	आज	NN	NN	_	12	k7t	_	_
+9	मीना	मीना	NNPC	NNPC	_	11	pof__cn	_	_
+10	/	/	SYM	SYM	_	11	rsym	_	_
+11	मीणा	मीणा	NNP	NNP	_	12	k2s	_	_
+12	कहलाते	कहलाते	VM	VM	_	0	main	_	_
+13	हैं	हैं	VAUX	VAUX	_	12	lwg__vaux	_	_
+----------------------------------------
+<sentence53>
+1	सीमेन्ट	सीमेन्ट	NNPC	NNPC	_	2	pof__cn	_	_
+2	उद्योग	उद्योग	NNP	NNP	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	दृष्टि	दृष्टि	NN	NN	_	13	rh	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	'राजस्थान	'राजस्थान	SYM	SYM	_	13	r6	_	_
+7	का	का	PSP	PSP	_	6	lwg__psp	_	_
+8	पूरे	पूरे	JJ	JJ	_	9	nmod__adj	_	_
+9	भारत	भारत	NNP	NNP	_	13	k7p	_	_
+10	में	में	PSP	PSP	_	9	lwg__psp	_	_
+11	प्रथम	प्रथम	QO	QO	_	12	nmod__adj	_	_
+12	स्थान	स्थान	NN	NN	_	13	k1	_	_
+13	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence54>
+1	स्वत्रंता	स्वत्रंता	NN	NN	_	12	k1	_	_
+2	पूर्व	पूर्व	JJ	JJ	_	4	nmod__adj	_	_
+3	मध्य	मध्य	NNPC	NNPC	_	4	pof__cn	_	_
+4	प्रदेश	प्रदेश	NNP	NNP	_	5	nmod__adj	_	_
+5	क्षेत्र	क्षेत्र	NN	NN	_	12	k1	_	_
+6	अपने	अपने	PRP	PRP	_	8	r6	_	_
+7	वर्तमान	वर्तमान	JJ	JJ	_	8	nmod__adj	_	_
+8	स्वरूप	स्वरूप	NN	NN	_	12	k5	_	_
+9	से	से	PSP	PSP	_	8	lwg__psp	_	_
+10	काफी	काफी	QF	QF	_	11	nmod__adj	_	_
+11	अलग	अलग	JJ	JJ	_	12	k1s	_	_
+12	था	था	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence55>
+1	सोन	सोन	NNP	NNP	_	2	ccof	_	_
+2	और	और	CC	CC	_	13	k1	_	_
+3	उसकी	उसकी	PRP	PRP	_	4	r6	_	_
+4	सहायक	सहायक	NN	NN	_	2	ccof	_	_
+5	नदियों,	नदियों,	NN	NN	_	13	k1	_	_
+6	गंगा	गंगा	NNP	NNP	_	13	k7p	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	मानसून	मानसून	NN	NN	_	11	r6	_	_
+9	का	का	PSP	PSP	_	8	lwg__psp	_	_
+10	अथाह	अथाह	JJ	JJ	_	11	nmod__adj	_	_
+11	जल	जल	NN	NN	_	13	k1	_	_
+12	प्रवाहित	प्रवाहित	JJ	JJ	_	13	pof	_	_
+13	करती	करती	VM	VM	_	0	main	_	_
+14	हैंं	हैंं	VAUX	VAUX	_	13	lwg__vaux	_	_
+----------------------------------------
+<sentence56>
+1	खनिज	खनिज	NNC	NNC	_	2	pof__cn	_	_
+2	संसाधनों	संसाधनों	NN	NN	_	14	k5	_	_
+3	से	से	PSP	PSP	_	2	lwg__psp	_	_
+4	समृद्ध,	समृद्ध,	NN	NN	_	14	k1	_	_
+5	मध्य	मध्य	NNPC	NNPC	_	6	pof__cn	_	_
+6	प्रदेश	प्रदेश	NNP	NNP	_	7	nmod__adj	_	_
+7	हीरे	हीरे	NN	NN	_	8	ccof	_	_
+8	और	और	CC	CC	_	13	r6	_	_
+9	तांबे	तांबे	NN	NN	_	8	ccof	_	_
+10	का	का	PSP	PSP	_	9	lwg__psp	_	_
+11	सबसे	सबसे	INTF	INTF	_	12	jjmod__intf	_	_
+12	बड़ा	बड़ा	JJ	JJ	_	13	nmod__adj	_	_
+13	भंडार	भंडार	NN	NN	_	14	k1	_	_
+14	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence57>
+1	आमेर	आमेर	NNP	NNP	_	2	nmod__adj	_	_
+2	महल	महल	NNP	NNP	_	13	k1	_	_
+3	मुगल	मुगल	NNPC	NNPC	_	7	pof__cn	_	_
+4	औऱ	औऱ	JJ	JJ	_	7	nmod__adj	_	_
+5	हिन्दू	हिन्दू	NNC	NNC	_	7	pof__cn	_	_
+6	स्थापत्य	स्थापत्य	NNC	NNC	_	7	pof__cn	_	_
+7	शैलियों	शैलियों	NN	NN	_	9	r6	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	मिश्रण	मिश्रण	NN	NN	_	12	r6	_	_
+10	का	का	PSP	PSP	_	9	lwg__psp	_	_
+11	उत्कृष्ट	उत्कृष्ट	JJ	JJ	_	12	nmod__adj	_	_
+12	उदाहरण	उदाहरण	NN	NN	_	13	k1s	_	_
+13	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence58>
+1	मध्य	मध्य	NNPC	NNPC	_	2	pof__cn	_	_
+2	प्रदेश	प्रदेश	NNP	NNP	_	3	nmod__adj	_	_
+3	कुपोषण	कुपोषण	NN	NN	_	5	r6	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	मामले	मामले	NN	NN	_	14	k7	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	सबसे	सबसे	INTF	INTF	_	8	jjmod__intf	_	_
+8	ज्यादा	ज्यादा	QF	QF	_	10	nmod__adj	_	_
+9	प्रभावित	प्रभावित	JJ	JJ	_	10	nmod__adj	_	_
+10	राज्यों	राज्यों	NN	NN	_	14	k5	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	से	से	PSP	PSP	_	10	lwg__psp	_	_
+13	एक	एक	QC	QC	_	14	k1	_	_
+14	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence59>
+1	कर्मा	कर्मा	NNPC	NNPC	_	2	pof__cn	_	_
+2	बाई	बाई	NNP	NNP	_	4	nmod	_	_
+3	जैसी	जैसी	PSP	PSP	_	2	lwg__psp	_	_
+4	भक्तणी	भक्तणी	NNP	NNP	_	0	k1	_	_
+5	जिसने	जिसने	PRP	PRP	_	14	k1	_	_
+6	भगवान	भगवान	NNC	NNC	_	9	pof__cn	_	_
+7	जगन	जगन	NNPC	NNPC	_	9	pof__cn	_	_
+8	नाथ	नाथ	NNPC	NNPC	_	9	pof__cn	_	_
+9	जी	जी	NNP	NNP	_	14	k2	_	_
+10	को	को	PSP	PSP	_	9	lwg__psp	_	_
+11	हाथों	हाथों	NN	NN	_	14	k3	_	_
+12	से	से	PSP	PSP	_	11	lwg__psp	_	_
+13	खीचड़ा	खीचड़ा	NN	NN	_	14	k2	_	_
+14	खिलाया	खिलाया	VM	VM	_	0	main	_	_
+15	था	था	VAUX	VAUX	_	14	lwg__vaux	_	_
+----------------------------------------
+<sentence60>
+1	नर्मदा	नर्मदा	NNP	NNP	_	2	nmod__adj	_	_
+2	नदी	नदी	NN	NN	_	4	k7p	_	_
+3	किनारे	किनारे	NN	NN	_	4	k7p	_	_
+4	बसा	बसा	VM	VM	_	6	nmod__k1inv	_	_
+5	यह	यह	DEM	DEM	_	6	nmod__adj	_	_
+6	क्षेत्र	क्षेत्र	NN	NN	_	13	k1	_	_
+7	सांस्कृतिक	सांस्कृतिक	JJ	JJ	_	8	ccof	_	_
+8	और	और	CC	CC	_	10	nmod	_	_
+9	प्राकृतिक	प्राकृतिक	JJ	JJ	_	8	ccof	_	_
+10	समृद्धता	समृद्धता	NN	NN	_	13	k7	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	धनी	धनी	JJ	JJ	_	13	k1s	_	_
+13	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence61>
+1	बुंदेलखंड	बुंदेलखंड	NNP	NNP	_	0	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	दिगंबर	दिगंबर	NNPC	NNPC	_	4	pof__cn	_	_
+4	जैन	जैन	NNP	NNP	_	5	ccof	_	_
+5	एवं	एवं	CC	CC	_	0	main	_	_
+6	मालवा	मालवा	NNP	NNP	_	12	k7p	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	श्वेतांबर	श्वेतांबर	NNPC	NNPC	_	9	pof__cn	_	_
+9	जैन	जैन	NNP	NNP	_	12	k1	_	_
+10	बहूलता	बहूलता	NNP	NNP	_	12	k5	_	_
+11	से	से	PSP	PSP	_	10	lwg__psp	_	_
+12	पाये	पाये	VM	VM	_	5	ccof	_	_
+13	जाते	जाते	VAUX	VAUX	_	12	lwg__vaux	_	_
+14	हैं	हैं	VAUX	VAUX	_	13	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence62>
+1	हाल	हाल	NN	NN	_	13	k7t	_	_
+2	ही	ही	RP	RP	_	1	lwg__rp	_	_
+3	में	में	PSP	PSP	_	1	lwg__psp	_	_
+4	ओरछा	ओरछा	NNP	NNP	_	13	k2	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	यूनेस्को	यूनेस्को	NNP	NNP	_	13	k1	_	_
+7	द्वारा	द्वारा	PSP	PSP	_	6	lwg__psp	_	_
+8	उसकी	उसकी	PRP	PRP	_	10	r6	_	_
+9	अस्थायी	अस्थायी	JJ	JJ	_	10	nmod__adj	_	_
+10	सूची	सूची	NN	NN	_	13	k7	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	सम्मलित	सम्मलित	JJ	JJ	_	13	pof	_	_
+13	किया	किया	VM	VM	_	0	main	_	_
+14	गया	गया	VAUX	VAUX	_	13	lwg__vaux	_	_
+15	है	है	VAUX	VAUX	_	14	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence63>
+1	प्रदेश,	प्रदेश,	NNP	NNP	_	0	k1	_	_
+2	भारत	भारत	NNP	NNP	_	6	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	राज्य	राज्य	NNPC	NNPC	_	6	pof__cn	_	_
+5	हंगर	हंगर	NNPC	NNPC	_	6	pof__cn	_	_
+6	इंडेक्स	इंडेक्स	NNP	NNP	_	16	k7	_	_
+7	पर	पर	PSP	PSP	_	6	lwg__psp	_	_
+8	भी	भी	RP	RP	_	6	lwg__rp	_	_
+9	सबसे	सबसे	INTF	INTF	_	10	jjmod__intf	_	_
+10	कम	कम	QF	QF	_	11	nmod__adj	_	_
+11	रैंकिंग	रैंकिंग	NN	NN	_	13	nmod	_	_
+12	वाले	वाले	PSP	PSP	_	11	lwg__psp	_	_
+13	राज्य	राज्य	NN	NN	_	16	k5	_	_
+14	में	में	PSP	PSP	_	13	lwg__psp	_	_
+15	से	से	PSP	PSP	_	13	lwg__psp	_	_
+16	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence64>
+1	बाड़मेर	बाड़मेर	NNP	NNP	_	2	nmod__adj	_	_
+2	क्षेत्र	क्षेत्र	NN	NN	_	14	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	सिलिसियस	सिलिसियस	NNC	NNC	_	5	pof__cn	_	_
+5	अर्थ	अर्थ	NN	NN	_	6	ccof	_	_
+6	और	और	CC	CC	_	10	r6	_	_
+7	कच्चा	कच्चा	JJ	JJ	_	8	nmod__adj	_	_
+8	तेल	तेल	NN	NN	_	6	ccof	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	भंडार	भंडार	NN	NN	_	14	k1	_	_
+11	प्रचुर	प्रचुर	JJ	JJ	_	12	nmod__adj	_	_
+12	मात्रा	मात्रा	NN	NN	_	14	k7	_	_
+13	में	में	PSP	PSP	_	12	lwg__psp	_	_
+14	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence65>
+1	विदिशा	विदिशा	NNP	NNP	_	2	nmod__adj	_	_
+2	नगरी	नगरी	NN	NN	_	15	k1	_	_
+3	दशवें	दशवें	QO	QO	_	4	nmod__adj	_	_
+4	तीर्थेंकर	तीर्थेंकर	NN	NN	_	6	nmod	_	_
+5	भगवान	भगवान	NNPC	NNPC	_	6	pof__cn	_	_
+6	शीतलनाथ	शीतलनाथ	NNP	NNP	_	8	r6	_	_
+7	की	की	PSP	PSP	_	6	lwg__psp	_	_
+8	गर्भ	गर्भ	NN	NN	_	15	k1	_	_
+9	जन्म	जन्म	NN	NN	_	10	ccof	_	_
+10	व	व	CC	CC	_	12	nmod	_	_
+11	तप	तप	NN	NN	_	10	ccof	_	_
+12	कल्याणक	कल्याणक	NN	NN	_	14	r6	_	_
+13	की	की	PSP	PSP	_	12	lwg__psp	_	_
+14	भूमि	भूमि	NN	NN	_	15	k1s	_	_
+15	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence66>
+1	बुंदेलखंड	बुंदेलखंड	NNP	NNP	_	15	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	दिगंबर	दिगंबर	NNPC	NNPC	_	4	pof__cn	_	_
+4	जैन	जैन	NNP	NNP	_	5	nmod__adj	_	_
+5	समुदाय	समुदाय	NN	NN	_	8	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	एक	एक	QC	QC	_	8	nmod__adj	_	_
+8	पंथ	पंथ	NN	NN	_	9	ccof	_	_
+9	और	और	CC	CC	_	15	vmod	_	_
+10	स्थापित	स्थापित	JJ	JJ	_	11	pof	_	_
+11	हुआ	हुआ	VM	VM	_	9	ccof	_	_
+12	जो	जो	PRP	PRP	_	15	k1	_	_
+13	तारण	तारण	NNPC	NNPC	_	14	pof__cn	_	_
+14	पंथ	पंथ	NN	NN	_	15	k1s	_	_
+15	कहलाता	कहलाता	VM	VM	_	0	main	_	_
+16	है	है	VAUX	VAUX	_	15	lwg__vaux	_	_
+----------------------------------------
+<sentence67>
+1	मुगल	मुगल	NNPC	NNPC	_	2	pof__cn	_	_
+2	काल	काल	NN	NN	_	13	k7t	_	_
+3	मे	मे	PSP	PSP	_	2	lwg__psp	_	_
+4	शाही	शाही	JJ	JJ	_	5	nmod__adj	_	_
+5	दस्तावेजो	दस्तावेजो	NN	NN	_	13	k7	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	भरतपुर,	भरतपुर,	NNPC	NNPC	_	8	pof__cn	_	_
+8	धौलपुर	धौलपुर	NNP	NNP	_	9	nmod__adj	_	_
+9	अलवर	अलवर	NNP	NNP	_	11	r6	_	_
+10	का	का	PSP	PSP	_	9	lwg__psp	_	_
+11	क्षेत्र	क्षेत्र	NN	NN	_	12	nmod	_	_
+12	जटवाड़ा	जटवाड़ा	NNP	NNP	_	13	k1	_	_
+13	कहलाता	कहलाता	VM	VM	_	0	main	_	_
+14	था	था	VAUX	VAUX	_	13	lwg__vaux	_	_
+----------------------------------------
+<sentence68>
+1	जलमहल,	जलमहल,	NNPC	NNPC	_	3	pof__cn	_	_
+2	शाही	शाही	JJ	JJ	_	3	nmod__adj	_	_
+3	बत्तख-शिकार	बत्तख-शिकार	NNP	NNP	_	6	rt	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	लिए	लिए	PSP	PSP	_	3	lwg__psp	_	_
+6	बनाया	बनाया	VM	VM	_	8	nmod__k2inv	_	_
+7	गया	गया	VAUX	VAUX	_	6	lwg__vaux	_	_
+8	मानसागरझील	मानसागरझील	NN	NN	_	11	jjmod	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	बीच	बीच	NST	NST	_	8	lwg__psp	_	_
+11	स्थित	स्थित	JJ	JJ	_	14	nmod	_	_
+12	एक	एक	QC	QC	_	14	nmod__adj	_	_
+13	सुंदर	सुंदर	JJ	JJ	_	14	nmod__adj	_	_
+14	महल	महल	NN	NN	_	15	k1	_	_
+15	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence69>
+1	राज्य	राज्य	NN	NN	_	4	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	प्रति	प्रति	RP	RP	_	4	lwg__rp	_	_
+4	व्यक्ति	व्यक्ति	NN	NN	_	17	k1	_	_
+5	सकल	सकल	NNC	NNC	_	8	pof__cn	_	_
+6	राज्य	राज्य	NNPC	NNPC	_	8	pof__cn	_	_
+7	घरेलू	घरेलू	JJ	JJ	_	8	nmod__adj	_	_
+8	उत्पाद	उत्पाद	NN	NN	_	17	k1	_	_
+9	देश	देश	NN	NN	_	17	r6	_	_
+10	के	के	PSP	PSP	_	9	lwg__psp	_	_
+11	सबसे	सबसे	INTF	INTF	_	12	jjmod__intf	_	_
+12	कम	कम	QF	QF	_	17	k7	_	_
+13	में	में	PSP	PSP	_	12	lwg__psp	_	_
+14	चौथा	चौथा	QO	QO	_	15	nmod__adj	_	_
+15	स्थान	स्थान	NN	NN	_	17	k7	_	_
+16	पर	पर	PSP	PSP	_	15	lwg__psp	_	_
+17	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence70>
+1	जयपुर	जयपुर	NNP	NNP	_	2	nmod__adj	_	_
+2	संगमरमर	संगमरमर	NN	NN	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	प्रतिमाओं,	प्रतिमाओं,	NN	NN	_	6	nmod	_	_
+5	ब्लू	ब्लू	NNPC	NNPC	_	6	pof__cn	_	_
+6	पॉटरी	पॉटरी	NNP	NNP	_	7	jjmod	_	_
+7	औऱ	औऱ	JJ	JJ	_	9	nmod	_	_
+8	राजस्थानी	राजस्थानी	NNPC	NNPC	_	9	pof__cn	_	_
+9	जूतियों	जूतियों	NN	NN	_	14	rt	_	_
+10	के	के	PSP	PSP	_	9	lwg__psp	_	_
+11	लिए	लिए	PSP	PSP	_	9	lwg__psp	_	_
+12	भी	भी	RP	RP	_	9	lwg__rp	_	_
+13	प्रसिद्ध	प्रसिद्ध	JJ	JJ	_	14	k1s	_	_
+14	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence71>
+1	शहर	शहर	NN	NN	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	अर्थव्यस्था	अर्थव्यस्था	NN	NN	_	14	k7	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	हथकरघा,	हथकरघा,	NNPC	NNPC	_	7	pof__cn	_	_
+6	वस्त्र	वस्त्र	NNC	NNC	_	7	pof__cn	_	_
+7	उद्योग	उद्योग	NN	NN	_	8	ccof	_	_
+8	और	और	CC	CC	_	11	r6	_	_
+9	धातु	धातु	NN	NN	_	8	ccof	_	_
+10	आधारित	आधारित	JJ	JJ	_	11	nmod__adj	_	_
+11	उद्योगों	उद्योगों	NN	NN	_	13	r6	_	_
+12	का	का	PSP	PSP	_	11	lwg__psp	_	_
+13	योगदान	योगदान	NN	NN	_	14	k1	_	_
+14	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence72>
+1	यहां	यहां	PRP	PRP	_	13	k7p	_	_
+2	पर	पर	PSP	PSP	_	1	lwg__psp	_	_
+3	सर्वप्रथम	सर्वप्रथम	NN	NN	_	13	k1	_	_
+4	1904	1904	NNP	NNP	_	10	k7t	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	समुद्री	समुद्री	JJ	JJ	_	7	nmod__adj	_	_
+7	सीपियों	सीपियों	NN	NN	_	10	k3	_	_
+8	से	से	PSP	PSP	_	7	lwg__psp	_	_
+9	सीमेन्ट	सीमेन्ट	NN	NN	_	10	k2	_	_
+10	बनाने	बनाने	VM	VM	_	12	r6-k2	_	_
+11	का	का	PSP	PSP	_	10	lwg__psp	_	_
+12	प्रयास	प्रयास	NN	NN	_	13	pof	_	_
+13	किया	किया	VM	VM	_	0	main	_	_
+14	गया	गया	VAUX	VAUX	_	13	lwg__vaux	_	_
+15	था	था	VAUX	VAUX	_	14	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence73>
+1	1965	1965	NNP	NNP	_	15	k7t	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	बूंदी	बूंदी	NNP	NNP	_	4	nmod__adj	_	_
+4	ज़िले	ज़िले	NN	NN	_	6	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	केशोराय	केशोराय	NN	NN	_	7	nmod	_	_
+7	पाटन	पाटन	NNP	NNP	_	15	k7p	_	_
+8	में	में	PSP	PSP	_	7	lwg__psp	_	_
+9	चीनी	चीनी	JJ	JJ	_	15	nmod	_	_
+10	मिल	मिल	VM	VM	_	15	vmod	_	_
+11	सहकारी	सहकारी	JJ	JJ	_	12	nmod__adj	_	_
+12	क्षेत्र	क्षेत्र	NN	NN	_	15	k7p	_	_
+13	में	में	PSP	PSP	_	12	lwg__psp	_	_
+14	स्थापित	स्थापित	JJ	JJ	_	15	pof	_	_
+15	की	की	VM	VM	_	0	nmod__k2inv	_	_
+16	गई	गई	VAUX	VAUX	_	15	lwg__vaux	_	_
+----------------------------------------
+<sentence74>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	दिन	दिन	NN	NN	_	9	k7t	_	_
+3	मध्यप्रदेश	मध्यप्रदेश	NNP	NNP	_	4	nmod__adj	_	_
+4	राज्य	राज्य	NN	NN	_	9	k5	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	१४	१४	QC	QC	_	7	nmod__adj	_	_
+7	जिले	जिले	NN	NN	_	9	k2	_	_
+8	अलग	अलग	JJ	JJ	_	9	pof	_	_
+9	कर	कर	VM	VM	_	15	vmod	_	_
+10	छत्तीसगढ़	छत्तीसगढ़	NNPC	NNPC	_	12	pof__cn	_	_
+11	राज्य	राज्य	NNPC	NNPC	_	12	pof__cn	_	_
+12	छत्तीसगढ़	छत्तीसगढ़	NNP	NNP	_	14	r6	_	_
+13	की	की	PSP	PSP	_	12	lwg__psp	_	_
+14	स्थापना	स्थापना	NN	NN	_	15	pof	_	_
+15	हुई	हुई	VM	VM	_	0	main	_	_
+16	थी	थी	VAUX	VAUX	_	15	lwg__vaux	_	_
+----------------------------------------
+<sentence75>
+1	जीवन	जीवन	NNC	NNC	_	4	pof__cn	_	_
+2	शैली,	शैली,	NNPC	NNPC	_	4	pof__cn	_	_
+3	कला,	कला,	NNPC	NNPC	_	4	pof__cn	_	_
+4	साहित्य	साहित्य	NN	NN	_	5	ccof	_	_
+5	और	और	CC	CC	_	8	k2	_	_
+6	वाचिक	वाचिक	JJ	JJ	_	7	nmod__adj	_	_
+7	परम्परा	परम्परा	NN	NN	_	5	ccof	_	_
+8	मिलकर	मिलकर	VM	VM	_	14	vmod	_	_
+9	किसी	किसी	PRP	PRP	_	10	mod	_	_
+10	अंचल	अंचल	NN	NN	_	13	r6	_	_
+11	की	की	PSP	PSP	_	10	lwg__psp	_	_
+12	सांस्कृतिक	सांस्कृतिक	JJ	JJ	_	13	nmod__adj	_	_
+13	पहचान	पहचान	NN	NN	_	14	k1	_	_
+14	बनाती	बनाती	VM	VM	_	0	main	_	_
+15	है	है	VAUX	VAUX	_	14	lwg__vaux	_	_
+----------------------------------------
+<sentence76>
+1	महाराजा	महाराजा	NNC	NNC	_	4	pof__cn	_	_
+2	सवाई	सवाई	NNPC	NNPC	_	4	pof__cn	_	_
+3	प्रताप	प्रताप	NNPC	NNPC	_	4	pof__cn	_	_
+4	सिंह	सिंह	NNP	NNP	_	10	k1	_	_
+5	ने	ने	PSP	PSP	_	4	lwg__psp	_	_
+6	हवामहल	हवामहल	NNP	NNP	_	10	k2	_	_
+7	1799	1799	NNP	NNP	_	8	nmod__adj	_	_
+8	ई.	ई.	NNP	NNP	_	10	k7	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	बनवाया	बनवाया	VM	VM	_	14	nmod__k1inv	_	_
+11	जिसके	जिसके	PRP	PRP	_	12	r6	_	_
+12	वास्तुकार	वास्तुकार	NN	NN	_	14	nmod	_	_
+13	लालचन्द	लालचन्द	NNPC	NNPC	_	14	pof__cn	_	_
+14	उस्ता	उस्ता	NNP	NNP	_	15	k1	_	_
+15	थे	थे	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence77>
+1	गंगा	गंगा	NNPC	NNPC	_	2	pof__cn	_	_
+2	बेसिन	बेसिन	NN	NN	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	नदियों	नदियों	NN	NN	_	6	k7p	_	_
+5	पर	पर	PSP	PSP	_	4	lwg__psp	_	_
+6	बनाई	बनाई	VM	VM	_	10	nmod	_	_
+7	जाने	जाने	VAUX	VAUX	_	6	lwg__vaux	_	_
+8	वाली	वाली	PSP	PSP	_	6	lwg__psp	_	_
+9	जल-विद्युत	जल-विद्युत	NNC	NNC	_	10	pof__cn	_	_
+10	योजनाओं	योजनाओं	NN	NN	_	16	k7	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	भी	भी	RP	RP	_	10	lwg__rp	_	_
+13	राजस्थान	राजस्थान	NNP	NNP	_	16	k1	_	_
+14	भी	भी	RP	RP	_	13	lwg__rp	_	_
+15	भागीदार	भागीदार	NN	NN	_	16	k1s	_	_
+16	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence78>
+1	1956	1956	NNP	NNP	_	5	k7t	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	इस	इस	DEM	DEM	_	4	nmod__adj	_	_
+4	चीनी	चीनी	NN	NN	_	5	k2	_	_
+5	मिल	मिल	VM	VM	_	11	k2	_	_
+6	को	को	PSP	PSP	_	5	lwg__psp	_	_
+7	राज्य	राज्य	NNC	NNC	_	8	pof__cn	_	_
+8	सरकार	सरकार	NN	NN	_	11	k1	_	_
+9	ने	ने	PSP	PSP	_	8	lwg__psp	_	_
+10	अधिगृहीत	अधिगृहीत	JJ	JJ	_	11	pof	_	_
+11	कर	कर	VM	VM	_	13	ccof	_	_
+12	लिया	लिया	VAUX	VAUX	_	11	lwg__vaux	_	_
+13	तथा	तथा	CC	CC	_	0	main	_	_
+14	यह	यह	PRP	PRP	_	18	k1	_	_
+15	सार्वजनिक	सार्वजनिक	JJ	JJ	_	16	nmod__adj	_	_
+16	क्षेत्र	क्षेत्र	NN	NN	_	18	k7	_	_
+17	में	में	PSP	PSP	_	16	lwg__psp	_	_
+18	आ	आ	VM	VM	_	13	ccof	_	_
+19	गई	गई	VAUX	VAUX	_	18	lwg__vaux	_	_
+----------------------------------------
+<sentence79>
+1	गुजरात,	गुजरात,	NNP	NNP	_	0	k1	_	_
+2	महाराष्ट्र	महाराष्ट्र	NNP	NNP	_	3	ccof	_	_
+3	अथवा	अथवा	CC	CC	_	15	k7p	_	_
+4	उड़ीसा	उड़ीसा	NNP	NNP	_	3	ccof	_	_
+5	की	की	PSP	PSP	_	4	lwg__psp	_	_
+6	तरह	तरह	PSP	PSP	_	4	lwg__psp	_	_
+7	इस	इस	DEM	DEM	_	8	nmod__adj	_	_
+8	प्रदेश	प्रदेश	NN	NN	_	15	k2	_	_
+9	को	को	PSP	PSP	_	8	lwg__psp	_	_
+10	किसी	किसी	PRP	PRP	_	12	mod	_	_
+11	भाषाई	भाषाई	JJ	JJ	_	12	nmod__adj	_	_
+12	संस्कृति	संस्कृति	NN	NN	_	15	k7	_	_
+13	में	में	PSP	PSP	_	12	lwg__psp	_	_
+14	नहीं	नहीं	NEG	NEG	_	15	lwg__neg	_	_
+15	पहचाना	पहचाना	VM	VM	_	0	main	_	_
+16	जाता	जाता	VAUX	VAUX	_	15	lwg__vaux	_	_
+----------------------------------------
+<sentence80>
+1	इसे	इसे	PRP	PRP	_	16	k4	_	_
+2	इस	इस	DEM	DEM	_	3	nmod__adj	_	_
+3	समय	समय	NN	NN	_	16	k7t	_	_
+4	भाखरा-नांगल	भाखरा-नांगल	NNP	NNP	_	5	ccof	_	_
+5	और	और	CC	CC	_	12	r6	_	_
+6	अन्य	अन्य	JJ	JJ	_	7	nmod__adj	_	_
+7	योजनाओं	योजनाओं	NN	NN	_	5	ccof	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	कृषि	कृषि	NNPC	NNPC	_	12	pof__cn	_	_
+10	एवं	एवं	NNPC	NNPC	_	12	pof__cn	_	_
+11	औद्योगिक	औद्योगिक	JJ	JJ	_	12	nmod__adj	_	_
+12	विकास	विकास	NN	NN	_	16	k7	_	_
+13	में	में	PSP	PSP	_	12	lwg__psp	_	_
+14	भरपूर	भरपूर	JJ	JJ	_	15	nmod__adj	_	_
+15	सहायता	सहायता	NN	NN	_	16	k1	_	_
+16	मिलती	मिलती	VM	VM	_	0	main	_	_
+17	है	है	VAUX	VAUX	_	16	lwg__vaux	_	_
+----------------------------------------
+<sentence81>
+1	चन्द्रमहल	चन्द्रमहल	NNPC	NNPC	_	3	pof__cn	_	_
+2	महाराजा	महाराजा	NNPC	NNPC	_	3	pof__cn	_	_
+3	जयसिंह	जयसिंह	NNP	NNP	_	5	k1	_	_
+4	द्वारा	द्वारा	PSP	PSP	_	3	lwg__psp	_	_
+5	बनवाया	बनवाया	VM	VM	_	8	ccof	_	_
+6	गया	गया	VAUX	VAUX	_	5	lwg__vaux	_	_
+7	था	था	VAUX	VAUX	_	6	lwg__vaux_cont	_	_
+8	और	और	CC	CC	_	0	main	_	_
+9	मुगल	मुगल	NNP	NNP	_	10	jjmod	_	_
+10	औऱ	औऱ	JJ	JJ	_	12	nmod	_	_
+11	राजस्थानी	राजस्थानी	JJ	JJ	_	12	nmod__adj	_	_
+12	स्थापत्य	स्थापत्य	NN	NN	_	15	r6	_	_
+13	का	का	PSP	PSP	_	12	lwg__psp	_	_
+14	एक	एक	QC	QC	_	15	nmod__adj	_	_
+15	संयोजन	संयोजन	NN	NN	_	16	k1	_	_
+16	है	है	VM	VM	_	8	ccof	_	_
+----------------------------------------
+<sentence82>
+1	छत्तीसगढ़	छत्तीसगढ़	NNPC	NNPC	_	2	pof__cn	_	_
+2	राज्य	राज्य	NN	NN	_	4	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	गठन	गठन	NN	NN	_	8	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	बाद,	बाद,	NNPC	NNPC	_	8	pof__cn	_	_
+7	महानदी	महानदी	NNPC	NNPC	_	8	pof__cn	_	_
+8	बेसिन	बेसिन	NNP	NNP	_	11	r6	_	_
+9	का	का	PSP	PSP	_	8	lwg__psp	_	_
+10	बड़ा	बड़ा	JJ	JJ	_	11	nmod__adj	_	_
+11	हिस्सा	हिस्सा	NN	NN	_	16	k1	_	_
+12	अब	अब	PRP	PRP	_	16	k7t	_	_
+13	छत्तीसगढ़	छत्तीसगढ़	NNP	NNP	_	16	k7p	_	_
+14	में	में	PSP	PSP	_	13	lwg__psp	_	_
+15	प्रवाहित	प्रवाहित	JJ	JJ	_	16	pof	_	_
+16	होता	होता	VM	VM	_	0	main	_	_
+17	हैं	हैं	VAUX	VAUX	_	16	lwg__vaux	_	_
+----------------------------------------
+<sentence83>
+1	कनक	कनक	NNPC	NNPC	_	2	pof__cn	_	_
+2	वृंदावन	वृंदावन	NNP	NNP	_	15	k1	_	_
+3	अपने	अपने	PRP	PRP	_	5	r6	_	_
+4	प्राचीन	प्राचीन	JJ	JJ	_	5	nmod__adj	_	_
+5	गोविन्देव	गोविन्देव	NNP	NNP	_	6	nmod	_	_
+6	विग्रह	विग्रह	NN	NN	_	15	rt	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	लिए	लिए	PSP	PSP	_	6	lwg__psp	_	_
+9	प्रसिद्ध	प्रसिद्ध	JJ	JJ	_	10	nmod__adj	_	_
+10	जयपुर	जयपुर	NNP	NNP	_	15	k7p	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	एक	एक	QC	QC	_	14	nmod__adj	_	_
+13	लोकप्रिय	लोकप्रिय	JJ	JJ	_	14	nmod__adj	_	_
+14	मंदिर-समूह	मंदिर-समूह	NN	NN	_	15	k1	_	_
+15	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence84>
+1	राज्य	राज्य	NN	NN	_	15	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	400	400	QC	QC	_	4	nmod__adj	_	_
+4	इंजीनियरिंग	इंजीनियरिंग	NN	NN	_	5	ccof	_	_
+5	और	और	CC	CC	_	10	nmod	_	_
+6	आर्किटेक्चर	आर्किटेक्चर	NN	NN	_	5	ccof	_	_
+7	कॉलेजों,	कॉलेजों,	NNPC	NNPC	_	10	pof__cn	_	_
+8	250	250	QC	QC	_	10	nmod__adj	_	_
+9	प्रबंधन	प्रबंधन	NNC	NNC	_	10	pof__cn	_	_
+10	संस्थानों	संस्थानों	NN	NN	_	11	ccof	_	_
+11	और	और	CC	CC	_	15	k1	_	_
+12	12	12	QC	QC	_	14	nmod__adj	_	_
+13	मेडिकल	मेडिकल	NNC	NNC	_	14	pof__cn	_	_
+14	कॉलेज	कॉलेज	NN	NN	_	11	ccof	_	_
+15	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence85>
+1	18	18	QC	QC	_	3	nmod__adj	_	_
+2	वीं	वीं	NNPC	NNPC	_	3	pof__cn	_	_
+3	सदी	सदी	NN	NN	_	7	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	घना	घना	JJ	JJ	_	7	nmod__adj	_	_
+6	पक्षी	पक्षी	NNC	NNC	_	7	pof__cn	_	_
+7	अभयारण्य	अभयारण्य	NN	NN	_	0	main	_	_
+8	,	,	SYM	SYM	_	7	rsym	_	_
+9	जो	जो	PRP	PRP	_	18	k1	_	_
+10	केवलादेव	केवलादेव	NNPC	NNPC	_	11	pof__cn	_	_
+11	घना	घना	NN	NN	_	18	k1	_	_
+12	राष्ट्रीय	राष्ट्रीय	NNPC	NNPC	_	13	pof__cn	_	_
+13	उद्यान	उद्यान	NN	NN	_	18	k7p	_	_
+14	के	के	PSP	PSP	_	13	lwg__psp	_	_
+15	रूप	रूप	PSP	PSP	_	13	lwg__psp	_	_
+16	में	में	PSP	PSP	_	13	lwg__psp	_	_
+17	भी	भी	RP	RP	_	13	lwg__rp	_	_
+18	जाना	जाना	VM	VM	_	7	nmod__relc	_	_
+19	जाता	जाता	VAUX	VAUX	_	18	lwg__vaux	_	_
+20	है	है	VAUX	VAUX	_	19	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence86>
+1	आमेर	आमेर	NNP	NNP	_	2	nmod__adj	_	_
+2	दुर्ग	दुर्ग	NNP	NNP	_	15	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	महलों,	महलों,	NNPC	NNPC	_	6	pof__cn	_	_
+5	विशाल	विशाल	JJ	JJ	_	6	nmod__adj	_	_
+6	कक्षों,	कक्षों,	NN	NN	_	15	k1	_	_
+7	स्तंभदार	स्तंभदार	JJ	JJ	_	9	nmod__adj	_	_
+8	दर्शक-दीर्घाओं,	दर्शक-दीर्घाओं,	JJ	JJ	_	7	mod	_	_
+9	बगीचों	बगीचों	NN	NN	_	10	ccof	_	_
+10	और	और	CC	CC	_	15	k7p	_	_
+11	मंदिरों	मंदिरों	NN	NN	_	10	ccof	_	_
+12	सहित	सहित	PSP	PSP	_	11	lwg__psp	_	_
+13	कई	कई	QF	QF	_	14	nmod__adj	_	_
+14	भवन-समूह	भवन-समूह	NN	NN	_	15	k1	_	_
+15	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence87>
+1	भरतपुर	भरतपुर	NNPC	NNPC	_	2	pof__cn	_	_
+2	संग्रहालय	संग्रहालय	NNP	NNP	_	18	k1	_	_
+3	राजस्थान	राजस्थान	NNP	NNP	_	7	r6	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	विगत	विगत	JJ	JJ	_	7	nmod__adj	_	_
+6	शाही	शाही	JJ	JJ	_	5	mod	_	_
+7	वैभव	वैभव	NN	NN	_	18	ras-k1	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	साथ	साथ	NST	NST	_	7	lwg__psp	_	_
+10	शौर्यपूर्ण	शौर्यपूर्ण	JJ	JJ	_	11	nmod__adj	_	_
+11	अतीत	अतीत	NN	NN	_	13	r6	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	साक्षात्कार	साक्षात्कार	NN	NN	_	17	r6	_	_
+14	का	का	PSP	PSP	_	13	lwg__psp	_	_
+15	एक	एक	QC	QC	_	17	nmod__adj	_	_
+16	प्रमुख	प्रमुख	JJ	JJ	_	17	nmod__adj	_	_
+17	स्रोत	स्रोत	NN	NN	_	18	k1	_	_
+18	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence88>
+1	वैनगंगा,	वैनगंगा,	NNPC	NNPC	_	2	pof__cn	_	_
+2	वर्धा,	वर्धा,	NNP	NNP	_	4	nmod__adj	_	_
+3	पेंच,	पेंच,	NNPC	NNPC	_	4	pof__cn	_	_
+4	कान्हां	कान्हां	NNP	NNP	_	16	k1	_	_
+5	नदियां,	नदियां,	NNPC	NNPC	_	8	pof__cn	_	_
+6	गोदावरी	गोदावरी	NNPC	NNPC	_	8	pof__cn	_	_
+7	नदी	नदी	NNPC	NNPC	_	8	pof__cn	_	_
+8	प्रणाली	प्रणाली	NN	NN	_	16	k7	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	विशाल	विशाल	JJ	JJ	_	11	nmod__adj	_	_
+11	मात्रा	मात्रा	NN	NN	_	16	k7	_	_
+12	में	में	PSP	PSP	_	11	lwg__psp	_	_
+13	पानी	पानी	NN	NN	_	15	r6-k2	_	_
+14	का	का	PSP	PSP	_	13	lwg__psp	_	_
+15	निर्वहन	निर्वहन	NN	NN	_	16	pof	_	_
+16	करती	करती	VM	VM	_	0	main	_	_
+17	हैंं	हैंं	VAUX	VAUX	_	16	lwg__vaux	_	_
+----------------------------------------
+<sentence89>
+1	हाल	हाल	NN	NN	_	4	r6	_	_
+2	ही	ही	RP	RP	_	1	lwg__rp	_	_
+3	की	की	PSP	PSP	_	1	lwg__psp	_	_
+4	खुदाई	खुदाई	NN	NN	_	7	rh	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	पता	पता	NN	NN	_	7	pof	_	_
+7	चला	चला	VM	VM	_	0	main	_	_
+8	है	है	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	कि	कि	CC	CC	_	7	rs	_	_
+10	इस	इस	DEM	DEM	_	11	nmod__adj	_	_
+11	क्षेत्र	क्षेत्र	NN	NN	_	23	k7p	_	_
+12	में	में	PSP	PSP	_	11	lwg__psp	_	_
+13	उच्च	उच्च	JJ	JJ	_	14	nmod__adj	_	_
+14	किस्म	किस्म	NN	NN	_	17	r6	_	_
+15	की	की	PSP	PSP	_	14	lwg__psp	_	_
+16	प्राकृतिक	प्राकृतिक	JJ	JJ	_	17	nmod__adj	_	_
+17	गैस	गैस	NN	NN	_	23	k1	_	_
+18	भी	भी	RP	RP	_	17	lwg__rp	_	_
+19	प्रचुर	प्रचुर	JJ	JJ	_	20	nmod__adj	_	_
+20	मात्रा	मात्रा	NN	NN	_	23	k7	_	_
+21	में	में	PSP	PSP	_	20	lwg__psp	_	_
+22	उपलब्ध	उपलब्ध	JJ	JJ	_	23	k1s	_	_
+23	है	है	VM	VM	_	9	ccof	_	_
+----------------------------------------
+<sentence90>
+1	जयपुर	जयपुर	NNP	NNP	_	0	k7p	_	_
+2	इसके	इसके	PRP	PRP	_	4	r6	_	_
+3	भव्य	भव्य	JJ	JJ	_	4	nmod__adj	_	_
+4	किलों,	किलों,	NN	NN	_	0	k1	_	_
+5	महलों	महलों	NN	NN	_	6	ccof	_	_
+6	और	और	CC	CC	_	0	k7p	_	_
+7	सुंदर	सुंदर	JJ	JJ	_	8	nmod__adj	_	_
+8	झीलों	झीलों	NN	NN	_	6	ccof	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	लिए	लिए	PSP	PSP	_	8	lwg__psp	_	_
+11	प्रसिद्ध	प्रसिद्ध	JJ	JJ	_	12	nmod__adj	_	_
+12	है,	है,	NN	NN	_	0	k1	_	_
+13	जो	जो	PRP	PRP	_	19	k1	_	_
+14	विश्वभर	विश्वभर	NN	NN	_	19	k5	_	_
+15	से	से	PSP	PSP	_	14	lwg__psp	_	_
+16	पर्यटकों	पर्यटकों	NN	NN	_	19	k2	_	_
+17	को	को	PSP	PSP	_	16	lwg__psp	_	_
+18	आकर्षित	आकर्षित	JJ	JJ	_	19	pof	_	_
+19	करते	करते	VM	VM	_	0	main	_	_
+20	हैं	हैं	VAUX	VAUX	_	19	lwg__vaux	_	_
+----------------------------------------
+<sentence91>
+1	भारत	भारत	NNP	NNP	_	4	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	वर्तमान	वर्तमान	JJ	JJ	_	4	nmod__adj	_	_
+4	मानचित्र	मानचित्र	NN	NN	_	19	k7	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	एक	एक	QC	QC	_	8	nmod__adj	_	_
+7	प्रमुख	प्रमुख	JJ	JJ	_	8	nmod__adj	_	_
+8	पर्यटक	पर्यटक	NN	NN	_	19	k1	_	_
+9	गंतव्य,	गंतव्य,	NN	NN	_	19	k1	_	_
+10	भरतपुर	भरतपुर	NNP	NNP	_	12	nmod__adj	_	_
+11	पांचवी	पांचवी	NNPC	NNPC	_	12	pof__cn	_	_
+12	सदी	सदी	NN	NN	_	19	k7t	_	_
+13	ईसा	ईसा	NNP	NNP	_	14	nmod__adj	_	_
+14	पूर्व	पूर्व	NST	NST	_	19	k5	_	_
+15	से	से	PSP	PSP	_	14	lwg__psp	_	_
+16	कई	कई	QF	QF	_	17	nmod__adj	_	_
+17	अवस्थाओं	अवस्थाओं	NN	NN	_	19	k5	_	_
+18	से	से	PSP	PSP	_	17	lwg__psp	_	_
+19	गुजर	गुजर	VM	VM	_	0	main	_	_
+20	चुका	चुका	VAUX	VAUX	_	19	lwg__vaux	_	_
+21	है	है	VAUX	VAUX	_	20	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence92>
+1	विख्यात	विख्यात	JJ	JJ	_	2	nmod__adj	_	_
+2	हिन्दुस्तानी	हिन्दुस्तानी	NN	NN	_	18	k1	_	_
+3	शास्त्रीय	शास्त्रीय	JJ	JJ	_	5	nmod__adj	_	_
+4	संगीत	संगीत	NNC	NNC	_	5	pof__cn	_	_
+5	घरानों	घरानों	NN	NN	_	18	k7	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	मध्य	मध्य	NNPC	NNPC	_	8	pof__cn	_	_
+8	प्रदेश	प्रदेश	NNP	NNP	_	13	r6	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	मैहर	मैहर	NNP	NNP	_	11	nmod__adj	_	_
+11	घराने,	घराने,	NNP	NNP	_	13	nmod	_	_
+12	ग्वालियर	ग्वालियर	NNP	NNP	_	13	nmod__adj	_	_
+13	घराने	घराने	NNP	NNP	_	14	ccof	_	_
+14	और	और	CC	CC	_	18	k1	_	_
+15	सेनिया	सेनिया	NNP	NNP	_	16	nmod__adj	_	_
+16	घराने	घराने	NNP	NNP	_	14	ccof	_	_
+17	शामिल	शामिल	JJ	JJ	_	18	k1s	_	_
+18	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence93>
+1	इसके	इसके	PRP	PRP	_	2	r6	_	_
+2	उत्तर	उत्तर	NNP	NNP	_	0	k7	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	उत्तर	उत्तर	NNPC	NNPC	_	6	pof__cn	_	_
+5	प्रदेश,	प्रदेश,	NNPC	NNPC	_	6	pof__cn	_	_
+6	पूर्व	पूर्व	NST	NST	_	0	k7	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	छत्तीसगढ़,	छत्तीसगढ़,	NNPC	NNPC	_	9	pof__cn	_	_
+9	दक्षिण	दक्षिण	NNP	NNP	_	0	k7p	_	_
+10	में	में	PSP	PSP	_	9	lwg__psp	_	_
+11	महाराष्ट्र,	महाराष्ट्र,	NN	NN	_	0	k7t	_	_
+12	पश्चिम	पश्चिम	NNP	NNP	_	0	k7p	_	_
+13	में	में	PSP	PSP	_	12	lwg__psp	_	_
+14	गुजरात,	गुजरात,	NNP	NNP	_	15	ccof	_	_
+15	तथा	तथा	CC	CC	_	0	main	_	_
+16	उत्तर-पश्चिम	उत्तर-पश्चिम	NNP	NNP	_	19	k7p	_	_
+17	में	में	PSP	PSP	_	16	lwg__psp	_	_
+18	राजस्थान	राजस्थान	NNP	NNP	_	19	k2p	_	_
+19	है	है	VM	VM	_	15	ccof	_	_
+----------------------------------------
+<sentence94>
+1	राजस्थान	राजस्थान	NNP	NNP	_	14	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	काँच	काँच	NNC	NNC	_	4	pof__cn	_	_
+4	प्राप्ति	प्राप्ति	NN	NN	_	7	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	मुख्य	मुख्य	JJ	JJ	_	7	nmod__adj	_	_
+7	स्थल	स्थल	NN	NN	_	10	nmod	_	_
+8	जयपुर,	जयपुर,	NNP	NNP	_	10	nmod__adj	_	_
+9	बीकानेर,	बीकानेर,	NNPC	NNPC	_	10	pof__cn	_	_
+10	बूंदी	बूंदी	NNP	NNP	_	11	ccof	_	_
+11	तथा	तथा	CC	CC	_	13	nmod	_	_
+12	धौलपुर	धौलपुर	NNP	NNP	_	11	ccof	_	_
+13	ज़िले	ज़िले	NN	NN	_	14	k1	_	_
+14	है	है	VM	VM	_	0	main	_	_
+15	जहां	जहां	PRP	PRP	_	22	k7p	_	_
+16	उपयुक्त	उपयुक्त	JJ	JJ	_	17	nmod__adj	_	_
+17	रूप	रूप	NN	NN	_	22	adv	_	_
+18	से	से	PSP	PSP	_	17	lwg__psp	_	_
+19	काँच	काँच	NN	NN	_	21	r6-k1	_	_
+20	की	की	PSP	PSP	_	19	lwg__psp	_	_
+21	प्राप्ति	प्राप्ति	NN	NN	_	22	pof	_	_
+22	होती	होती	VM	VM	_	13	nmod__relc	_	_
+23	है	है	VAUX	VAUX	_	22	lwg__vaux	_	_
+----------------------------------------
+<sentence95>
+1	राजस्थान	राजस्थान	NNP	NNP	_	11	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	सर्वप्रथम	सर्वप्रथम	NNPC	NNPC	_	4	pof__cn	_	_
+4	चित्तौड़गढ़	चित्तौड़गढ़	NNP	NNP	_	5	nmod__adj	_	_
+5	ज़िले	ज़िले	NN	NN	_	11	k7p	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	भोपालसागर	भोपालसागर	NNP	NNP	_	8	nmod__adj	_	_
+8	नगर	नगर	NN	NN	_	11	k7p	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	चीनी	चीनी	JJ	JJ	_	11	k1	_	_
+11	मिल	मिल	VM	VM	_	17	nmod__k1inv	_	_
+12	द	द	NNPC	NNPC	_	15	pof__cn	_	_
+13	मेवाड़	मेवाड़	NNPC	NNPC	_	15	pof__cn	_	_
+14	सुगर	सुगर	NNPC	NNPC	_	15	pof__cn	_	_
+15	मिल्स	मिल्स	NNP	NNP	_	17	r6	_	_
+16	के	के	PSP	PSP	_	15	lwg__psp	_	_
+17	नाम	नाम	NN	NN	_	23	k5	_	_
+18	से	से	PSP	PSP	_	17	lwg__psp	_	_
+19	सन्	सन्	NNPC	NNPC	_	20	pof__cn	_	_
+20	1932	1932	NNP	NNP	_	23	k7t	_	_
+21	में	में	PSP	PSP	_	20	lwg__psp	_	_
+22	प्रारम्भ	प्रारम्भ	NN	NN	_	23	pof	_	_
+23	की	की	VM	VM	_	0	main	_	_
+24	गई	गई	VAUX	VAUX	_	23	lwg__vaux	_	_
+----------------------------------------
+<sentence96>
+1	यहा	यहा	PRP	PRP	_	9	k7	_	_
+2	पर	पर	PSP	PSP	_	1	lwg__psp	_	_
+3	वस्र्त	वस्र्त	NNP	NNP	_	6	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	रंगाई	रंगाई	NNC	NNC	_	6	pof__cn	_	_
+6	छपाई	छपाई	NN	NN	_	8	r6-k2	_	_
+7	का	का	PSP	PSP	_	6	lwg__psp	_	_
+8	कार्य	कार्य	NN	NN	_	9	k1	_	_
+9	होता	होता	VM	VM	_	11	ccof	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux	_	_
+11	और	और	CC	CC	_	0	main	_	_
+12	इसकी	इसकी	PRP	PRP	_	14	r6	_	_
+13	महत्वपुर्ण	महत्वपुर्ण	JJ	JJ	_	14	nmod__adj	_	_
+14	बात	बात	NN	NN	_	16	k1	_	_
+15	यह	यह	PRP	PRP	_	16	k1s	_	_
+16	है	है	VM	VM	_	11	ccof	_	_
+17	कि	कि	CC	CC	_	15	rs	_	_
+18	लुणी	लुणी	NNP	NNP	_	19	nmod__adj	_	_
+19	नदी	नदी	NN	NN	_	21	r6	_	_
+20	का	का	PSP	PSP	_	19	lwg__psp	_	_
+21	जल	जल	NN	NN	_	26	k1	_	_
+22	इस	इस	DEM	DEM	_	23	nmod__adj	_	_
+23	स्थान	स्थान	NN	NN	_	26	k5	_	_
+24	से	से	PSP	PSP	_	23	lwg__psp	_	_
+25	पानी	पानी	NN	NN	_	26	k1	_	_
+26	खारा(लवणीय)हो	खारा(लवणीय)हो	VM	VM	_	17	ccof	_	_
+27	जाता	जाता	VAUX	VAUX	_	26	lwg__vaux	_	_
+28	है	है	VAUX	VAUX	_	27	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence97>
+1	बडवानी	बडवानी	NNP	NNP	_	3	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	बावनगजा,दमोह	बावनगजा,दमोह	NN	NN	_	5	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	कुण्डलपुर,दतिया	कुण्डलपुर,दतिया	NN	NN	_	9	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	सोनागिरी,अशोकनगर	सोनागिरी,अशोकनगर	NNP	NNP	_	9	r6	_	_
+8	का	का	PSP	PSP	_	7	lwg__psp	_	_
+9	निसईजी	निसईजी	NN	NN	_	17	k1	_	_
+10	मल्हारगढ़,बैतूल	मल्हारगढ़,बैतूल	NNP	NNP	_	12	r6	_	_
+11	की	की	PSP	PSP	_	10	lwg__psp	_	_
+12	मुक्तागिरी	मुक्तागिरी	NN	NN	_	14	nmod	_	_
+13	जैन	जैन	NNPC	NNPC	_	14	pof__cn	_	_
+14	धर्मालंबियोंं	धर्मालंबियोंं	NN	NN	_	17	rt	_	_
+15	हेतु	हेतु	PSP	PSP	_	14	lwg__psp	_	_
+16	प्रसिद्ध	प्रसिद्ध	JJ	JJ	_	17	k1s	_	_
+17	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence98>
+1	इसके	इसके	PRP	PRP	_	0	r6	_	_
+2	पश्चिम	पश्चिम	NST	NST	_	1	lwg__psp	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	पाकिस्तान,	पाकिस्तान,	NNPC	NNPC	_	5	pof__cn	_	_
+5	दक्षिण-पश्चिम	दक्षिण-पश्चिम	NNP	NNP	_	0	k7p	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	गुजरात,	गुजरात,	NNPC	NNPC	_	8	pof__cn	_	_
+8	दक्षिण-पूर्व	दक्षिण-पूर्व	NNP	NNP	_	0	k7p	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	मध्यप्रदेश,	मध्यप्रदेश,	JJ	JJ	_	11	nmod__adj	_	_
+11	उत्तर	उत्तर	NNP	NNP	_	0	k7p	_	_
+12	में	में	PSP	PSP	_	11	lwg__psp	_	_
+13	पंजाब,	पंजाब,	NN	NN	_	0	k1	_	_
+14	उत्तर-पूर्व	उत्तर-पूर्व	NNP	NNP	_	19	k7p	_	_
+15	में	में	PSP	PSP	_	14	lwg__psp	_	_
+16	उत्तरप्रदेश	उत्तरप्रदेश	NNP	NNP	_	17	ccof	_	_
+17	और	और	CC	CC	_	19	k7p	_	_
+18	हरियाणा	हरियाणा	NNP	NNP	_	17	ccof	_	_
+19	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence99>
+1	पूरे	पूरे	JJ	JJ	_	2	nmod__adj	_	_
+2	भारत	भारत	NNP	NNP	_	3	nmod__adj	_	_
+3	वर्ष	वर्ष	NN	NN	_	13	k7t	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	सबसे	सबसे	INTF	INTF	_	6	jjmod__intf	_	_
+6	ज्यादा	ज्यादा	QF	QF	_	7	nmod__adj	_	_
+7	पह्माणे	पह्माणे	NN	NN	_	13	k7	_	_
+8	में	में	PSP	PSP	_	7	lwg__psp	_	_
+9	विदेशी	विदेशी	JJ	JJ	_	10	nmod__adj	_	_
+10	पर्यटन	पर्यटन	NN	NN	_	13	k1	_	_
+11	सिर्फ	सिर्फ	RP	RP	_	12	lwg__rp	_	_
+12	राजस्थान	राजस्थान	NNP	NNP	_	13	k2p	_	_
+13	आते	आते	VM	VM	_	0	main	_	_
+14	है	है	VAUX	VAUX	_	13	lwg__vaux	_	_
+15	जो	जो	PRP	PRP	_	18	r6	_	_
+16	की	की	PSP	PSP	_	15	lwg__psp	_	_
+17	भारत	भारत	NNP	NNP	_	18	nmod__adj	_	_
+18	देश	देश	NN	NN	_	21	r6	_	_
+19	की	की	PSP	PSP	_	18	lwg__psp	_	_
+20	संस्कृति,	संस्कृति,	NNPC	NNPC	_	21	pof__cn	_	_
+21	कला	कला	NN	NN	_	29	k1	_	_
+22	,	,	SYM	SYM	_	21	rsym	_	_
+23	वेश	वेश	NNPC	NNPC	_	24	pof__cn	_	_
+24	भूषा	भूषा	NNP	NNP	_	29	k1	_	_
+25	,	,	SYM	SYM	_	24	rsym	_	_
+26	आस्था	आस्था	NN	NN	_	28	r6	_	_
+27	का	का	PSP	PSP	_	26	lwg__psp	_	_
+28	रूप	रूप	NN	NN	_	29	k1s	_	_
+29	है	है	VM	VM	_	13	nmod__relc	_	_
+30	|	|	SYM	SYM	_	13	rsym	_	_
+----------------------------------------
+<sentence100>
+1	राजस्थान	राजस्थान	NNPC	NNPC	_	3	pof__cn	_	_
+2	पर्यटन	पर्यटन	NNPC	NNPC	_	3	pof__cn	_	_
+3	विभाग	विभाग	NNP	NNP	_	23	k1	_	_
+4	राजस्थान	राजस्थान	NNP	NNP	_	8	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	सभी	सभी	QF	QF	_	8	nmod__adj	_	_
+7	प्रसिद्द	प्रसिद्द	JJ	JJ	_	8	nmod__adj	_	_
+8	राज	राज	NN	NN	_	14	nmod	_	_
+9	महल,	महल,	NNP	NNP	_	14	nmod__adj	_	_
+10	मंदिर,	मंदिर,	NNPC	NNPC	_	14	pof__cn	_	_
+11	लोक	लोक	NNPC	NNPC	_	14	pof__cn	_	_
+12	कला,	कला,	NNPC	NNPC	_	14	pof__cn	_	_
+13	टाइगर	टाइगर	NNPC	NNPC	_	14	pof__cn	_	_
+14	रिसॉर्ट्स	रिसॉर्ट्स	NNP	NNP	_	23	k1	_	_
+15	,	,	SYM	SYM	_	14	rsym	_	_
+16	होटल्स	होटल्स	NN	NN	_	19	nmod	_	_
+17	जैसी	जैसी	PSP	PSP	_	16	lwg__psp	_	_
+18	सभी	सभी	QF	QF	_	19	nmod__adj	_	_
+19	सेवाएं	सेवाएं	NN	NN	_	23	k1	_	_
+20	पर्यटकों	पर्यटकों	NN	NN	_	23	k4	_	_
+21	को	को	PSP	PSP	_	20	lwg__psp	_	_
+22	उपलब्ध	उपलब्ध	JJ	JJ	_	23	pof	_	_
+23	कराती	कराती	VM	VM	_	0	main	_	_
+24	है	है	VAUX	VAUX	_	23	lwg__vaux	_	_
+25	|	|	SYM	SYM	_	23	rsym	_	_
+----------------------------------------
+101
