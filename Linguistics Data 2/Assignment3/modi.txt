@@ -1,0 +1,1759 @@
+<sentence1>
+1	नासा	नासा	NNP	NNP	_	5	k1	_	_
+2	ने	ने	PSP	PSP	_	1	lwg__psp	_	_
+3	इसकी	इसकी	PRP	PRP	_	4	r6-k2	_	_
+4	पुष्टि	पुष्टि	NN	NN	_	5	pof	_	_
+5	की	की	VM	VM	_	0	main	_	_
+6	है	है	VAUX	VAUX	_	5	lwg__vaux	_	_
+----------------------------------------
+<sentence2>
+1	रूस	रूस	NNP	NNP	_	2	nmod__adj	_	_
+2	लैंडर	लैंडर	NNP	NNP	_	5	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	रद्द	रद्द	JJ	JJ	_	5	pof	_	_
+5	करने	करने	VM	VM	_	7	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	मतलब	मतलब	NN	NN	_	8	k1	_	_
+8	था	था	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence3>
+1	इसका	इसका	PRP	PRP	_	2	r6	_	_
+2	आकार	आकार	NN	NN	_	8	k1	_	_
+3	क्रिकेट	क्रिकेट	NNC	NNC	_	4	pof__cn	_	_
+4	बॉल	बॉल	NN	NN	_	8	k1u	_	_
+5	की	की	PSP	PSP	_	4	lwg__psp	_	_
+6	तरह	तरह	PSP	PSP	_	4	lwg__psp	_	_
+7	गोल	गोल	JJ	JJ	_	8	k1s	_	_
+8	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence4>
+1	कि	कि	CC	CC	_	0	rsym	_	_
+2	मिशन	मिशन	NNC	NNC	_	3	pof__cn	_	_
+3	प्रोफ़ाइल	प्रोफ़ाइल	NN	NN	_	5	k1	_	_
+4	परिवर्तित	परिवर्तित	JJ	JJ	_	5	pof	_	_
+5	हो	हो	VM	VM	_	0	main	_	_
+6	जाएगी	जाएगी	VAUX	VAUX	_	5	lwg__vaux	_	_
+----------------------------------------
+<sentence5>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	दूरी	दूरी	NN	NN	_	9	k1	_	_
+3	पृथ्वी	पृथ्वी	NN	NN	_	5	r6	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	व्यास	व्यास	NN	NN	_	8	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	३०	३०	QC	QC	_	8	nmod__adj	_	_
+8	गुना	गुना	NN	NN	_	9	k1s	_	_
+9	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence6>
+1	यह	यह	PRP	PRP	_	7	k1	_	_
+2	केवल	केवल	RP	RP	_	3	lwg__rp	_	_
+3	लैंडर	लैंडर	NN	NN	_	7	ras-k1	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	साथ	साथ	NST	NST	_	3	lwg__psp	_	_
+6	संवाद	संवाद	NN	NN	_	7	pof	_	_
+7	कर	कर	VM	VM	_	0	main	_	_
+8	सकता	सकता	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence7>
+1	इन	इन	DEM	DEM	_	2	nmod__adj	_	_
+2	सब	सब	PRP	PRP	_	4	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	विकास	विकास	NN	NN	_	7	pof	_	_
+5	इसरो	इसरो	NNP	NNP	_	7	k1	_	_
+6	द्वारा	द्वारा	PSP	PSP	_	5	lwg__psp	_	_
+7	किया	किया	VM	VM	_	0	main	_	_
+8	गया	गया	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence8>
+1	उड़ान	उड़ान	NN	NN	_	9	k7t	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	समय	समय	PSP	PSP	_	1	lwg__psp	_	_
+4	इसका	इसका	PRP	PRP	_	5	r6	_	_
+5	वजन	वजन	NN	NN	_	9	k1	_	_
+6	लगभग	लगभग	RP	RP	_	7	lwg__rp	_	_
+7	3,850	3,850	QC	QC	_	8	nmod__adj	_	_
+8	किलो	किलो	NN	NN	_	9	k1s	_	_
+9	था	था	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence9>
+1	उड़ान	उड़ान	NN	NN	_	9	k7t	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	समय	समय	PSP	PSP	_	1	lwg__psp	_	_
+4	इसका	इसका	PRP	PRP	_	5	r6	_	_
+5	वजन	वजन	NN	NN	_	9	k1	_	_
+6	लगभग	लगभग	RP	RP	_	7	lwg__rp	_	_
+7	1400	1400	QC	QC	_	8	nmod__adj	_	_
+8	किलो	किलो	NN	NN	_	9	k1s	_	_
+9	होगा	होगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence10>
+1	लैंडर	लैंडर	NNP	NNP	_	2	ccof	_	_
+2	तथा	तथा	CC	CC	_	5	r6	_	_
+3	रोवर	रोवर	NNP	NNP	_	2	ccof	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	वजन	वजन	NN	NN	_	9	k1	_	_
+6	लगभग	लगभग	RP	RP	_	7	lwg__rp	_	_
+7	1250	1250	QC	QC	_	8	nmod__adj	_	_
+8	किलो	किलो	NN	NN	_	9	k1s	_	_
+9	होगा	होगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence11>
+1	दोबारा	दोबारा	RB	RB	_	6	adv	_	_
+2	से	से	PSP	PSP	_	1	lwg__psp	_	_
+3	लैन्डर	लैन्डर	NNP	NNP	_	6	k2	_	_
+4	से	से	PSP	PSP	_	3	lwg__psp	_	_
+5	संपर्क	संपर्क	NN	NN	_	6	pof	_	_
+6	किया	किया	VM	VM	_	0	main	_	_
+7	जा	जा	VAUX	VAUX	_	6	lwg__vaux	_	_
+8	रहा	रहा	VAUX	VAUX	_	7	lwg__vaux_cont	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence12>
+1	चन्द्रमा	चन्द्रमा	NNP	NNP	_	7	k7p	_	_
+2	पर	पर	PSP	PSP	_	1	lwg__psp	_	_
+3	गुरुत्वाकर्षण	गुरुत्वाकर्षण	NN	NN	_	7	k1	_	_
+4	पृथ्वी	पृथ्वी	NN	NN	_	7	k5	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	१/६	१/६	QC	QC	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence13>
+1	पृथ्वी	पृथ्वी	NNP	NNP	_	11	k7	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	तुलना	तुलना	PSP	PSP	_	1	lwg__psp	_	_
+4	में	में	PSP	PSP	_	1	lwg__psp	_	_
+5	यह	यह	DEM	DEM	_	7	nmod__adj	_	_
+6	सौवें	सौवें	QO	QO	_	7	nmod__adj	_	_
+7	भाग	भाग	NN	NN	_	11	k5	_	_
+8	से	से	PSP	PSP	_	7	lwg__psp	_	_
+9	भी	भी	RP	RP	_	7	lwg__rp	_	_
+10	कम	कम	QF	QF	_	11	k1s	_	_
+11	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence14>
+1	और	और	CC	CC	_	0	main	_	_
+2	इससे	इससे	PRP	PRP	_	7	k2	_	_
+3	जुड़े	जुड़े	VM	VM	_	4	nmod__k1inv	_	_
+4	प्रौद्योगिकियों	प्रौद्योगिकियों	NN	NN	_	6	r6-k2	_	_
+5	का	का	PSP	PSP	_	4	lwg__psp	_	_
+6	अध्ययन	अध्ययन	NN	NN	_	7	pof	_	_
+7	किया	किया	VM	VM	_	1	ccof	_	_
+----------------------------------------
+<sentence15>
+1	4th	4th	SYM	SYM	_	2	rsym	_	_
+2	देश	देश	NN	NN	_	10	k1	_	_
+3	जो	जो	PRP	PRP	_	10	k1	_	_
+4	चांद	चांद	NN	NN	_	6	r6	_	_
+5	की	की	PSP	PSP	_	4	lwg__psp	_	_
+6	सतह	सतह	NN	NN	_	10	k7	_	_
+7	पर	पर	PSP	PSP	_	6	lwg__psp	_	_
+8	सॉफ्ट	सॉफ्ट	NNC	NNC	_	9	pof__cn	_	_
+9	लैंडिंग	लैंडिंग	NN	NN	_	10	pof	_	_
+10	करेगा	करेगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence16>
+1	चन्द्रमा	चन्द्रमा	NNP	NNP	_	7	k1	_	_
+2	पृथ्वी	पृथ्वी	NNP	NNP	_	6	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	एकमात्र	एकमात्र	JJ	JJ	_	6	nmod__adj	_	_
+5	प्राकृतिक	प्राकृतिक	JJ	JJ	_	4	mod	_	_
+6	उपग्रह	उपग्रह	NN	NN	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence17>
+1	पृथ्वी	पृथ्वी	NNP	NNP	_	8	k5	_	_
+2	से	से	PSP	PSP	_	1	lwg__psp	_	_
+3	चन्द्रमा	चन्द्रमा	NN	NN	_	5	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	दूरी	दूरी	NN	NN	_	8	k1	_	_
+6	३८४,४०३	३८४,४०३	QC	QC	_	7	nmod__adj	_	_
+7	किलोमीटर	किलोमीटर	NN	NN	_	8	k1s	_	_
+8	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence18>
+1	परंतु	परंतु	CC	CC	_	0	main	_	_
+2	अभी	अभी	PRP	PRP	_	7	k7t	_	_
+3	चंद्रयान-2	चंद्रयान-2	NNP	NNP	_	7	k5	_	_
+4	से	से	PSP	PSP	_	3	lwg__psp	_	_
+5	संपर्क	संपर्क	NN	NN	_	7	pof	_	_
+6	नहीं	नहीं	NEG	NEG	_	7	lwg__neg	_	_
+7	हो	हो	VM	VM	_	1	ccof	_	_
+8	पाया	पाया	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence19>
+1	तथा	तथा	CC	CC	_	0	main	_	_
+2	अभियान	अभियान	NN	NN	_	8	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	2016	2016	NNP	NNP	_	8	rt	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	लिये	लिये	PSP	PSP	_	4	lwg__psp	_	_
+7	पुनर्निर्धारित	पुनर्निर्धारित	JJ	JJ	_	8	pof	_	_
+8	किया	किया	VM	VM	_	1	ccof	_	_
+----------------------------------------
+<sentence20>
+1	इसके	इसके	PRP	PRP	_	3	r6	_	_
+2	चार	चार	QC	QC	_	3	nmod__adj	_	_
+3	पहिए	पहिए	NN	NN	_	8	k1	_	_
+4	स्वतंत्र	स्वतंत्र	JJ	JJ	_	5	nmod__adj	_	_
+5	स्टीयरिंग	स्टीयरिंग	NN	NN	_	8	k7	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	सक्षम	सक्षम	JJ	JJ	_	8	pof	_	_
+8	होंगे	होंगे	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence21>
+1	परंतु	परंतु	CC	CC	_	0	main	_	_
+2	अभियान	अभियान	NN	NN	_	8	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	जनवरी	जनवरी	NNPC	NNPC	_	5	pof__cn	_	_
+5	2013	2013	NNP	NNP	_	8	k7t	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	स्थगित	स्थगित	JJ	JJ	_	8	pof	_	_
+8	कर	कर	VM	VM	_	1	ccof	_	_
+9	दिया	दिया	VAUX	VAUX	_	8	lwg__vaux	_	_
+10	गया	गया	VAUX	VAUX	_	9	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence22>
+1	यह	यह	DEM	DEM	_	3	nmod__adj	_	_
+2	सौर	सौर	NNC	NNC	_	3	pof__cn	_	_
+3	मंडल	मंडल	NN	NN	_	8	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	पाचवाँ,सबसे	पाचवाँ,सबसे	INTF	INTF	_	6	jjmod__intf	_	_
+6	विशाल	विशाल	JJ	JJ	_	8	nmod__adj	_	_
+7	प्राकृतिक	प्राकृतिक	JJ	JJ	_	6	mod	_	_
+8	उपग्रह	उपग्रह	NN	NN	_	9	k1	_	_
+9	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence23>
+1	अन्तरिक्ष	अन्तरिक्ष	NN	NN	_	9	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	मानव	मानव	NN	NN	_	9	k1	_	_
+4	सिर्फ	सिर्फ	RP	RP	_	5	lwg__rp	_	_
+5	चन्द्रमा	चन्द्रमा	NN	NN	_	9	k7	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	ही	ही	RP	RP	_	5	lwg__rp	_	_
+8	कदम	कदम	NN	NN	_	9	pof	_	_
+9	रख	रख	VM	VM	_	0	main	_	_
+10	सका	सका	VAUX	VAUX	_	9	lwg__vaux	_	_
+11	है	है	VAUX	VAUX	_	10	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence24>
+1	क्योंकि	क्योंकि	CC	CC	_	0	main	_	_
+2	रूस	रूस	NNP	NNP	_	11	k1	_	_
+3	लैंडर	लैंडर	NNP	NNP	_	8	k2	_	_
+4	को	को	PSP	PSP	_	3	lwg__psp	_	_
+5	समय	समय	NN	NN	_	8	k7	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	विकसित	विकसित	JJ	JJ	_	8	pof	_	_
+8	करने	करने	VM	VM	_	11	k7	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	असमर्थ	असमर्थ	JJ	JJ	_	11	pof	_	_
+11	था	था	VM	VM	_	1	ccof	_	_
+----------------------------------------
+<sentence25>
+1	लैंडर	लैंडर	NNP	NNP	_	8	k1	_	_
+2	किसी	किसी	PRP	PRP	_	8	k7	_	_
+3	भी	भी	RP	RP	_	2	lwg__rp	_	_
+4	वैज्ञानिक	वैज्ञानिक	JJ	JJ	_	5	nmod__adj	_	_
+5	गतिविधियों	गतिविधियों	NN	NN	_	8	k1	_	_
+6	प्रदर्शन	प्रदर्शन	NN	NN	_	8	pof	_	_
+7	नहीं	नहीं	NEG	NEG	_	8	lwg__neg	_	_
+8	करेंगे	करेंगे	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence26>
+1	सूर्य	सूर्य	NN	NN	_	11	k7t	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	बाद	बाद	NST	NST	_	1	lwg__psp	_	_
+4	आसमान	आसमान	NN	NN	_	11	k7p	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	सबसे	सबसे	INTF	INTF	_	7	jjmod__intf	_	_
+7	अधिक	अधिक	QF	QF	_	9	nmod__adj	_	_
+8	चमकदार	चमकदार	JJ	JJ	_	9	nmod__adj	_	_
+9	निकाय	निकाय	NN	NN	_	11	k1	_	_
+10	चन्द्रमा	चन्द्रमा	NN	NN	_	11	k1s	_	_
+11	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence27>
+1	जब	जब	PRP	PRP	_	13	k7t	_	_
+2	रूस	रूस	NNP	NNP	_	13	k1	_	_
+3	ने	ने	PSP	PSP	_	2	lwg__psp	_	_
+4	2015	2015	NNP	NNP	_	13	k7t	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	पहले	पहले	NST	NST	_	4	lwg__psp	_	_
+7	लैंडर	लैंडर	NNP	NNP	_	9	r6	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	विकास	विकास	NN	NN	_	13	k7	_	_
+10	में	में	PSP	PSP	_	9	lwg__psp	_	_
+11	अपनी	अपनी	PRP	PRP	_	12	r6	_	_
+12	असमर्थता	असमर्थता	NN	NN	_	13	k2	_	_
+13	जताई	जताई	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence28>
+1	हालांकि,	हालांकि,	NN	NN	_	0	k1	_	_
+2	रूस	रूस	NNP	NNP	_	13	k1	_	_
+3	ने	ने	PSP	PSP	_	2	lwg__psp	_	_
+4	मई	मई	NNPC	NNPC	_	5	pof__cn	_	_
+5	2010	2010	NNP	NNP	_	13	k7t	_	_
+6	को	को	PSP	PSP	_	5	lwg__psp	_	_
+7	रोवर	रोवर	NNP	NNP	_	10	k2	_	_
+8	को	को	PSP	PSP	_	7	lwg__psp	_	_
+9	डिजाइन	डिजाइन	NN	NN	_	10	pof	_	_
+10	करने	करने	VM	VM	_	13	rt	_	_
+11	से	से	PSP	PSP	_	10	lwg__psp	_	_
+12	मना	मना	NN	NN	_	13	pof	_	_
+13	कर	कर	VM	VM	_	0	main	_	_
+14	दिया	दिया	VAUX	VAUX	_	13	lwg__vaux	_	_
+----------------------------------------
+<sentence29>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	5	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	करीब	करीब	RP	RP	_	4	lwg__rp	_	_
+4	1-100	1-100	QC	QC	_	5	nmod__adj	_	_
+5	नैनोटेस्ला	नैनोटेस्ला	NNP	NNP	_	10	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	एक	एक	QC	QC	_	10	nmod__adj	_	_
+8	बाह्य	बाह्य	JJ	JJ	_	10	nmod__adj	_	_
+9	चुम्बकीय	चुम्बकीय	NNC	NNC	_	10	pof__cn	_	_
+10	क्षेत्र	क्षेत्र	NN	NN	_	11	k1	_	_
+11	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence30>
+1	आंकड़ों	आंकड़ों	NN	NN	_	10	k2	_	_
+2	को	को	PSP	PSP	_	1	lwg__psp	_	_
+3	चंद्रयान-2	चंद्रयान-2	QO	QO	_	4	nmod__adj	_	_
+4	कक्षयान	कक्षयान	NNP	NNP	_	10	k3	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	माध्यम	माध्यम	PSP	PSP	_	4	lwg__psp	_	_
+7	से	से	PSP	PSP	_	4	lwg__psp	_	_
+8	पृथ्वी	पृथ्वी	NN	NN	_	10	k7p	_	_
+9	पर	पर	PSP	PSP	_	8	lwg__psp	_	_
+10	भेजा	भेजा	VM	VM	_	0	main	_	_
+11	जायेगा	जायेगा	VAUX	VAUX	_	10	lwg__vaux	_	_
+----------------------------------------
+<sentence31>
+1	पहिएदार	पहिएदार	NNPC	NNPC	_	4	pof__cn	_	_
+2	रोवर	रोवर	NNPC	NNPC	_	4	pof__cn	_	_
+3	चंद्र	चंद्र	NNPC	NNPC	_	4	pof__cn	_	_
+4	सतह	सतह	NN	NN	_	6	k7	_	_
+5	पर	पर	PSP	PSP	_	4	lwg__psp	_	_
+6	चलेगा	चलेगा	VM	VM	_	7	ccof	_	_
+7	और	और	CC	CC	_	0	main	_	_
+8	जगह	जगह	NN	NN	_	11	r6-k2	_	_
+9	का	का	PSP	PSP	_	8	lwg__psp	_	_
+10	रासायनिक	रासायनिक	JJ	JJ	_	11	nmod__adj	_	_
+11	विश्लेषण	विश्लेषण	NN	NN	_	12	pof	_	_
+12	करेगा	करेगा	VM	VM	_	7	ccof	_	_
+----------------------------------------
+<sentence32>
+1	कुल	कुल	QF	QF	_	3	nmod__adj	_	_
+2	10	10	QC	QC	_	3	nmod__adj	_	_
+3	बिजली	बिजली	NN	NN	_	5	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	मोटरों	मोटरों	NN	NN	_	0	nmod	_	_
+6	कर्षण	कर्षण	NN	NN	_	7	ccof	_	_
+7	और	और	CC	CC	_	5	fragof	_	_
+8	स्टीयरिंग	स्टीयरिंग	NN	NN	_	7	ccof	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	लिए	लिए	PSP	PSP	_	8	lwg__psp	_	_
+11	इस्तेमाल	इस्तेमाल	NN	NN	_	5	k1	_	_
+12	कि	कि	CC	CC	_	5	rs	_	_
+13	जाएगी	जाएगी	VAUX	VAUX	_	0	mod	_	_
+----------------------------------------
+<sentence33>
+1	इसके	इसके	PRP	PRP	_	14	sent-adv	_	_
+2	बाद,	बाद,	NST	NST	_	1	lwg__psp	_	_
+3	इसरो	इसरो	NNP	NNP	_	14	k1	_	_
+4	ने	ने	PSP	PSP	_	3	lwg__psp	_	_
+5	रोवर	रोवर	NNP	NNP	_	7	r6	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	डिजाइन	डिजाइन	NN	NN	_	8	ccof	_	_
+8	और	और	CC	CC	_	11	pof	_	_
+9	निर्माण	निर्माण	NN	NN	_	8	ccof	_	_
+10	खुद	खुद	PRP	PRP	_	11	nmod__emph	_	_
+11	करने	करने	VM	VM	_	13	r6-k2	_	_
+12	का	का	PSP	PSP	_	11	lwg__psp	_	_
+13	फैसला	फैसला	NN	NN	_	14	pof	_	_
+14	किया	किया	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence34>
+1	तथा	तथा	CC	CC	_	0	main	_	_
+2	भारत	भारत	NNP	NNP	_	14	k1	_	_
+3	ने	ने	PSP	PSP	_	2	lwg__psp	_	_
+4	चंद्र	चंद्र	NNPC	NNPC	_	5	pof__cn	_	_
+5	मिशन	मिशन	NN	NN	_	11	k2	_	_
+6	को	को	PSP	PSP	_	5	lwg__psp	_	_
+7	स्वतंत्र	स्वतंत्र	JJ	JJ	_	8	nmod__adj	_	_
+8	रूप	रूप	NN	NN	_	11	adv	_	_
+9	से	से	PSP	PSP	_	8	lwg__psp	_	_
+10	विकसित	विकसित	JJ	JJ	_	11	pof	_	_
+11	करने	करने	VM	VM	_	13	r6-k2	_	_
+12	का	का	PSP	PSP	_	11	lwg__psp	_	_
+13	फैसला	फैसला	NN	NN	_	14	pof	_	_
+14	किया	किया	VM	VM	_	1	ccof	_	_
+----------------------------------------
+<sentence35>
+1	समुद्री	समुद्री	JJ	JJ	_	2	nmod__adj	_	_
+2	ज्वार	ज्वार	NN	NN	_	3	ccof	_	_
+3	और	और	CC	CC	_	0	main	_	_
+4	भाटा	भाटा	NNP	NNP	_	11	k1	_	_
+5	चन्द्रमा	चन्द्रमा	NNP	NNP	_	8	r6	_	_
+6	की	की	PSP	PSP	_	5	lwg__psp	_	_
+7	गुरुत्वाकर्षण	गुरुत्वाकर्षण	NNC	NNC	_	8	pof__cn	_	_
+8	शक्ति	शक्ति	NN	NN	_	11	rh	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	कारण	कारण	PSP	PSP	_	8	lwg__psp	_	_
+11	आते	आते	VM	VM	_	3	ccof	_	_
+12	हैं	हैं	VAUX	VAUX	_	11	lwg__vaux	_	_
+----------------------------------------
+<sentence36>
+1	अभियान	अभियान	NN	NN	_	10	k2	_	_
+2	को	को	PSP	PSP	_	1	lwg__psp	_	_
+3	जीएसएलवी	जीएसएलवी	NNP	NNP	_	4	nmod__adj	_	_
+4	संस्करण	संस्करण	NN	NN	_	10	k2	_	_
+5	3	3	QC	QC	_	7	nmod__adj	_	_
+6	प्रक्षेपण	प्रक्षेपण	NNPC	NNPC	_	7	pof__cn	_	_
+7	यान	यान	NNP	NNP	_	10	k1	_	_
+8	द्वारा	द्वारा	PSP	PSP	_	7	lwg__psp	_	_
+9	प्रक्षेपित	प्रक्षेपित	JJ	JJ	_	10	pof	_	_
+10	किया	किया	VM	VM	_	0	main	_	_
+11	गया	गया	VAUX	VAUX	_	10	lwg__vaux	_	_
+----------------------------------------
+<sentence37>
+1	दिसंबर	दिसंबर	NNPC	NNPC	_	2	pof__cn	_	_
+2	2015	2015	NNP	NNP	_	3	k7t	_	_
+3	को,	को,	VM	VM	_	0	vmod	_	_
+4	इस	इस	DEM	DEM	_	5	nmod__adj	_	_
+5	अभियान	अभियान	NN	NN	_	14	rt	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	लिये	लिये	PSP	PSP	_	5	lwg__psp	_	_
+8	603	603	QCC	QCC	_	9	mod	_	_
+9	करोड़	करोड़	QC	QC	_	10	nmod__adj	_	_
+10	रुपये	रुपये	NN	NN	_	12	r6	_	_
+11	की	की	PSP	PSP	_	10	lwg__psp	_	_
+12	लागत	लागत	NN	NN	_	14	k2	_	_
+13	आवंटित	आवंटित	JJ	JJ	_	14	pof	_	_
+14	की	की	VM	VM	_	0	main	_	_
+15	गई	गई	VAUX	VAUX	_	14	lwg__vaux	_	_
+----------------------------------------
+<sentence38>
+1	हालांकि	हालांकि	CC	CC	_	0	main	_	_
+2	इसरो	इसरो	NNP	NNP	_	13	k1	_	_
+3	ने	ने	PSP	PSP	_	2	lwg__psp	_	_
+4	चंद्रयान	चंद्रयान	NNPC	NNPC	_	6	pof__cn	_	_
+5	-2	-2	SYM	SYM	_	6	rsym	_	_
+6	कार्यक्रम	कार्यक्रम	NN	NN	_	13	k7a	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	अनुसार	अनुसार	PSP	PSP	_	6	lwg__psp	_	_
+9	पेलोड	पेलोड	NN	NN	_	13	k4	_	_
+10	को	को	PSP	PSP	_	9	lwg__psp	_	_
+11	अंतिम	अंतिम	JJ	JJ	_	12	nmod__adj	_	_
+12	रूप	रूप	NN	NN	_	13	pof	_	_
+13	दिया	दिया	VM	VM	_	1	ccof	_	_
+----------------------------------------
+<sentence39>
+1	और	और	CC	CC	_	7	ccof	_	_
+2	यह	यह	PRP	PRP	_	6	k1	_	_
+3	खुद	खुद	PRP	PRP	_	6	adv	_	_
+4	से	से	PSP	PSP	_	3	lwg__psp	_	_
+5	नहीं	नहीं	NEG	NEG	_	6	lwg__neg	_	_
+6	चमकता	चमकता	VM	VM	_	1	ccof	_	_
+7	बल्कि	बल्कि	CC	CC	_	0	main	_	_
+8	यह	यह	PRP	PRP	_	15	k1	_	_
+9	तो	तो	RP	RP	_	8	lwg__rp	_	_
+10	सूर्य	सूर्य	NNP	NNP	_	12	r6	_	_
+11	के	के	PSP	PSP	_	10	lwg__psp	_	_
+12	प्रकाश	प्रकाश	NN	NN	_	15	k5	_	_
+13	से	से	PSP	PSP	_	12	lwg__psp	_	_
+14	प्रकाशित	प्रकाशित	JJ	JJ	_	15	pof	_	_
+15	होता	होता	VM	VM	_	7	ccof	_	_
+16	है	है	VAUX	VAUX	_	15	lwg__vaux	_	_
+----------------------------------------
+<sentence40>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	सतह	सतह	NN	NN	_	0	k7p	_	_
+4	पर	पर	PSP	PSP	_	3	lwg__psp	_	_
+5	लैंडिंग	लैंडिंग	NN	NN	_	0	rt	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	लिए	लिए	PSP	PSP	_	5	lwg__psp	_	_
+8	अनुसंधान	अनुसंधान	NNC	NNC	_	9	pof__cn	_	_
+9	दल	दल	NN	NN	_	0	k1	_	_
+10	ने	ने	PSP	PSP	_	9	lwg__psp	_	_
+11	लैंडिंग	लैंडिंग	NNC	NNC	_	12	pof__cn	_	_
+12	विधि	विधि	NN	NN	_	14	r6	_	_
+13	की	की	PSP	PSP	_	12	lwg__psp	_	_
+14	पहचान	पहचान	NN	NN	_	0	r6	_	_
+15	की	की	PSP	PSP	_	14	lwg__psp	_	_
+----------------------------------------
+<sentence41>
+1	धरती	धरती	NN	NN	_	13	k7t	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	बाद	बाद	NST	NST	_	1	lwg__psp	_	_
+4	चांद	चांद	NN	NN	_	13	k7	_	_
+5	पर	पर	PSP	PSP	_	4	lwg__psp	_	_
+6	भौगोलिक	भौगोलिक	JJ	JJ	_	7	nmod__adj	_	_
+7	आधिपत्य	आधिपत्य	NN	NN	_	9	r6	_	_
+8	की	की	PSP	PSP	_	7	lwg__psp	_	_
+9	होड़	होड़	NN	NN	_	13	k7	_	_
+10	में	में	PSP	PSP	_	9	lwg__psp	_	_
+11	भारत	भारत	NNP	NNP	_	12	nmod__adj	_	_
+12	अग्रणी	अग्रणी	NN	NN	_	13	k1	_	_
+13	बनकर	बनकर	VM	VM	_	0	main	_	_
+14	उभरेगा.	उभरेगा.	NNPC	NNPC	_	0	pof__cn	_	_
+----------------------------------------
+<sentence42>
+1	संचार,	संचार,	NNPC	NNPC	_	3	pof__cn	_	_
+2	सेंसर	सेंसर	NNPC	NNPC	_	3	pof__cn	_	_
+3	प्रोद्योगिकी	प्रोद्योगिकी	NN	NN	_	5	r6	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	क्षेत्र	क्षेत्र	NN	NN	_	12	k7p	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	ISRO	ISRO	NNP	NNP	_	9	r6	_	_
+8	की	की	PSP	PSP	_	7	lwg__psp	_	_
+9	क्षमता	क्षमता	NN	NN	_	11	r6	_	_
+10	का	का	PSP	PSP	_	9	lwg__psp	_	_
+11	प्रदर्शन	प्रदर्शन	NN	NN	_	12	pof	_	_
+12	होगा	होगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence43>
+1	चांद	चांद	NN	NN	_	4	k7	_	_
+2	पर	पर	PSP	PSP	_	1	lwg__psp	_	_
+3	मिशन	मिशन	NN	NN	_	4	k2	_	_
+4	भेजने	भेजने	VM	VM	_	8	nmod	_	_
+5	वाले	वाले	PSP	PSP	_	4	lwg__psp	_	_
+6	तीन	तीन	QC	QC	_	8	nmod__adj	_	_
+7	ताकतवर	ताकतवर	JJ	JJ	_	8	nmod__adj	_	_
+8	देशों	देशों	NN	NN	_	10	r6	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	क्लब	क्लब	NN	NN	_	13	r6	_	_
+11	का	का	PSP	PSP	_	10	lwg__psp	_	_
+12	चौथा	चौथा	QO	QO	_	13	nmod__adj	_	_
+13	सदस्य	सदस्य	NN	NN	_	14	k1s	_	_
+14	बन	बन	VM	VM	_	0	main	_	_
+15	जाएगा.	जाएगा.	VAUX	VAUX	_	14	lwg__vaux	_	_
+----------------------------------------
+<sentence44>
+1	इनमें	इनमें	PRP	PRP	_	12	k5	_	_
+2	से	से	PSP	PSP	_	1	lwg__psp	_	_
+3	कुछ	कुछ	PRP	PRP	_	5	r6	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	नाम	नाम	NN	NN	_	12	k1	_	_
+6	विद्वानों,	विद्वानों,	JJ	JJ	_	8	nmod__adj	_	_
+7	वैज्ञानिकों,	वैज्ञानिकों,	NNC	NNC	_	8	pof__cn	_	_
+8	कलाकारों	कलाकारों	NN	NN	_	9	ccof	_	_
+9	और	और	CC	CC	_	12	k1s	_	_
+10	खोजकर्ताओँ	खोजकर्ताओँ	NN	NN	_	9	ccof	_	_
+11	पर	पर	PSP	PSP	_	10	lwg__psp	_	_
+12	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence45>
+1	बृहस्पति	बृहस्पति	NNP	NNP	_	3	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	उपग्रह	उपग्रह	NN	NN	_	14	k7t	_	_
+4	lo	lo	SYM	SYM	_	3	rsym	_	_
+5	के	के	PSP	PSP	_	3	lwg__psp	_	_
+6	बाद	बाद	NST	NST	_	3	lwg__psp	_	_
+7	चन्द्रमा	चन्द्रमा	NNP	NNP	_	14	k1	_	_
+8	दूसरा	दूसरा	QO	QO	_	11	nmod__adj	_	_
+9	सबसे	सबसे	INTF	INTF	_	10	jjmod__intf	_	_
+10	अधिक	अधिक	QF	QF	_	11	nmod__adj	_	_
+11	घनत्व	घनत्व	NN	NN	_	13	nmod	_	_
+12	वाला	वाला	PSP	PSP	_	11	lwg__psp	_	_
+13	उपग्रह	उपग्रह	NN	NN	_	14	k1s	_	_
+14	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence46>
+1	प्रारंभिक	प्रारंभिक	JJ	JJ	_	2	nmod__adj	_	_
+2	योजना	योजना	NN	NN	_	13	k7	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	रोवर	रोवर	NNP	NNP	_	13	k2	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	रूस	रूस	NNP	NNP	_	13	k7p	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	डिजाइन	डिजाइन	NN	NN	_	9	ccof	_	_
+9	और	और	CC	CC	_	13	k2	_	_
+10	भारत	भारत	NNP	NNP	_	9	ccof	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	निर्मित	निर्मित	JJ	JJ	_	13	pof	_	_
+13	किया	किया	VM	VM	_	0	main	_	_
+14	जाना	जाना	VAUX	VAUX	_	13	lwg__vaux	_	_
+15	था	था	VAUX	VAUX	_	14	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence47>
+1	तो	तो	CC	CC	_	0	main	_	_
+2	भारतीय	भारतीय	JJ	JJ	_	3	nmod__adj	_	_
+3	अधिकारियों	अधिकारियों	NN	NN	_	14	k1	_	_
+4	ने	ने	PSP	PSP	_	3	lwg__psp	_	_
+5	स्वतंत्र	स्वतंत्र	JJ	JJ	_	6	nmod__adj	_	_
+6	रूप	रूप	NN	NN	_	14	adv	_	_
+7	से	से	PSP	PSP	_	6	lwg__psp	_	_
+8	लैंडर	लैंडर	NNP	NNP	_	11	k2	_	_
+9	को	को	PSP	PSP	_	8	lwg__psp	_	_
+10	विकसित	विकसित	JJ	JJ	_	11	pof	_	_
+11	करने	करने	VM	VM	_	13	r6-k2	_	_
+12	का	का	PSP	PSP	_	11	lwg__psp	_	_
+13	निर्णय	निर्णय	NN	NN	_	14	pof	_	_
+14	लिया	लिया	VM	VM	_	1	ccof	_	_
+----------------------------------------
+<sentence48>
+1	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	2	ccof	_	_
+2	और	और	CC	CC	_	6	nmod	_	_
+3	उसके	उसके	PRP	PRP	_	4	r6	_	_
+4	जीएसएलवी	जीएसएलवी	NNP	NNP	_	2	ccof	_	_
+5	प्रक्षेपण	प्रक्षेपण	NNC	NNC	_	6	pof__cn	_	_
+6	यान	यान	NNP	NNP	_	13	k7	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	बीच	बीच	NST	NST	_	6	lwg__psp	_	_
+9	इंटरफेस	इंटरफेस	NN	NN	_	13	k4	_	_
+10	को	को	PSP	PSP	_	9	lwg__psp	_	_
+11	अंतिम	अंतिम	JJ	JJ	_	12	nmod__adj	_	_
+12	रूप	रूप	NN	NN	_	13	pof	_	_
+13	दे	दे	VM	VM	_	0	main	_	_
+14	दिया	दिया	VAUX	VAUX	_	13	lwg__vaux	_	_
+15	है	है	VAUX	VAUX	_	14	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence49>
+1	पृथ्वी-	पृथ्वी-	NNPC	NNPC	_	3	pof__cn	_	_
+2	चन्द्रमा-सूर्य	चन्द्रमा-सूर्य	NNPC	NNPC	_	3	pof__cn	_	_
+3	ज्यामिति	ज्यामिति	NN	NN	_	12	rh	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	कारण	कारण	PSP	PSP	_	3	lwg__psp	_	_
+6	"चन्द्र	"चन्द्र	SYM	SYM	_	7	rsym	_	_
+7	दशा"	दशा"	NN	NN	_	12	k1	_	_
+8	हर	हर	QF	QF	_	10	nmod__adj	_	_
+9	२९.५	२९.५	QC	QC	_	10	nmod__adj	_	_
+10	दिनों	दिनों	NN	NN	_	12	k7t	_	_
+11	में	में	PSP	PSP	_	10	lwg__psp	_	_
+12	बदलती	बदलती	VM	VM	_	0	main	_	_
+13	है	है	VAUX	VAUX	_	12	lwg__vaux	_	_
+----------------------------------------
+<sentence50>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	अभियान	अभियान	NN	NN	_	16	k7	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	भारत	भारत	NNP	NNP	_	6	jjmod	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	निर्मित	निर्मित	JJ	JJ	_	9	nmod	_	_
+7	एक	एक	QC	QC	_	9	nmod__adj	_	_
+8	चंद्र	चंद्र	NNPC	NNPC	_	9	pof__cn	_	_
+9	कक्षयान,	कक्षयान,	NNP	NNP	_	16	k1	_	_
+10	एक	एक	QC	QC	_	11	nmod__adj	_	_
+11	रोवर	रोवर	NN	NN	_	12	ccof	_	_
+12	एवं	एवं	CC	CC	_	16	k1	_	_
+13	एक	एक	QC	QC	_	14	nmod__adj	_	_
+14	लैंडर	लैंडर	NN	NN	_	12	ccof	_	_
+15	शामिल	शामिल	JJ	JJ	_	16	k1s	_	_
+16	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence51>
+1	प्रारंभ	प्रारंभ	NN	NN	_	16	k7t	_	_
+2	में,	में,	NNC	NNC	_	4	pof__cn	_	_
+3	लैंडर	लैंडर	NNPC	NNPC	_	4	pof__cn	_	_
+4	रूस	रूस	NNP	NNP	_	12	k1	_	_
+5	द्वारा	द्वारा	PSP	PSP	_	4	lwg__psp	_	_
+6	भारत	भारत	NNP	NNP	_	12	ras-k1	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	साथ	साथ	NST	NST	_	6	lwg__psp	_	_
+9	सहयोग	सहयोग	NN	NN	_	12	k3	_	_
+10	से	से	PSP	PSP	_	9	lwg__psp	_	_
+11	विकसित	विकसित	JJ	JJ	_	12	pof	_	_
+12	किए	किए	VM	VM	_	15	r6	_	_
+13	जाने	जाने	VAUX	VAUX	_	12	lwg__vaux	_	_
+14	की	की	PSP	PSP	_	12	lwg__psp	_	_
+15	उम्मीद	उम्मीद	NN	NN	_	16	k1	_	_
+16	थी	थी	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence52>
+1	ISRO	ISRO	NNP	NNP	_	4	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	शक्तिशाली	शक्तिशाली	JJ	JJ	_	4	nmod__adj	_	_
+4	रॉकेट	रॉकेट	NN	NN	_	5	ccof	_	_
+5	व	व	CC	CC	_	8	k2	_	_
+6	भारी-भरकम	भारी-भरकम	JJ	JJ	_	7	nmod__adj	_	_
+7	पेलोड	पेलोड	NN	NN	_	5	ccof	_	_
+8	छोड़ने	छोड़ने	VM	VM	_	10	r6	_	_
+9	की	की	PSP	PSP	_	8	lwg__psp	_	_
+10	क्षमता	क्षमता	NN	NN	_	12	r6	_	_
+11	का	का	PSP	PSP	_	10	lwg__psp	_	_
+12	दुनिया	दुनिया	NN	NN	_	15	k2	_	_
+13	को	को	PSP	PSP	_	12	lwg__psp	_	_
+14	पता	पता	NN	NN	_	15	pof	_	_
+15	चला.	चला.	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence53>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	5	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	ऑक्सीजन	ऑक्सीजन	NNC	NNC	_	4	pof__cn	_	_
+4	समस्थानिक	समस्थानिक	NN	NN	_	5	nmod__adj	_	_
+5	अनुपात	अनुपात	NN	NN	_	13	k1	_	_
+6	पृथ्वी	पृथ्वी	NN	NN	_	13	rt	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	लिए	लिए	PSP	PSP	_	6	lwg__psp	_	_
+9	अनिवार्य	अनिवार्य	JJ	JJ	_	10	nmod__adj	_	_
+10	रूप	रूप	NN	NN	_	13	adv	_	_
+11	से	से	PSP	PSP	_	10	lwg__psp	_	_
+12	समान	समान	JJ	JJ	_	13	pof	_	_
+13	दिखते	दिखते	VM	VM	_	0	main	_	_
+14	हैं	हैं	VAUX	VAUX	_	13	lwg__vaux	_	_
+----------------------------------------
+<sentence54>
+1	लैंडर	लैंडर	NNP	NNP	_	11	k2	_	_
+2	को	को	PSP	PSP	_	1	lwg__psp	_	_
+3	चंद्र	चंद्र	NNP	NNP	_	4	nmod__adj	_	_
+4	सतह	सतह	NN	NN	_	11	k7	_	_
+5	पर	पर	PSP	PSP	_	4	lwg__psp	_	_
+6	एक	एक	QC	QC	_	8	nmod__adj	_	_
+7	नरम	नरम	JJ	JJ	_	8	nmod__adj	_	_
+8	लैंडिंग	लैंडिंग	NN	NN	_	11	k2	_	_
+9	को	को	PSP	PSP	_	8	lwg__psp	_	_
+10	निष्पादित	निष्पादित	JJ	JJ	_	11	pof	_	_
+11	करने	करने	VM	VM	_	15	rt	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	लिए	लिए	PSP	PSP	_	11	lwg__psp	_	_
+14	डिज़ाइन	डिज़ाइन	NN	NN	_	15	pof	_	_
+15	किया	किया	VM	VM	_	0	main	_	_
+16	गया	गया	VAUX	VAUX	_	15	lwg__vaux	_	_
+17	है	है	VAUX	VAUX	_	16	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence55>
+1	पहला	पहला	QO	QO	_	3	nmod__adj	_	_
+2	भारतीय	भारतीय	JJ	JJ	_	3	nmod__adj	_	_
+3	मिशन,	मिशन,	NN	NN	_	0	k1	_	_
+4	जो	जो	PRP	PRP	_	16	k1	_	_
+5	घरेलू	घरेलू	JJ	JJ	_	6	nmod__adj	_	_
+6	तकनीक	तकनीक	NN	NN	_	13	ras-k1	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	साथ	साथ	NST	NST	_	6	lwg__psp	_	_
+9	चंद्र	चंद्र	NNP	NNP	_	10	nmod__adj	_	_
+10	क्षेत्र	क्षेत्र	NN	NN	_	12	r6-k2	_	_
+11	का	का	PSP	PSP	_	10	lwg__psp	_	_
+12	पता	पता	NN	NN	_	13	pof	_	_
+13	लगाने	लगाने	VM	VM	_	15	r6-k2	_	_
+14	का	का	PSP	PSP	_	13	lwg__psp	_	_
+15	प्रयास	प्रयास	NN	NN	_	16	pof	_	_
+16	करेगा	करेगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence56>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	5	k1	_	_
+2	एक	एक	QC	QC	_	4	nmod__adj	_	_
+3	विभेदित	विभेदित	JJ	JJ	_	4	nmod__adj	_	_
+4	निकाय	निकाय	NN	NN	_	5	k1s	_	_
+5	है	है	VM	VM	_	0	rs	_	_
+6	जिसका	जिसका	PRP	PRP	_	0	k1	_	_
+7	भूरसायानिक	भूरसायानिक	JJ	JJ	_	8	nmod__adj	_	_
+8	रूप	रूप	NN	NN	_	0	adv	_	_
+9	से	से	PSP	PSP	_	8	lwg__psp	_	_
+10	तीन	तीन	QC	QC	_	11	nmod__adj	_	_
+11	भाग	भाग	NN	NN	_	0	nmod	_	_
+12	क्रष्ट,	क्रष्ट,	NNP	NNP	_	0	fragof	_	_
+13	मेंटल	मेंटल	NNP	NNP	_	14	ccof	_	_
+14	और	और	CC	CC	_	16	k1	_	_
+15	कोर	कोर	NN	NN	_	14	ccof	_	_
+16	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence57>
+1	लैंडर	लैंडर	NNP	NNP	_	4	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	मुख्य	मुख्य	JJ	JJ	_	4	nmod__adj	_	_
+4	इंजन	इंजन	NN	NN	_	14	k2	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	सफलतापूर्वक	सफलतापूर्वक	RB	RB	_	14	adv	_	_
+7	513	513	QC	QC	_	8	nmod__adj	_	_
+8	सेकंड	सेकंड	NN	NN	_	10	r6	_	_
+9	की	की	PSP	PSP	_	8	lwg__psp	_	_
+10	अवधि	अवधि	NN	NN	_	14	rt	_	_
+11	के	के	PSP	PSP	_	10	lwg__psp	_	_
+12	लिए	लिए	PSP	PSP	_	10	lwg__psp	_	_
+13	परीक्षण	परीक्षण	NN	NN	_	14	pof	_	_
+14	किया	किया	VM	VM	_	0	main	_	_
+15	जा	जा	VAUX	VAUX	_	14	lwg__vaux	_	_
+16	चुका	चुका	VAUX	VAUX	_	15	lwg__vaux_cont	_	_
+17	है	है	VAUX	VAUX	_	16	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence58>
+1	पहला	पहला	QO	QO	_	3	nmod__adj	_	_
+2	भारतीय	भारतीय	JJ	JJ	_	3	nmod__adj	_	_
+3	मिशन,	मिशन,	NN	NN	_	0	k1	_	_
+4	जो	जो	PRP	PRP	_	17	k1	_	_
+5	घरेलू	घरेलू	JJ	JJ	_	6	nmod__adj	_	_
+6	तकनीक	तकनीक	NN	NN	_	17	ras-k1	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	साथ	साथ	NST	NST	_	6	lwg__psp	_	_
+9	चंद्र	चंद्र	NNP	NNP	_	10	nmod__adj	_	_
+10	सतह	सतह	NN	NN	_	17	k7	_	_
+11	पर	पर	PSP	PSP	_	10	lwg__psp	_	_
+12	एक	एक	QC	QC	_	14	nmod__adj	_	_
+13	soft	soft	SYM	SYM	_	14	rsym	_	_
+14	लैंडिंग	लैंडिंग	NN	NN	_	16	r6-k2	_	_
+15	का	का	PSP	PSP	_	14	lwg__psp	_	_
+16	प्रयास	प्रयास	NN	NN	_	17	pof	_	_
+17	करेगा	करेगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence59>
+1	कोर	कोर	NN	NN	_	15	k7	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	चारों	चारों	QC	QC	_	4	nmod__adj	_	_
+4	ओर	ओर	NST	NST	_	1	lwg__psp	_	_
+5	५००	५००	QC	QC	_	6	nmod__adj	_	_
+6	किलोमीटर	किलोमीटर	NN	NN	_	8	r6	_	_
+7	की	की	PSP	PSP	_	6	lwg__psp	_	_
+8	त्रिज्या	त्रिज्या	NN	NN	_	15	ras-k1	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	साथ	साथ	NST	NST	_	8	lwg__psp	_	_
+11	एक	एक	QC	QC	_	13	nmod__adj	_	_
+12	आंशिक	आंशिक	JJ	JJ	_	13	nmod__adj	_	_
+13	रूप	रूप	NN	NN	_	15	adv	_	_
+14	से	से	PSP	PSP	_	13	lwg__psp	_	_
+15	पिघली	पिघली	VM	VM	_	18	nmod__k1inv	_	_
+16	हुई	हुई	VAUX	VAUX	_	15	lwg__vaux	_	_
+17	सीमा	सीमा	NNC	NNC	_	18	pof__cn	_	_
+18	परत	परत	NN	NN	_	19	k1	_	_
+19	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence60>
+1	२००८	२००८	NNP	NNP	_	16	k7t	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	चंद्रयान	चंद्रयान	NNPC	NNPC	_	5	pof__cn	_	_
+4	अंतरिक्ष	अंतरिक्ष	NNPC	NNPC	_	5	pof__cn	_	_
+5	यान	यान	NNP	NNP	_	16	k1	_	_
+6	ने	ने	PSP	PSP	_	5	lwg__psp	_	_
+7	चन्द्रमा	चन्द्रमा	NN	NN	_	16	k7p	_	_
+8	पर	पर	PSP	PSP	_	7	lwg__psp	_	_
+9	सतह	सतह	NN	NN	_	16	k2	_	_
+10	जल	जल	NNC	NNC	_	11	pof__cn	_	_
+11	बर्फ	बर्फ	NN	NN	_	13	r6	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	अस्तित्व	अस्तित्व	NN	NN	_	15	r6-k2	_	_
+14	की	की	PSP	PSP	_	13	lwg__psp	_	_
+15	पुष्टि	पुष्टि	NN	NN	_	16	pof	_	_
+16	की	की	VM	VM	_	0	main	_	_
+17	है	है	VAUX	VAUX	_	16	lwg__vaux	_	_
+----------------------------------------
+<sentence61>
+1	2022	2022	NNP	NNP	_	0	k7t	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	प्रस्तावित	प्रस्तावित	JJ	JJ	_	4	nmod__adj	_	_
+4	भारत	भारत	NNP	NNP	_	6	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	अंतरिक्ष	अंतरिक्ष	NN	NN	_	0	k7p	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	मानव	मानव	NNPC	NNPC	_	9	pof__cn	_	_
+9	मिशन	मिशन	NNP	NNP	_	12	nmod__adj	_	_
+10	”	”	NNPC	NNPC	_	12	pof__cn	_	_
+11	गगणयान	गगणयान	NNPC	NNPC	_	12	pof__cn	_	_
+12	मिशन	मिशन	NN	NN	_	0	k2	_	_
+13	”	”	NN	NN	_	15	r6	_	_
+14	का	का	PSP	PSP	_	13	lwg__psp	_	_
+15	रास्ता	रास्ता	NN	NN	_	17	k2	_	_
+16	साफ	साफ	JJ	JJ	_	17	pof	_	_
+17	होगा.	होगा.	VM	VM	_	0	rs	_	_
+----------------------------------------
+<sentence62>
+1	इन	इन	DEM	DEM	_	3	nmod__adj	_	_
+2	अंतरिक्ष	अंतरिक्ष	NNC	NNC	_	3	pof__cn	_	_
+3	अभियानों	अभियानों	NN	NN	_	16	k1	_	_
+4	ने	ने	PSP	PSP	_	3	lwg__psp	_	_
+5	चंद्रमा	चंद्रमा	NNP	NNP	_	16	k7	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	जल-बर्फ	जल-बर्फ	NN	NN	_	9	r6	_	_
+8	की	की	PSP	PSP	_	7	lwg__psp	_	_
+9	खोज	खोज	NN	NN	_	11	r6	_	_
+10	की	की	PSP	PSP	_	9	lwg__psp	_	_
+11	पुष्टि	पुष्टि	NN	NN	_	16	rt	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	लिए	लिए	PSP	PSP	_	11	lwg__psp	_	_
+14	विशिष्ठ	विशिष्ठ	JJ	JJ	_	15	nmod__adj	_	_
+15	योगदान	योगदान	NN	NN	_	16	pof	_	_
+16	दिया	दिया	VM	VM	_	0	main	_	_
+17	है	है	VAUX	VAUX	_	16	lwg__vaux	_	_
+----------------------------------------
+<sentence63>
+1	यह	यह	PRP	PRP	_	7	k1	_	_
+2	500	500	QC	QC	_	3	nmod__adj	_	_
+3	मीटर	मीटर	NN	NN	_	7	k7	_	_
+4	(½-a-km)	(½-a-km)	SYM	SYM	_	3	rsym	_	_
+5	तक	तक	PSP	PSP	_	3	lwg__psp	_	_
+6	यात्रा	यात्रा	NN	NN	_	7	pof	_	_
+7	कर	कर	VM	VM	_	10	ccof	_	_
+8	सकता	सकता	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+10	और	और	CC	CC	_	0	main	_	_
+11	इसके	इसके	PRP	PRP	_	12	r6	_	_
+12	कामकाज	कामकाज	NN	NN	_	19	rt	_	_
+13	के	के	PSP	PSP	_	12	lwg__psp	_	_
+14	लिए	लिए	PSP	PSP	_	12	lwg__psp	_	_
+15	सौर	सौर	NNC	NNC	_	16	pof__cn	_	_
+16	ऊर्जा	ऊर्जा	NN	NN	_	18	r6	_	_
+17	का	का	PSP	PSP	_	16	lwg__psp	_	_
+18	लाभ	लाभ	NN	NN	_	19	pof	_	_
+19	उठाता	उठाता	VM	VM	_	10	ccof	_	_
+20	है	है	VAUX	VAUX	_	19	lwg__vaux	_	_
+----------------------------------------
+<sentence64>
+1	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	3	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	मिशन	मिशन	NN	NN	_	7	k1	_	_
+4	जीवन	जीवन	NN	NN	_	7	k1	_	_
+5	एक	एक	QC	QC	_	6	nmod__adj	_	_
+6	वर्ष	वर्ष	NN	NN	_	7	k1s	_	_
+7	है	है	VM	VM	_	8	ccof	_	_
+8	और	और	CC	CC	_	0	main	_	_
+9	इसे	इसे	PRP	PRP	_	17	k2	_	_
+10	100X100	100X100	SYM	SYM	_	11	rsym	_	_
+11	किमी	किमी	NN	NN	_	12	jjmod	_	_
+12	लंबी	लंबी	JJ	JJ	_	13	nmod	_	_
+13	चंद्र	चंद्र	NNP	NNP	_	17	k2s	_	_
+14	ध्रुवीय	ध्रुवीय	JJ	JJ	_	15	nmod__adj	_	_
+15	कक्षा	कक्षा	NN	NN	_	17	k7	_	_
+16	में	में	PSP	PSP	_	15	lwg__psp	_	_
+17	रखा	रखा	VM	VM	_	8	ccof	_	_
+18	जाएगा	जाएगा	VAUX	VAUX	_	17	lwg__vaux	_	_
+----------------------------------------
+<sentence65>
+1	फ्रांस	फ्रांस	NNP	NNP	_	3	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	अमेरिका	अमेरिका	NNP	NNP	_	16	k7t	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	बाद	बाद	NST	NST	_	3	lwg__psp	_	_
+6	भारत	भारत	NNP	NNP	_	16	k1	_	_
+7	भी	भी	RP	RP	_	6	lwg__rp	_	_
+8	सैन्य	सैन्य	JJ	JJ	_	9	nmod__adj	_	_
+9	दृष्टि	दृष्टि	NN	NN	_	16	adv	_	_
+10	से	से	PSP	PSP	_	9	lwg__psp	_	_
+11	महत्वपूर्ण	महत्वपूर्ण	JJ	JJ	_	13	nmod__adj	_	_
+12	स्पेस	स्पेस	NNC	NNC	_	13	pof__cn	_	_
+13	कमांड	कमांड	NN	NN	_	15	nmod	_	_
+14	वाला	वाला	PSP	PSP	_	13	lwg__psp	_	_
+15	देश	देश	NN	NN	_	16	k1	_	_
+16	बन	बन	VM	VM	_	0	main	_	_
+17	सकता	सकता	VAUX	VAUX	_	16	lwg__vaux	_	_
+18	है.	है.	VAUX	VAUX	_	17	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence66>
+1	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	2	ccof	_	_
+2	तथा	तथा	CC	CC	_	6	r6	_	_
+3	रोवर	रोवर	NNP	NNP	_	2	ccof	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	मुख्य	मुख्य	JJ	JJ	_	6	nmod__adj	_	_
+6	जिम्मेदारी	जिम्मेदारी	NN	NN	_	7	nmod	_	_
+7	इसरो	इसरो	NNP	NNP	_	9	r6	_	_
+8	की	की	PSP	PSP	_	7	lwg__psp	_	_
+9	होगी	होगी	VAUX	VAUX	_	10	ccof	_	_
+10	तथा	तथा	CC	CC	_	0	main	_	_
+11	रोसकोसमोस	रोसकोसमोस	NNPC	NNPC	_	12	pof__cn	_	_
+12	लैंडर	लैंडर	NNP	NNP	_	16	rt	_	_
+13	के	के	PSP	PSP	_	12	lwg__psp	_	_
+14	लिए	लिए	PSP	PSP	_	12	lwg__psp	_	_
+15	जिम्मेदार	जिम्मेदार	JJ	JJ	_	16	pof	_	_
+16	होगा.	होगा.	VM	VM	_	10	ccof	_	_
+----------------------------------------
+<sentence67>
+1	सेंसर	सेंसर	NN	NN	_	2	ccof	_	_
+2	और	और	CC	CC	_	8	r6	_	_
+3	सॉफ्टवेयर	सॉफ्टवेयर	NN	NN	_	2	ccof	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	बंद	बंद	JJ	JJ	_	8	nmod__adj	_	_
+6	लूप	लूप	NNC	NNC	_	8	pof__cn	_	_
+7	सत्यापन	सत्यापन	NNC	NNC	_	8	pof__cn	_	_
+8	परीक्षण	परीक्षण	NN	NN	_	17	k1	_	_
+9	2016	2016	NNP	NNP	_	14	k7t	_	_
+10	के	के	PSP	PSP	_	9	lwg__psp	_	_
+11	मध्य	मध्य	NST	NST	_	9	lwg__psp	_	_
+12	में	में	PSP	PSP	_	11	lwg__psp	_	_
+13	परीक्षण	परीक्षण	NN	NN	_	14	pof	_	_
+14	करने	करने	VM	VM	_	16	r6	_	_
+15	की	की	PSP	PSP	_	14	lwg__psp	_	_
+16	योजना	योजना	NN	NN	_	17	k2	_	_
+17	बनाई	बनाई	VM	VM	_	0	main	_	_
+18	है	है	VAUX	VAUX	_	17	lwg__vaux	_	_
+----------------------------------------
+<sentence68>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	टकराव	टकराव	NN	NN	_	9	rh	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	कारण	कारण	PSP	PSP	_	2	lwg__psp	_	_
+5	पृथ्वी	पृथ्वी	NN	NN	_	8	r6	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	23.5	23.5	QC	QC	_	8	nmod__adj	_	_
+8	डिग्री	डिग्री	NN	NN	_	9	k2	_	_
+9	झुका	झुका	VM	VM	_	11	nmod__k1inv	_	_
+10	हुआ	हुआ	VAUX	VAUX	_	9	lwg__vaux	_	_
+11	धुरी	धुरी	NN	NN	_	14	k2	_	_
+12	भी	भी	RP	RP	_	11	lwg__rp	_	_
+13	उत्पन्न	उत्पन्न	JJ	JJ	_	14	pof	_	_
+14	हुई,	हुई,	VM	VM	_	0	vmod	_	_
+15	जिससे	जिससे	PRP	PRP	_	18	rh	_	_
+16	मौसम	मौसम	NN	NN	_	18	k1	_	_
+17	उत्पन्न	उत्पन्न	JJ	JJ	_	18	pof	_	_
+18	हो	हो	VM	VM	_	0	main	_	_
+19	गया	गया	VAUX	VAUX	_	18	lwg__vaux	_	_
+----------------------------------------
+<sentence69>
+1	तीन	तीन	QC	QC	_	2	nmod__adj	_	_
+2	पेलोड	पेलोड	NN	NN	_	4	k1	_	_
+3	नए	नए	JJ	JJ	_	4	k1s	_	_
+4	हैं,	हैं,	VM	VM	_	5	ccof	_	_
+5	जबकि	जबकि	CC	CC	_	0	main	_	_
+6	दो	दो	QC	QC	_	9	nmod__adj	_	_
+7	अन्य	अन्य	JJ	JJ	_	9	nmod__adj	_	_
+8	चंद्रयान-1	चंद्रयान-1	NNPC	NNPC	_	9	pof__cn	_	_
+9	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	11	k7	_	_
+10	पर	पर	PSP	PSP	_	9	lwg__psp	_	_
+11	भेजे	भेजे	VM	VM	_	14	nmod	_	_
+12	जाने	जाने	VAUX	VAUX	_	11	lwg__vaux	_	_
+13	वाले	वाले	PSP	PSP	_	11	lwg__psp	_	_
+14	पेलोड	पेलोड	NN	NN	_	17	r6	_	_
+15	के	के	PSP	PSP	_	14	lwg__psp	_	_
+16	उन्नत	उन्नत	JJ	JJ	_	17	nmod__adj	_	_
+17	संस्करण	संस्करण	NN	NN	_	18	k1	_	_
+18	हैं	हैं	VM	VM	_	5	ccof	_	_
+----------------------------------------
+<sentence70>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	5	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	दक्षिण	दक्षिण	NNPC	NNPC	_	5	pof__cn	_	_
+4	ध्रुवीय	ध्रुवीय	JJ	JJ	_	5	nmod__adj	_	_
+5	क्षेत्र	क्षेत्र	NN	NN	_	12	k7p	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	एक	एक	QC	QC	_	9	nmod__adj	_	_
+8	Soft	Soft	SYM	SYM	_	9	rsym	_	_
+9	लैंडिंग	लैंडिंग	NN	NN	_	11	r6-k2	_	_
+10	का	का	PSP	PSP	_	9	lwg__psp	_	_
+11	संचालन	संचालन	NN	NN	_	12	pof	_	_
+12	करने	करने	VM	VM	_	16	nmod	_	_
+13	वाला	वाला	PSP	PSP	_	12	lwg__psp	_	_
+14	पहला	पहला	QO	QO	_	16	nmod__adj	_	_
+15	अंतरिक्ष	अंतरिक्ष	NNC	NNC	_	16	pof__cn	_	_
+16	मिशन	मिशन	NN	NN	_	17	k1	_	_
+17	हैं	हैं	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence71>
+1	रोवर	रोवर	NN	NN	_	3	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	वजन	वजन	NN	NN	_	6	k1	_	_
+4	27	27	QC	QC	_	5	nmod__adj	_	_
+5	किग्रा	किग्रा	NN	NN	_	6	k1s	_	_
+6	है	है	VM	VM	_	7	ccof	_	_
+7	और	और	CC	CC	_	0	main	_	_
+8	सौर	सौर	NNC	NNC	_	9	pof__cn	_	_
+9	ऊर्जा	ऊर्जा	NNP	NNP	_	12	k1	_	_
+10	द्वारा	द्वारा	PSP	PSP	_	9	lwg__psp	_	_
+11	संचालित	संचालित	JJ	JJ	_	12	pof	_	_
+12	होगा	होगा	VM	VM	_	19	vmod	_	_
+13	इलेक्ट्रिक	इलेक्ट्रिक	NNPC	NNPC	_	16	pof__cn	_	_
+14	पावर	पावर	NNC	NNC	_	16	pof__cn	_	_
+15	जनरेशन	जनरेशन	NNPC	NNPC	_	16	pof__cn	_	_
+16	क्षमता-	क्षमता-	NNP	NNP	_	19	k1	_	_
+17	50	50	NNPC	NNPC	_	19	k1s	_	_
+18	W	W	SYM	SYM	_	19	rsym	_	_
+19	है	है	VM	VM	_	7	ccof	_	_
+----------------------------------------
+<sentence72>
+1	ऐसा	ऐसा	PRP	PRP	_	2	k2	_	_
+2	माना	माना	VM	VM	_	0	main	_	_
+3	जाता	जाता	VAUX	VAUX	_	2	lwg__vaux	_	_
+4	है	है	VAUX	VAUX	_	3	lwg__vaux_cont	_	_
+5	कि	कि	CC	CC	_	1	rs	_	_
+6	करीब	करीब	RP	RP	_	8	lwg__rp	_	_
+7	४.५	४.५	QCC	QCC	_	8	mod	_	_
+8	अरब	अरब	QC	QC	_	9	nmod__adj	_	_
+9	वर्ष	वर्ष	NN	NN	_	21	k7t	_	_
+10	पहले	पहले	NST	NST	_	9	lwg__psp	_	_
+11	पृथ्वी	पृथ्वी	NNP	NNP	_	21	ras-k1	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	साथ	साथ	NST	NST	_	11	lwg__psp	_	_
+14	विशाल	विशाल	JJ	JJ	_	15	nmod__adj	_	_
+15	टक्कर	टक्कर	NN	NN	_	17	r6	_	_
+16	की	की	PSP	PSP	_	15	lwg__psp	_	_
+17	घटना	घटना	NN	NN	_	21	k1	_	_
+18	ने	ने	PSP	PSP	_	17	lwg__psp	_	_
+19	इसका	इसका	PRP	PRP	_	20	r6-k2	_	_
+20	गठन	गठन	NN	NN	_	21	pof	_	_
+21	किया	किया	VM	VM	_	5	ccof	_	_
+22	है	है	VAUX	VAUX	_	21	lwg__vaux	_	_
+----------------------------------------
+<sentence73>
+1	यह	यह	PRP	PRP	_	12	k1	_	_
+2	एक	एक	QC	QC	_	3	nmod__adj	_	_
+3	चंद्र	चंद्र	NNP	NNP	_	4	nmod__adj	_	_
+4	दिन	दिन	NN	NN	_	12	rt	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	लिए	लिए	PSP	PSP	_	4	lwg__psp	_	_
+7	कार्य	कार्य	NN	NN	_	8	k2	_	_
+8	करने	करने	VM	VM	_	12	rt	_	_
+9	के	के	PSP	PSP	_	8	lwg__psp	_	_
+10	लिए	लिए	PSP	PSP	_	8	lwg__psp	_	_
+11	डिज़ाइन	डिज़ाइन	NN	NN	_	12	pof	_	_
+12	किया	किया	VM	VM	_	0	main	_	_
+13	गया	गया	VAUX	VAUX	_	12	lwg__vaux	_	_
+14	है,	है,	VAUX	VAUX	_	13	lwg__vaux_cont	_	_
+15	जो	जो	PRP	PRP	_	22	k1	_	_
+16	लगभग	लगभग	RP	RP	_	17	lwg__rp	_	_
+17	14	14	QC	QC	_	18	nmod__adj	_	_
+18	पृथ्वी	पृथ्वी	NN	NN	_	22	k1	_	_
+19	दिनों	दिनों	NN	NN	_	22	k1s	_	_
+20	के	के	PSP	PSP	_	19	lwg__psp	_	_
+21	बराबर	बराबर	PSP	PSP	_	19	lwg__psp	_	_
+22	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence74>
+1	चंद्रयान	चंद्रयान	NNPC	NNPC	_	2	pof__cn	_	_
+2	2	2	NNP	NNP	_	4	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	लैंडर	लैंडर	NN	NN	_	6	r6	_	_
+5	का	का	PSP	PSP	_	4	lwg__psp	_	_
+6	नाम	नाम	NN	NN	_	19	k2	_	_
+7	भारतीय	भारतीय	NNPC	NNPC	_	9	pof__cn	_	_
+8	अंतरिक्ष	अंतरिक्ष	NNC	NNC	_	9	pof__cn	_	_
+9	कार्यक्रम	कार्यक्रम	NNP	NNP	_	11	r6	_	_
+10	के	के	PSP	PSP	_	9	lwg__psp	_	_
+11	जनक	जनक	NN	NN	_	15	nmod	_	_
+12	डॉ	डॉ	NNC	NNC	_	15	pof__cn	_	_
+13	विक्रम	विक्रम	NNPC	NNPC	_	15	pof__cn	_	_
+14	ए	ए	NNPC	NNPC	_	15	pof__cn	_	_
+15	साराभाई	साराभाई	NNP	NNP	_	17	r6	_	_
+16	के	के	PSP	PSP	_	15	lwg__psp	_	_
+17	नाम	नाम	NN	NN	_	19	k7	_	_
+18	पर	पर	PSP	PSP	_	17	lwg__psp	_	_
+19	रखा	रखा	VM	VM	_	0	main	_	_
+20	गया	गया	VAUX	VAUX	_	19	lwg__vaux	_	_
+21	है	है	VAUX	VAUX	_	20	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence75>
+1	चन्द्रमा	चन्द्रमा	NNP	NNP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	सतह	सतह	NN	NN	_	5	k5	_	_
+4	से	से	PSP	PSP	_	3	lwg__psp	_	_
+5	टकराने	टकराने	VM	VM	_	7	nmod	_	_
+6	वाले	वाले	PSP	PSP	_	5	lwg__psp	_	_
+7	चंद्रयान-1	चंद्रयान-1	NNP	NNP	_	11	r6	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	मून	मून	NNPC	NNPC	_	11	pof__cn	_	_
+10	इम्पैक्ट	इम्पैक्ट	NNPC	NNPC	_	11	pof__cn	_	_
+11	प्रोब	प्रोब	NNP	NNP	_	14	r6	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	विपरीत,	विपरीत,	JJ	JJ	_	14	nmod__adj	_	_
+14	लैंडर	लैंडर	NN	NN	_	17	k1	_	_
+15	धीरे-धीरे	धीरे-धीरे	RB	RB	_	17	adv	_	_
+16	नीचे	नीचे	NST	NST	_	17	k7p	_	_
+17	उतरेगा	उतरेगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence76>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	18	rt	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	लिए	लिए	PSP	PSP	_	1	lwg__psp	_	_
+4	भविष्य	भविष्य	NN	NN	_	9	r6	_	_
+5	की	की	PSP	PSP	_	4	lwg__psp	_	_
+6	मानवयुक्त	मानवयुक्त	NNPC	NNPC	_	9	pof__cn	_	_
+7	मिशन	मिशन	NNPC	NNPC	_	9	pof__cn	_	_
+8	योजना	योजना	NNPC	NNPC	_	9	pof__cn	_	_
+9	सरकार	सरकार	NNP	NNP	_	18	ras-k1	_	_
+10	के	के	PSP	PSP	_	9	lwg__psp	_	_
+11	साथ	साथ	NST	NST	_	9	lwg__psp	_	_
+12	साथ	साथ	NST	NST	_	18	k7	_	_
+13	निजी	निजी	JJ	JJ	_	16	nmod__adj	_	_
+14	वित्त	वित्त	JJC	JJC	_	15	mod	_	_
+15	पोषित	पोषित	JJ	JJ	_	13	mod	_	_
+16	प्रयासों	प्रयासों	NN	NN	_	18	adv	_	_
+17	से	से	PSP	PSP	_	16	lwg__psp	_	_
+18	बनाई	बनाई	VM	VM	_	0	main	_	_
+19	गई	गई	VAUX	VAUX	_	18	lwg__vaux	_	_
+20	है	है	VAUX	VAUX	_	19	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence77>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	5	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	अकेले	अकेले	JJ	JJ	_	5	nmod__adj	_	_
+4	नजदीकी	नजदीकी	JJ	JJ	_	3	mod	_	_
+5	पक्ष	पक्ष	NN	NN	_	21	k7	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	ही	ही	RP	RP	_	5	lwg__rp	_	_
+8	१	१	QC	QC	_	9	nmod__adj	_	_
+9	किमी	किमी	NN	NN	_	11	jjmod	_	_
+10	से	से	PSP	PSP	_	9	lwg__psp	_	_
+11	ज्यादा	ज्यादा	QF	QF	_	12	nmod	_	_
+12	चौड़ाई	चौड़ाई	NN	NN	_	16	r6	_	_
+13	के	के	PSP	PSP	_	12	lwg__psp	_	_
+14	लगभग	लगभग	RP	RP	_	15	lwg__rp	_	_
+15	३,००,०००	३,००,०००	QC	QC	_	16	nmod__adj	_	_
+16	खड्डों	खड्डों	NN	NN	_	18	k1	_	_
+17	के	के	PSP	PSP	_	16	lwg__psp	_	_
+18	होने	होने	VM	VM	_	20	r6	_	_
+19	का	का	PSP	PSP	_	18	lwg__psp	_	_
+20	अनुमान	अनुमान	NN	NN	_	21	k1	_	_
+21	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence78>
+1	चंद्रयान	चंद्रयान	NNPC	NNPC	_	2	pof__cn	_	_
+2	2	2	QC	QC	_	4	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	रोवर	रोवर	NN	NN	_	20	nmod	_	_
+5	प्रज्ञान	प्रज्ञान	NNP	NNP	_	6	nmod__adj	_	_
+6	नाम	नाम	NN	NN	_	9	r6	_	_
+7	का	का	PSP	PSP	_	6	lwg__psp	_	_
+8	6	6	QC	QC	_	9	nmod__adj	_	_
+9	पहियों	पहियों	NN	NN	_	12	nmod	_	_
+10	वाला	वाला	PSP	PSP	_	9	lwg__psp	_	_
+11	रोबोट	रोबोट	NNC	NNC	_	12	pof__cn	_	_
+12	वाहन	वाहन	NN	NN	_	13	nmod	_	_
+13	है,	है,	NNP	NNP	_	0	k2	_	_
+14	जो	जो	PRP	PRP	_	20	k1	_	_
+15	संस्कृत	संस्कृत	NN	NN	_	20	k7	_	_
+16	में	में	PSP	PSP	_	15	lwg__psp	_	_
+17	'ज्ञान'	'ज्ञान'	SYM	SYM	_	19	r6-k2	_	_
+18	का	का	PSP	PSP	_	17	lwg__psp	_	_
+19	अनुवाद	अनुवाद	NN	NN	_	20	pof	_	_
+20	करता	करता	VM	VM	_	0	main	_	_
+21	है	है	VAUX	VAUX	_	20	lwg__vaux	_	_
+----------------------------------------
+<sentence79>
+1	हांलाकि	हांलाकि	CC	CC	_	0	k7t	_	_
+2	चंद्रयान-२	चंद्रयान-२	NNP	NNP	_	4	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	0	k1	_	_
+5	ने	ने	PSP	PSP	_	4	lwg__psp	_	_
+6	अपने	अपने	PRP	PRP	_	9	r6	_	_
+7	हाई	हाई	NNC	NNC	_	9	pof__cn	_	_
+8	रिजोल्यूशन	रिजोल्यूशन	NNC	NNC	_	9	pof__cn	_	_
+9	कैमरा	कैमरा	NN	NN	_	0	k3	_	_
+10	से	से	PSP	PSP	_	9	lwg__psp	_	_
+11	चंद्रमा	चंद्रमा	NN	NN	_	13	r6	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	सतह	सतह	NN	NN	_	14	ccof	_	_
+14	कि	कि	CC	CC	_	0	main	_	_
+15	कुछ	कुछ	QF	QF	_	17	nmod__adj	_	_
+16	बेहतरीन	बेहतरीन	JJ	JJ	_	17	nmod__adj	_	_
+17	चित्र	चित्र	NN	NN	_	18	k2	_	_
+18	लिया	लिया	VM	VM	_	14	ccof	_	_
+19	है	है	VAUX	VAUX	_	18	lwg__vaux	_	_
+----------------------------------------
+<sentence80>
+1	नियंत्रण	नियंत्रण	NN	NN	_	2	ccof	_	_
+2	और	और	CC	CC	_	18	k7	_	_
+3	मोटर	मोटर	NN	NN	_	2	ccof	_	_
+4	गतिशीलता	गतिशीलता	NNC	NNC	_	6	pof__cn	_	_
+5	-	-	SYM	SYM	_	6	rsym	_	_
+6	रोवर	रोवर	NNP	NNP	_	9	r6	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	छह	छह	QC	QC	_	9	nmod__adj	_	_
+9	पहियों	पहियों	NN	NN	_	18	k1	_	_
+10	होंगे,प्रत्येक	होंगे,प्रत्येक	JJC	JJC	_	11	mod	_	_
+11	स्वतंत्र	स्वतंत्र	JJ	JJ	_	12	nmod__adj	_	_
+12	बिजली	बिजली	NN	NN	_	14	r6	_	_
+13	की	की	PSP	PSP	_	12	lwg__psp	_	_
+14	मोटर	मोटर	NN	NN	_	18	k3	_	_
+15	के	के	PSP	PSP	_	14	lwg__psp	_	_
+16	द्वारा	द्वारा	PSP	PSP	_	14	lwg__psp	_	_
+17	संचालित	संचालित	JJ	JJ	_	18	pof	_	_
+18	होंगे	होंगे	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence81>
+1	पहिएदार	पहिएदार	NN	NN	_	7	k1	_	_
+2	रोवर	रोवर	NNP	NNP	_	3	nmod__adj	_	_
+3	चन्द्रमा	चन्द्रमा	NN	NN	_	5	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	सतह	सतह	NN	NN	_	7	k7p	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	चलेगा	चलेगा	VM	VM	_	8	ccof	_	_
+8	तथा	तथा	CC	CC	_	0	main	_	_
+9	वहीं	वहीं	PRP	PRP	_	21	k7	_	_
+10	पर	पर	PSP	PSP	_	9	lwg__psp	_	_
+11	विश्लेषण	विश्लेषण	NN	NN	_	21	rt	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	लिए	लिए	PSP	PSP	_	11	lwg__psp	_	_
+14	मिट्टी	मिट्टी	NN	NN	_	15	ccof	_	_
+15	या	या	CC	CC	_	18	nmod	_	_
+16	चट्टान	चट्टान	NN	NN	_	15	ccof	_	_
+17	के	के	PSP	PSP	_	16	lwg__psp	_	_
+18	नमूनों	नमूनों	NN	NN	_	21	k2	_	_
+19	को	को	PSP	PSP	_	18	lwg__psp	_	_
+20	एकत्र	एकत्र	JJ	JJ	_	21	pof	_	_
+21	करेगा	करेगा	VM	VM	_	8	ccof	_	_
+----------------------------------------
+<sentence82>
+1	सफल	सफल	JJ	JJ	_	2	pof	_	_
+2	होने	होने	VM	VM	_	0	main	_	_
+3	पर,	पर,	VAUX	VAUX	_	2	lwg__vaux	_	_
+4	चंद्रयान	चंद्रयान	NNPC	NNPC	_	9	pof__cn	_	_
+5	-2	-2	SYM	SYM	_	9	rsym	_	_
+6	सबसे	सबसे	NNPC	NNPC	_	9	pof__cn	_	_
+7	दक्षिणी	दक्षिणी	JJ	JJ	_	9	nmod__adj	_	_
+8	चंद्र	चंद्र	NNPC	NNPC	_	9	pof__cn	_	_
+9	लैंडिंग	लैंडिंग	NN	NN	_	10	k2	_	_
+10	होगा,	होगा,	VM	VM	_	0	vmod	_	_
+11	जिसका	जिसका	PRP	PRP	_	12	r6	_	_
+12	लक्ष्य	लक्ष्य	NN	NN	_	21	k1	_	_
+13	67	67	QC	QC	_	14	nmod__adj	_	_
+14	°	°	NN	NN	_	16	ccof	_	_
+15	S	S	SYM	SYM	_	14	rsym	_	_
+16	या	या	CC	CC	_	19	r6	_	_
+17	70	70	QC	QC	_	18	nmod__adj	_	_
+18	°	°	NN	NN	_	16	ccof	_	_
+19	अक्षांश	अक्षांश	NN	NN	_	21	k7p	_	_
+20	पर	पर	PSP	PSP	_	19	lwg__psp	_	_
+21	उतरना	उतरना	VM	VM	_	0	main	_	_
+22	होगा	होगा	VAUX	VAUX	_	21	lwg__vaux	_	_
+----------------------------------------
+<sentence83>
+1	8	8	NNPC	NNPC	_	3	pof__cn	_	_
+2	सितंबर	सितंबर	NNPC	NNPC	_	3	pof__cn	_	_
+3	2019	2019	NNP	NNP	_	8	k7t	_	_
+4	को	को	PSP	PSP	_	3	lwg__psp	_	_
+5	इसरो	इसरो	NNP	NNP	_	8	k1	_	_
+6	द्वारा	द्वारा	PSP	PSP	_	5	lwg__psp	_	_
+7	सूचना	सूचना	NN	NN	_	8	k2	_	_
+8	दी	दी	VM	VM	_	0	main	_	_
+9	गई	गई	VAUX	VAUX	_	8	lwg__vaux	_	_
+10	कि	कि	CC	CC	_	8	k2	_	_
+11	ओरबिटर	ओरबिटर	NNP	NNP	_	13	k1	_	_
+12	द्‍वारा	द्‍वारा	PSP	PSP	_	11	lwg__psp	_	_
+13	लिए	लिए	VM	VM	_	15	nmod__k1inv	_	_
+14	गए	गए	VAUX	VAUX	_	13	lwg__vaux	_	_
+15	ऊष्माचित्र	ऊष्माचित्र	NNP	NNP	_	21	k5	_	_
+16	से	से	PSP	PSP	_	15	lwg__psp	_	_
+17	विक्रम	विक्रम	NNPC	NNPC	_	18	pof__cn	_	_
+18	लैंडर	लैंडर	NNP	NNP	_	20	r6	_	_
+19	का	का	PSP	PSP	_	18	lwg__psp	_	_
+20	पता	पता	NN	NN	_	21	pof	_	_
+21	चल	चल	VM	VM	_	10	ccof	_	_
+22	गया	गया	VAUX	VAUX	_	21	lwg__vaux	_	_
+23	है	है	VAUX	VAUX	_	22	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence84>
+1	सन्	सन्	NNPC	NNPC	_	2	pof__cn	_	_
+2	१९६९	१९६९	NNP	NNP	_	4	rsp	_	_
+3	से	से	PSP	PSP	_	2	lwg__psp	_	_
+4	१९७२	१९७२	NNP	NNP	_	16	k7t	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	बीच	बीच	NST	NST	_	4	lwg__psp	_	_
+7	छह	छह	QC	QC	_	9	nmod__adj	_	_
+8	मानवयुक्त	मानवयुक्त	NNC	NNC	_	9	pof__cn	_	_
+9	यान	यान	NNP	NNP	_	16	k1	_	_
+10	ने	ने	PSP	PSP	_	9	lwg__psp	_	_
+11	चन्द्रमा	चन्द्रमा	NNP	NNP	_	13	r6	_	_
+12	की	की	PSP	PSP	_	11	lwg__psp	_	_
+13	धरती	धरती	NN	NN	_	16	k7p	_	_
+14	पर	पर	PSP	PSP	_	13	lwg__psp	_	_
+15	कदम	कदम	NN	NN	_	16	pof	_	_
+16	रखा	रखा	VM	VM	_	0	main	_	_
+17	जिसमे	जिसमे	PRP	PRP	_	24	k5	_	_
+18	से	से	PSP	PSP	_	17	lwg__psp	_	_
+19	अपोलो-११	अपोलो-११	NNP	NNP	_	24	k1	_	_
+20	ने	ने	PSP	PSP	_	19	lwg__psp	_	_
+21	सबसे	सबसे	JJ	JJ	_	22	nmod__adj	_	_
+22	पहले	पहले	NST	NST	_	24	k7t	_	_
+23	कदम	कदम	NN	NN	_	24	k2	_	_
+24	रखा	रखा	VM	VM	_	16	nmod__relc	_	_
+----------------------------------------
+<sentence85>
+1	श्री	श्री	NNC	NNC	_	2	pof__cn	_	_
+2	विक्रम	विक्रम	NNP	NNP	_	5	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	पास,	पास,	NNPC	NNPC	_	5	pof__cn	_	_
+5	बैंगलोर	बैंगलोर	NNP	NNP	_	22	k7p	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	पास	पास	NST	NST	_	5	lwg__psp	_	_
+8	बयालू	बयालू	NNP	NNP	_	22	k7	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	आईडीएसएन	आईडीएसएन	NNP	NNP	_	22	vmod	_	_
+11	के	के	PSP	PSP	_	10	lwg__psp	_	_
+12	साथ-साथ	साथ-साथ	PSP	PSP	_	10	lwg__psp	_	_
+13	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	14	ccof	_	_
+14	और	और	CC	CC	_	19	k7	_	_
+15	रोवर	रोवर	NNP	NNP	_	14	ccof	_	_
+16	के	के	PSP	PSP	_	15	lwg__psp	_	_
+17	साथ	साथ	NST	NST	_	15	lwg__psp	_	_
+18	संवाद	संवाद	NN	NN	_	19	pof	_	_
+19	करने	करने	VM	VM	_	21	r6	_	_
+20	की	की	PSP	PSP	_	19	lwg__psp	_	_
+21	क्षमता	क्षमता	NN	NN	_	22	k1	_	_
+22	है	है	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence86>
+1	स्वदेशी	स्वदेशी	JJ	JJ	_	2	nmod__adj	_	_
+2	लैंडर	लैंडर	NN	NN	_	5	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	प्रारंभिक	प्रारंभिक	JJ	JJ	_	5	nmod__adj	_	_
+5	कॉन्फ़िगरेशन	कॉन्फ़िगरेशन	NN	NN	_	7	r6	_	_
+6	का	का	PSP	PSP	_	5	lwg__psp	_	_
+7	अध्ययन	अध्ययन	NN	NN	_	0	k2	_	_
+8	2013	2013	NNP	NNP	_	14	k7t	_	_
+9	में	में	PSP	PSP	_	8	lwg__psp	_	_
+10	अंतरिक्ष	अंतरिक्ष	NNC	NNC	_	12	pof__cn	_	_
+11	अनुप्रयोग	अनुप्रयोग	NNPC	NNPC	_	12	pof__cn	_	_
+12	केंद्र(SAC),अहमदाबाद	केंद्र(SAC),अहमदाबाद	NN	NN	_	14	jjmod	_	_
+13	द्वारा	द्वारा	PSP	PSP	_	12	lwg__psp	_	_
+14	पूरा	पूरा	JJ	JJ	_	0	nmod	_	_
+15	कि	कि	CC	CC	_	14	k2	_	_
+16	गयी	गयी	VAUX	VAUX	_	14	rsym	_	_
+----------------------------------------
+<sentence87>
+1	अंतरिक्ष	अंतरिक्ष	NNC	NNC	_	2	pof__cn	_	_
+2	यान	यान	NN	NN	_	4	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	डिजाइन	डिजाइन	NN	NN	_	10	k2	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	अगस्त	अगस्त	NNPC	NNPC	_	7	pof__cn	_	_
+7	2009	2009	NNP	NNP	_	10	k7t	_	_
+8	में	में	PSP	PSP	_	7	lwg__psp	_	_
+9	पूर्ण	पूर्ण	JJ	JJ	_	10	pof	_	_
+10	कर	कर	VM	VM	_	13	ccof	_	_
+11	लिया	लिया	VAUX	VAUX	_	10	lwg__vaux	_	_
+12	गया	गया	VAUX	VAUX	_	11	lwg__vaux_cont	_	_
+13	जिसमे	जिसमे	CC	CC	_	0	main	_	_
+14	दोनों	दोनों	QC	QC	_	15	nmod__adj	_	_
+15	देशों	देशों	NN	NN	_	17	r6	_	_
+16	के	के	PSP	PSP	_	15	lwg__psp	_	_
+17	वैज्ञानिकों	वैज्ञानिकों	NN	NN	_	0	k1	_	_
+18	ने	ने	PSP	PSP	_	17	lwg__psp	_	_
+19	अपना	अपना	PRP	PRP	_	21	r6	_	_
+20	संयुक्त	संयुक्त	JJ	JJ	_	21	nmod__adj	_	_
+21	योगदान	योगदान	NN	NN	_	22	k2	_	_
+22	दिया.	दिया.	VM	VM	_	0	nmod__k1inv	_	_
+----------------------------------------
+<sentence88>
+1	चंद्रमा	चंद्रमा	NNP	NNP	_	9	k1	_	_
+2	'	'	SYM	SYM	_	5	rsym	_	_
+3	बाह्य	बाह्य	NNPC	NNPC	_	5	pof__cn	_	_
+4	अंतरिक्ष	अंतरिक्ष	NNC	NNC	_	5	pof__cn	_	_
+5	संधि	संधि	NNP	NNP	_	9	k7a	_	_
+6	'	'	SYM	SYM	_	5	rsym	_	_
+7	के	के	PSP	PSP	_	5	lwg__psp	_	_
+8	तहत	तहत	PSP	PSP	_	5	lwg__psp	_	_
+9	रहता	रहता	VM	VM	_	0	main	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux	_	_
+11	जिससे	जिससे	PRP	PRP	_	24	rh	_	_
+12	यह	यह	PRP	PRP	_	24	k1	_	_
+13	शांतिपूर्ण	शांतिपूर्ण	JJ	JJ	_	14	nmod__adj	_	_
+14	उद्देश्यों	उद्देश्यों	NN	NN	_	16	r6	_	_
+15	की	की	PSP	PSP	_	14	lwg__psp	_	_
+16	खोज	खोज	NN	NN	_	24	rt	_	_
+17	के	के	PSP	PSP	_	16	lwg__psp	_	_
+18	लिए	लिए	PSP	PSP	_	16	lwg__psp	_	_
+19	सभी	सभी	QF	QF	_	20	nmod__adj	_	_
+20	राष्ट्रों	राष्ट्रों	NN	NN	_	24	rt	_	_
+21	के	के	PSP	PSP	_	20	lwg__psp	_	_
+22	लिए	लिए	PSP	PSP	_	20	lwg__psp	_	_
+23	मुक्त	मुक्त	JJ	JJ	_	24	k1s	_	_
+24	है	है	VM	VM	_	9	nmod__relc	_	_
+----------------------------------------
+<sentence89>
+1	भारत	भारत	NNP	NNP	_	20	k1	_	_
+2	ने	ने	PSP	PSP	_	1	lwg__psp	_	_
+3	चंद्रयान-2	चंद्रयान-2	NNP	NNP	_	20	k2	_	_
+4	को	को	PSP	PSP	_	3	lwg__psp	_	_
+5	22	22	NNPC	NNPC	_	7	pof__cn	_	_
+6	जुलाई	जुलाई	NNPC	NNPC	_	7	pof__cn	_	_
+7	2019	2019	NNP	NNP	_	20	k7t	_	_
+8	को	को	PSP	PSP	_	7	lwg__psp	_	_
+9	श्रीहरिकोटा	श्रीहरिकोटा	NNP	NNP	_	10	nmod__adj	_	_
+10	रेंज	रेंज	NN	NN	_	20	k3	_	_
+11	से	से	PSP	PSP	_	10	lwg__psp	_	_
+12	भारतीय	भारतीय	JJ	JJ	_	13	nmod__adj	_	_
+13	समयानुसार	समयानुसार	NN	NN	_	20	k7t	_	_
+14	02:43	02:43	NNP	NNP	_	15	nmod__adj	_	_
+15	अपराह्न	अपराह्न	NN	NN	_	20	k7t	_	_
+16	को	को	PSP	PSP	_	15	lwg__psp	_	_
+17	सफलता	सफलता	NN	NN	_	20	k2	_	_
+18	पूर्वक	पूर्वक	JJ	JJ	_	20	adv	_	_
+19	प्रक्षेपित	प्रक्षेपित	JJ	JJ	_	20	pof	_	_
+20	किया	किया	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence90>
+1	त्रिविम	त्रिविम	NNPC	NNPC	_	2	pof__cn	_	_
+2	कैमरा	कैमरा	NN	NN	_	3	jjmod	_	_
+3	आधारित	आधारित	JJ	JJ	_	8	nmod	_	_
+4	3डी	3डी	QO	QO	_	8	nmod__adj	_	_
+5	दृष्टि	दृष्टि	NNC	NNC	_	8	pof__cn	_	_
+6	-	-	SYM	SYM	_	8	rsym	_	_
+7	जमीन	जमीन	NNC	NNC	_	8	pof__cn	_	_
+8	टीम	टीम	NN	NN	_	25	k2	_	_
+9	को	को	PSP	PSP	_	8	lwg__psp	_	_
+10	रोवर	रोवर	NNPC	NNPC	_	11	pof__cn	_	_
+11	नियंत्रित	नियंत्रित	NN	NN	_	25	rt	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	लिए	लिए	PSP	PSP	_	11	lwg__psp	_	_
+14	रोवर	रोवर	NNP	NNP	_	18	nmod	_	_
+15	के	के	PSP	PSP	_	14	lwg__psp	_	_
+16	आसपास	आसपास	NST	NST	_	14	lwg__psp	_	_
+17	के	के	PSP	PSP	_	16	lwg__psp	_	_
+18	इलाके	इलाके	NN	NN	_	22	r6	_	_
+19	की	की	PSP	PSP	_	18	lwg__psp	_	_
+20	एक	एक	QC	QC	_	22	nmod__adj	_	_
+21	3डी	3डी	QO	QO	_	22	nmod__adj	_	_
+22	दृश्य	दृश्य	NN	NN	_	25	k2	_	_
+23	को	को	PSP	PSP	_	22	lwg__psp	_	_
+24	प्रदान	प्रदान	NN	NN	_	25	pof	_	_
+25	करेगा	करेगा	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence91>
+1	दिनांक	दिनांक	NNPC	NNPC	_	4	pof__cn	_	_
+2	07	07	NNPC	NNPC	_	4	pof__cn	_	_
+3	सितंबर	सितंबर	NNPC	NNPC	_	4	pof__cn	_	_
+4	2019	2019	NNP	NNP	_	23	k7t	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	रात्रि	रात्रि	NN	NN	_	8	nmod	_	_
+7	02	02	QC	QC	_	8	nmod__adj	_	_
+8	बजे	बजे	NN	NN	_	23	k7t	_	_
+9	चंद्रमा	चंद्रमा	NNP	NNP	_	11	r6	_	_
+10	के	के	PSP	PSP	_	9	lwg__psp	_	_
+11	धरातल	धरातल	NN	NN	_	14	nmod	_	_
+12	से	से	PSP	PSP	_	11	lwg__psp	_	_
+13	02.1	02.1	QC	QC	_	14	nmod__adj	_	_
+14	किमी	किमी	NN	NN	_	23	k7p	_	_
+15	ऊपर	ऊपर	NST	NST	_	14	lwg__psp	_	_
+16	विक्रम	विक्रम	NNPC	NNPC	_	17	pof__cn	_	_
+17	लेंडर	लेंडर	NNP	NNP	_	23	r6	_	_
+18	का	का	PSP	PSP	_	17	lwg__psp	_	_
+19	इसरो	इसरो	NNP	NNP	_	23	k5	_	_
+20	से	से	PSP	PSP	_	19	lwg__psp	_	_
+21	फिलहाल	फिलहाल	RB	RB	_	23	adv	_	_
+22	सम्पर्क	सम्पर्क	NN	NN	_	23	pof	_	_
+23	टूट	टूट	VM	VM	_	0	main	_	_
+24	गया	गया	VAUX	VAUX	_	23	lwg__vaux	_	_
+25	है	है	VAUX	VAUX	_	24	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence92>
+1	अगर	अगर	CC	CC	_	16	vmod	_	_
+2	थिया	थिया	NNP	NNP	_	6	k1	_	_
+3	एक	एक	QC	QC	_	5	nmod__adj	_	_
+4	अलग	अलग	JJ	JJ	_	5	nmod__adj	_	_
+5	प्रोटॉपलैनेट	प्रोटॉपलैनेट	NN	NN	_	6	k1s	_	_
+6	था,	था,	VM	VM	_	1	ccof	_	_
+7	तो	तो	CC	CC	_	0	main	_	_
+8	शायद	शायद	RB	RB	_	16	adv	_	_
+9	पृथ्वी	पृथ्वी	NN	NN	_	16	k3	_	_
+10	से	से	PSP	PSP	_	9	lwg__psp	_	_
+11	एक	एक	QC	QC	_	14	nmod__adj	_	_
+12	अलग	अलग	JJ	JJ	_	14	nmod__adj	_	_
+13	ऑक्सीजन	ऑक्सीजन	NNC	NNC	_	14	pof__cn	_	_
+14	आइसोटोप	आइसोटोप	NN	NN	_	16	k1	_	_
+15	हस्ताक्षर	हस्ताक्षर	NN	NN	_	16	pof	_	_
+16	होता,	होता,	VM	VM	_	7	ccof	_	_
+17	जैसा	जैसा	PSP	PSP	_	16	lwg__psp	_	_
+18	कि	कि	CC	CC	_	16	k2	_	_
+19	अलग-अलग	अलग-अलग	JJ	JJ	_	21	nmod__adj	_	_
+20	मिश्रित	मिश्रित	JJ	JJ	_	19	mod	_	_
+21	पदार्थ	पदार्थ	NN	NN	_	22	k1	_	_
+22	होता	होता	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence93>
+1	रोसकोसमोस	रोसकोसमोस	NNP	NNP	_	9	k2	_	_
+2	को	को	PSP	PSP	_	1	lwg__psp	_	_
+3	बाद	बाद	NST	NST	_	9	k7t	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	मंगल	मंगल	NNP	NNP	_	6	nmod__adj	_	_
+6	ग्रह	ग्रह	NN	NN	_	9	rt	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	लिए	लिए	PSP	PSP	_	6	lwg__psp	_	_
+9	भेज़े	भेज़े	VM	VM	_	11	nmod__k1inv	_	_
+10	फोबोस-ग्रन्ट	फोबोस-ग्रन्ट	NNC	NNC	_	11	pof__cn	_	_
+11	अभियान	अभियान	NN	NN	_	13	k7	_	_
+12	मे	मे	PSP	PSP	_	11	lwg__psp	_	_
+13	मिली	मिली	VM	VM	_	14	nmod__k1inv	_	_
+14	विफलता	विफलता	NN	NN	_	22	rh	_	_
+15	के	के	PSP	PSP	_	14	lwg__psp	_	_
+16	कारण	कारण	PSP	PSP	_	14	lwg__psp	_	_
+17	चंद्रयान	चंद्रयान	NNPC	NNPC	_	19	pof__cn	_	_
+18	-2	-2	SYM	SYM	_	19	rsym	_	_
+19	कार्यक्रम	कार्यक्रम	NN	NN	_	22	k5	_	_
+20	से	से	PSP	PSP	_	19	lwg__psp	_	_
+21	अलग	अलग	JJ	JJ	_	22	pof	_	_
+22	कर	कर	VM	VM	_	0	main	_	_
+23	दिया	दिया	VAUX	VAUX	_	22	lwg__vaux	_	_
+24	गया	गया	VAUX	VAUX	_	23	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence94>
+1	चंद्रयान-2	चंद्रयान-2	NNP	NNP	_	3	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	रखे	रखे	VM	VM	_	5	nmod__k2inv	_	_
+4	गए	गए	VAUX	VAUX	_	3	lwg__vaux	_	_
+5	पेलोड	पेलोड	NN	NN	_	7	k5	_	_
+6	से	से	PSP	PSP	_	5	lwg__psp	_	_
+7	मिलने	मिलने	VM	VM	_	9	nmod	_	_
+8	वाले	वाले	PSP	PSP	_	7	lwg__psp	_	_
+9	डाटा	डाटा	NN	NN	_	19	k5	_	_
+10	से	से	PSP	PSP	_	9	lwg__psp	_	_
+11	वहां	वहां	PRP	PRP	_	19	k7p	_	_
+12	पानी	पानी	NN	NN	_	13	ccof	_	_
+13	और	और	CC	CC	_	16	r6	_	_
+14	खनिजों	खनिजों	NN	NN	_	13	ccof	_	_
+15	की	की	PSP	PSP	_	14	lwg__psp	_	_
+16	मौजूदगी	मौजूदगी	NN	NN	_	18	r6-k2	_	_
+17	का	का	PSP	PSP	_	16	lwg__psp	_	_
+18	पता	पता	NN	NN	_	19	pof	_	_
+19	चलेगा	चलेगा	VM	VM	_	0	main	_	_
+20	जिससे	जिससे	PRP	PRP	_	24	rh	_	_
+21	वैज्ञानिक	वैज्ञानिक	JJ	JJ	_	22	nmod__adj	_	_
+22	प्रयोग	प्रयोग	NN	NN	_	24	k2	_	_
+23	शुरु	शुरु	NN	NN	_	24	pof	_	_
+24	होंगे.	होंगे.	VM	VM	_	19	nmod__relc	_	_
+----------------------------------------
+<sentence95>
+1	चन्द्रमा	चन्द्रमा	NNP	NNP	_	4	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	तात्कालिक	तात्कालिक	JJ	JJ	_	4	nmod__adj	_	_
+4	कक्षीय	कक्षीय	NN	NN	_	12	k1	_	_
+5	दूरी,	दूरी,	NN	NN	_	12	k1s	_	_
+6	पृथ्वी	पृथ्वी	NNP	NNP	_	8	r6	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	व्यास	व्यास	NN	NN	_	11	r6	_	_
+9	का	का	PSP	PSP	_	8	lwg__psp	_	_
+10	३०	३०	QC	QC	_	11	nmod__adj	_	_
+11	गुना	गुना	NN	NN	_	12	k1	_	_
+12	है	है	VM	VM	_	0	main	_	_
+13	इसीलिए	इसीलिए	PRP	PRP	_	24	rh	_	_
+14	आसमान	आसमान	NN	NN	_	24	k7	_	_
+15	में	में	PSP	PSP	_	14	lwg__psp	_	_
+16	सूर्य	सूर्य	NN	NN	_	17	ccof	_	_
+17	और	और	CC	CC	_	24	k1	_	_
+18	चन्द्रमा	चन्द्रमा	NNP	NNP	_	20	r6	_	_
+19	का	का	PSP	PSP	_	18	lwg__psp	_	_
+20	आकार	आकार	NN	NN	_	17	ccof	_	_
+21	हमेशा	हमेशा	RB	RB	_	24	adv	_	_
+22	सामान	सामान	NN	NN	_	24	k1	_	_
+23	नजर	नजर	NN	NN	_	24	pof	_	_
+24	आता	आता	VM	VM	_	11	nmod__relc	_	_
+25	है	है	VAUX	VAUX	_	24	lwg__vaux	_	_
+----------------------------------------
+<sentence96>
+1	इसरो	इसरो	NNP	NNP	_	0	k1	_	_
+2	ने	ने	PSP	PSP	_	1	lwg__psp	_	_
+3	लैंडिंग	लैंडिंग	NNC	NNC	_	4	pof__cn	_	_
+4	साइट	साइट	NN	NN	_	6	r6-k2	_	_
+5	का	का	PSP	PSP	_	4	lwg__psp	_	_
+6	चयन	चयन	NN	NN	_	7	pof	_	_
+7	करने	करने	VM	VM	_	28	rt	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	लिए	लिए	PSP	PSP	_	7	lwg__psp	_	_
+10	और	और	CC	CC	_	28	rt	_	_
+11	लैंडर	लैंडर	NNP	NNP	_	13	r6	_	_
+12	के	के	PSP	PSP	_	11	lwg__psp	_	_
+13	सेंसर	सेंसर	NN	NN	_	15	r6	_	_
+14	की	की	PSP	PSP	_	13	lwg__psp	_	_
+15	क्षमता	क्षमता	NN	NN	_	17	r6-k2	_	_
+16	का	का	PSP	PSP	_	15	lwg__psp	_	_
+17	आकलन	आकलन	NN	NN	_	18	pof	_	_
+18	करने	करने	VM	VM	_	10	ccof	_	_
+19	में	में	PSP	PSP	_	18	lwg__psp	_	_
+20	सहायता	सहायता	NN	NN	_	28	rt	_	_
+21	के	के	PSP	PSP	_	20	lwg__psp	_	_
+22	लिए	लिए	PSP	PSP	_	20	lwg__psp	_	_
+23	चुनलेरे	चुनलेरे	NNP	NNP	_	28	k7	_	_
+24	में	में	PSP	PSP	_	23	lwg__psp	_	_
+25	करीब	करीब	RP	RP	_	26	lwg__rp	_	_
+26	10	10	QC	QC	_	27	nmod__adj	_	_
+27	क्रेटर	क्रेटर	NN	NN	_	28	k2	_	_
+28	बनाए	बनाए	VM	VM	_	0	main	_	_
+----------------------------------------
+<sentence97>
+1	सोवियत	सोवियत	NNPC	NNPC	_	2	pof__cn	_	_
+2	राष्ट्	राष्ट्	NNP	NNP	_	7	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	लूना-१	लूना-१	QO	QO	_	7	nmod__adj	_	_
+5	पहला	पहला	QO	QO	_	7	nmod__adj	_	_
+6	अन्तरिक्ष	अन्तरिक्ष	NNC	NNC	_	7	pof__cn	_	_
+7	यान	यान	NN	NN	_	8	k1	_	_
+8	था	था	VM	VM	_	16	ccof	_	_
+9	जो	जो	PRP	PRP	_	14	k1	_	_
+10	चन्द्रमा	चन्द्रमा	NNP	NNP	_	14	k7p	_	_
+11	के	के	PSP	PSP	_	10	lwg__psp	_	_
+12	पास	पास	NST	NST	_	10	lwg__psp	_	_
+13	से	से	PSP	PSP	_	12	lwg__psp	_	_
+14	गुजरा	गुजरा	VM	VM	_	7	nmod__relc	_	_
+15	था	था	VAUX	VAUX	_	14	lwg__vaux	_	_
+16	लेकिन	लेकिन	CC	CC	_	0	main	_	_
+17	लूना-२	लूना-२	NNP	NNP	_	20	k1	_	_
+18	पहला	पहला	QO	QO	_	19	nmod__adj	_	_
+19	यान	यान	NN	NN	_	20	k1s	_	_
+20	था	था	VM	VM	_	16	ccof	_	_
+21	जो	जो	PRP	PRP	_	26	k1	_	_
+22	चन्द्रमा	चन्द्रमा	NNP	NNP	_	24	r6	_	_
+23	की	की	PSP	PSP	_	22	lwg__psp	_	_
+24	धरती	धरती	NN	NN	_	26	k7p	_	_
+25	पर	पर	PSP	PSP	_	24	lwg__psp	_	_
+26	उतरा	उतरा	VM	VM	_	16	nmod__relc	_	_
+27	था	था	VAUX	VAUX	_	26	lwg__vaux	_	_
+----------------------------------------
+<sentence98>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	अभियान	अभियान	NN	NN	_	21	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	श्रीहरिकोटा	श्रीहरिकोटा	NNP	NNP	_	5	nmod__adj	_	_
+5	द्वीप	द्वीप	NN	NN	_	8	r6	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	सतीश	सतीश	NNPC	NNPC	_	8	pof__cn	_	_
+8	धवन	धवन	NNP	NNP	_	21	k1	_	_
+9	अंतरिक्ष	अंतरिक्ष	NNC	NNC	_	10	pof__cn	_	_
+10	केंद्र	केंद्र	NNP	NNP	_	21	k5	_	_
+11	से	से	PSP	PSP	_	10	lwg__psp	_	_
+12	भूस्थिर	भूस्थिर	NNPC	NNPC	_	16	pof__cn	_	_
+13	उपग्रह	उपग्रह	NNC	NNC	_	16	pof__cn	_	_
+14	प्रक्षेपण	प्रक्षेपण	NNC	NNC	_	16	pof__cn	_	_
+15	यान	यान	NNPC	NNPC	_	16	pof__cn	_	_
+16	संस्करण	संस्करण	NN	NN	_	21	k2	_	_
+17	3	3	QC	QC	_	21	k3	_	_
+18	(GSLV	(GSLV	SYM	SYM	_	17	rsym	_	_
+19	Mk-III)	Mk-III)	SYM	SYM	_	17	rsym	_	_
+20	द्वारा	द्वारा	PSP	PSP	_	17	lwg__psp	_	_
+21	भेजा	भेजा	VM	VM	_	0	main	_	_
+22	गया	गया	VAUX	VAUX	_	21	lwg__vaux	_	_
+23	था	था	VAUX	VAUX	_	22	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence99>
+1	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	0	k1	_	_
+2	100	100	QC	QC	_	3	nmod__adj	_	_
+3	किलोमीटर	किलोमीटर	NN	NN	_	5	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	ऊंचाई	ऊंचाई	NN	NN	_	10	k7p	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	चन्द्रमा	चन्द्रमा	NNP	NNP	_	9	r6-k2	_	_
+8	की	की	PSP	PSP	_	7	lwg__psp	_	_
+9	परिक्रमा	परिक्रमा	NN	NN	_	10	k2	_	_
+10	करेगा.	करेगा.	VM	VM	_	0	vmod	_	_
+11	इस	इस	DEM	DEM	_	12	nmod__adj	_	_
+12	अभियान	अभियान	NN	NN	_	24	k7	_	_
+13	में	में	PSP	PSP	_	12	lwg__psp	_	_
+14	ऑर्बिटर	ऑर्बिटर	NNP	NNP	_	20	k4	_	_
+15	को	को	PSP	PSP	_	14	lwg__psp	_	_
+16	पांच	पांच	QC	QC	_	17	nmod__adj	_	_
+17	पेलोड	पेलोड	NN	NN	_	20	ras-k2	_	_
+18	के	के	PSP	PSP	_	17	lwg__psp	_	_
+19	साथ	साथ	NST	NST	_	17	lwg__psp	_	_
+20	भेजे	भेजे	VM	VM	_	23	r6-k2	_	_
+21	जाने	जाने	VAUX	VAUX	_	20	lwg__vaux	_	_
+22	का	का	PSP	PSP	_	20	lwg__psp	_	_
+23	निर्णय	निर्णय	NN	NN	_	24	k2	_	_
+24	लिया	लिया	VM	VM	_	0	main	_	_
+25	गया	गया	VAUX	VAUX	_	24	lwg__vaux	_	_
+26	है	है	VAUX	VAUX	_	25	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence100>
+1	लॉन्च	लॉन्च	NN	NN	_	3	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	समय,	समय,	NN	NN	_	0	k1	_	_
+4	चंद्रयान	चंद्रयान	NNPC	NNPC	_	7	pof__cn	_	_
+5	2	2	QC	QC	_	7	nmod__adj	_	_
+6	ऑर्बिटर	ऑर्बिटर	NNPC	NNPC	_	7	pof__cn	_	_
+7	बयालू	बयालू	NNP	NNP	_	24	vmod	_	_
+8	के	के	PSP	PSP	_	7	lwg__psp	_	_
+9	साथ-साथ	साथ-साथ	PSP	PSP	_	7	lwg__psp	_	_
+10	विक्रम	विक्रम	NNPC	NNPC	_	11	pof__cn	_	_
+11	लैंडर	लैंडर	NNP	NNP	_	24	k7	_	_
+12	में	में	PSP	PSP	_	11	lwg__psp	_	_
+13	भारतीय	भारतीय	NNPC	NNPC	_	16	pof__cn	_	_
+14	डीप	डीप	NNPC	NNPC	_	16	pof__cn	_	_
+15	स्पेस	स्पेस	NNPC	NNPC	_	16	pof__cn	_	_
+16	नेटवर्क	नेटवर्क	NNP	NNP	_	24	ras-k1	_	_
+17	(आईडीएसएन)	(आईडीएसएन)	SYM	SYM	_	16	rsym	_	_
+18	के	के	PSP	PSP	_	16	lwg__psp	_	_
+19	साथ	साथ	NST	NST	_	16	lwg__psp	_	_
+20	संचार	संचार	NN	NN	_	21	pof	_	_
+21	करने	करने	VM	VM	_	24	k7	_	_
+22	में	में	PSP	PSP	_	21	lwg__psp	_	_
+23	सक्षम	सक्षम	JJ	JJ	_	24	pof	_	_
+24	होगा	होगा	VM	VM	_	0	main	_	_
+----------------------------------------
