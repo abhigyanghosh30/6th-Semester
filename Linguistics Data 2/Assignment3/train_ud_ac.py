@@ -1,10 +1,10 @@
 import json
 from collections import defaultdict
 
-f_ac = open('abhigyan_ac.json','r')
+f_ac = open('train_ac.json','r')
 data_ac = json.load(f_ac)
 
-f_ud = open('UD.json','r')
+f_ud = open('test_ud.json','r')
 data_ud = json.load(f_ud)
 
 f_table = open('table.json','r')
@@ -52,6 +52,6 @@ for key in converted:
         converted[key]['tags'][i] = get_best_ac(converted[key]['tags'][i],converted[key]['tags'][i-1])
 
 print(converted)
-output = open('abhigyan_converted_ud.json','w')
+output = open('converted_ud.json','w')
 json.dump(converted,output)
 output.close()
