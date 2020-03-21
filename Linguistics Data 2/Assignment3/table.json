@@ -20,5 +20,7 @@
 "auxpass":["lwg__vaux"],
 "nsubj":["k1", "k4a", "pk1"],
 "nsubjpass":["k1"],
-"advcl":["rh", "rt", "rtu", "sent-adv", "vmod"]
+"advcl":["rh", "rt", "rtu", "sent-adv", "vmod"],
+"nummod":["nmod"],
+"obj":["k4"]
 }
