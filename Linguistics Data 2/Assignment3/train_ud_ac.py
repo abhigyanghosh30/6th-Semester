@@ -52,6 +52,6 @@ for key in converted:
         converted[key]['tags'][i] = get_best_ac(converted[key]['tags'][i],converted[key]['tags'][i-1])
 
 print(converted)
-output = open('converted_ud.json','w')
+output = open('converted_ac.json','w')
 json.dump(converted,output)
 output.close()
