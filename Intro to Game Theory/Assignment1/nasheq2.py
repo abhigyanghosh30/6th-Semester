@@ -47,7 +47,14 @@ if __name__ == "__main__":
 	game = gambit.Game.read_game(sys.argv[1])
 	generate_best_responses(game)
 	nash_eqb = find_nash_eqb(game)
-	print(len(nash_eqb))
-	print(nash_eqb)
+	f = open(sys.argv[2],'w')
+	f.write(str(len(nash_eqb)))
+	f.write('\n')
+	neq = nash_eqb
+	for eqb in neq:
+		eqb = [str(i) for i in eqb]
+		f.write(" ".join(eqb))
+		f.write('\n')
+	f.close()
 
 
