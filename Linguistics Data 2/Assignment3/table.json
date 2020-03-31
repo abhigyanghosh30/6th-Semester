@@ -1,26 +1,139 @@
 {
-"acl":["nmod__k1inv","nmod__k2inv","nmod__relc", "rs", "k2g", "k2s","rbmod__relc"], 
-"neg":["nmod__neg","lwg__neg"],
-"dislocated":["fragof"],
-"iobj":["k4"],
-"nmod":["k2u", "jk1", "k1u", "k3","k3u", "k2p", "k4u", "k5","k7", "k7a", "k7p", "k7pu","k7t", "k7tu", "k7u", "r6","r6-k1", "r6-k2", "r6v", "ras-k1","ras-k1u", "ras-k2", "ras-k4","ras-k4a", "ras-k7", "ras-k7p","ras-neg", "ras-pof", "ras-r6","ras-r6-k2", "ras-rt", "nmod__emph"],
-"punct":["rsym"],
-"vocative":["rad"],
-"advmod":["rd", "rsp", "lwg__intf","vmod__adv", "jjmod__intf","jjmod", "adv", "rbmod"],
-"dep":["lwg__rp", "lwg__unk", "undef", "enm"],
-"compound":["pof__cn", "pof__redup", "lwg__rdp","lwg__vm","nmod__pofinv","pof", "pof__inv"],
-"case":["lwg__psp", "lwg__nst", "psp__cl"],
-"det":["mod__wq"],
-"dobj":["k2", "k1s", "mk1"],
-"amod":["nmod__adj", "nmod"],
-"parataxis":["vmod"],
-"ccomp":["k2"],
-"xcomp":["k2"],
-"aux":["lwg__vaux"],
-"auxpass":["lwg__vaux"],
-"nsubj":["k1", "k4a", "pk1"],
-"nsubjpass":["k1"],
-"advcl":["rh", "rt", "rtu", "sent-adv", "vmod"],
-"nummod":["nmod"],
-"obj":["k4"]
+    "acl": [
+        "nmod__k1inv",
+        "nmod__k2inv",
+        "nmod__relc",
+        "rs",
+        "k2g",
+        "k2s",
+        "rbmod__relc"
+    ],
+    "neg": [
+        "nmod__neg",
+        "lwg__neg"
+    ],
+    "dislocated": [
+        "fragof"
+    ],
+    "iobj": [
+        "k4"
+    ],
+    "nmod": [
+        "k2u",
+        "jk1",
+        "k1u",
+        "k3",
+        "k3u",
+        "k2p",
+        "k4u",
+        "k5",
+        "k7",
+        "k7a",
+        "k7p",
+        "k7pu",
+        "k7t",
+        "k7tu",
+        "k7u",
+        "r6",
+        "r6-k1",
+        "r6-k2",
+        "r6v",
+        "ras-k1",
+        "ras-k1u",
+        "ras-k2",
+        "ras-k4",
+        "ras-k4a",
+        "ras-k7",
+        "ras-k7p",
+        "ras-neg",
+        "ras-pof",
+        "ras-r6",
+        "ras-r6-k2",
+        "ras-rt",
+        "nmod__emph"
+    ],
+    "punct": [
+        "rsym"
+    ],
+    "vocative": [
+        "rad"
+    ],
+    "advmod": [
+        "rd",
+        "rsp",
+        "lwg__intf",
+        "vmod__adv",
+        "jjmod__intf",
+        "jjmod",
+        "adv",
+        "rbmod"
+    ],
+    "dep": [
+        "lwg__rp",
+        "lwg__unk",
+        "undef",
+        "enm"
+    ],
+    "compound": [
+        "pof__cn",
+        "pof__redup",
+        "lwg__rdp",
+        "lwg__vm",
+        "nmod__pofinv",
+        "pof",
+        "pof__inv"
+    ],
+    "case": [
+        "lwg__psp",
+        "lwg__nst",
+        "psp__cl"
+    ],
+    "det": [
+        "mod__wq"
+    ],
+    "dobj": [
+        "k2",
+        "k1s",
+        "mk1"
+    ],
+    "amod": [
+        "nmod__adj",
+        "nmod"
+    ],
+    "parataxis": [
+        "vmod"
+    ],
+    "ccomp": [
+        "k2"
+    ],
+    "xcomp": [
+        "k2"
+    ],
+    "aux": [
+        "lwg__vaux"
+    ],
+    "auxpass": [
+        "lwg__vaux"
+    ],
+    "nsubj": [
+        "k1",
+        "k4a",
+        "pk1"
+    ],
+    "nsubjpass": [
+        "k1"
+    ],
+    "advcl": [
+        "rh",
+        "rt",
+        "rtu",
+        "sent-adv",
+        "vmod"
+    ],
+    "nummod": [
+        "nmod"
+    ],
+    "obj": [
+        "k4"
+    ]
 }

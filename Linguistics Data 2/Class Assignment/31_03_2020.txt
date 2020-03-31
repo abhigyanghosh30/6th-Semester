@@ -1,0 +1,57 @@
+ताजा साँसें और चमचमाते दाँत आपके व्यक्तित्व को निखारते हैं ।
+
+0           AnnCorra    UD
+1   ताजा      nmod_adj:2  amod:2
+2   साँसें      ccof:3      nsubj:9
+3   और      k1:9        cc:2
+4   चमचमाते   nmod_adj:5  amod:5
+5   दाँत      ccof:3      conj:2
+6   आपके     r6:7        nmod:7
+7   व्यक्तित्व    k2:9        dobj:9
+8   को       lwg_psp:7   case:7
+9   निखारते    main:0      root:0
+10  हैं       lwg_vaux:9   aux:9
+11  ।       rsym:9       punct:9
+
+दाँतों से आपका आत्मविश्‍वास भी बढ़ता है ।
+
+0           AnnCorra    UD
+1	दाँतों      rh:6        obl:6
+2	से       lwg_psp:1   case:1
+3	आपका     r6:4        nmod:4
+4	आत्मविश्‍वास k1:6        nsubj:6
+5	भी       lwg_rp:4    advmod:6
+6	बढ़ता     main:0      root
+7	है       lwg_vaux:6  vaux:6
+8	।       rsym:6      punct:6
+
+हमारे मसूढ्ऽओं और दाँतों के बीच बैक्टीरिया मौजूद होते हैं ।
+
+0           AnnCorra    UD
+1   हमारे     r6:2            nmod:poss-2
+2   मसूढ्ऽओं   ccof:3          obl:9
+3   और      k7:9            cc:4
+4   दाँतों      ccof:3          conj:2
+5   के       lwg_psp:4       case:2
+6   बीच      lwg_psp:4       case:2
+7   बैक्टीरिया   k1:9            nsubj:8
+8   मौजूद     pof:9           root
+9   होते      main:0          vaux:9
+10  हैं       lwg_vaux:9     vaux:9
+11  ।       rsym:9          punct:9
+
+ये दाँतों को गंदा और साँसों को बदबूदार बना देते हैं ।
+
+0           AnnCorra    UD
+1   ये       nmod__adj:2     nsubj:9
+2   दाँतों      k2:9            obj:9
+3   को       lwg_psp:2      case:2
+4   गंदा      ccof:5          obj:9
+5   और      k1:9            cc:6
+6   साँसों      ccof:5          conj:4
+7   को       lwg_psp:6      case:4
+8   बदबूदार   pof:9           acl:9
+9   बना      main:0          root:0
+10  देते      lwg_vaux:9     aux:9
+11  हैं       lwg_vaux_cont:10   aux-pass:10
+12  ।       rsym:9          punct:9

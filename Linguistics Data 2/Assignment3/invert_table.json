@@ -1,0 +1,255 @@
+{
+    "nmod__k1inv": [
+        "acl"
+    ],
+    "nmod__k2inv": [
+        "acl"
+    ],
+    "nmod__relc": [
+        "acl"
+    ],
+    "rs": [
+        "acl"
+    ],
+    "k2g": [
+        "acl"
+    ],
+    "k2s": [
+        "acl"
+    ],
+    "rbmod__relc": [
+        "acl"
+    ],
+    "nmod__neg": [
+        "neg"
+    ],
+    "lwg__neg": [
+        "neg"
+    ],
+    "fragof": [
+        "dislocated"
+    ],
+    "k4": [
+        "iobj",
+        "obj"
+    ],
+    "k2u": [
+        "nmod"
+    ],
+    "jk1": [
+        "nmod"
+    ],
+    "k1u": [
+        "nmod"
+    ],
+    "k3": [
+        "nmod"
+    ],
+    "k3u": [
+        "nmod"
+    ],
+    "k2p": [
+        "nmod"
+    ],
+    "k4u": [
+        "nmod"
+    ],
+    "k5": [
+        "nmod"
+    ],
+    "k7": [
+        "nmod"
+    ],
+    "k7a": [
+        "nmod"
+    ],
+    "k7p": [
+        "nmod"
+    ],
+    "k7pu": [
+        "nmod"
+    ],
+    "k7t": [
+        "nmod"
+    ],
+    "k7tu": [
+        "nmod"
+    ],
+    "k7u": [
+        "nmod"
+    ],
+    "r6": [
+        "nmod"
+    ],
+    "r6-k1": [
+        "nmod"
+    ],
+    "r6-k2": [
+        "nmod"
+    ],
+    "r6v": [
+        "nmod"
+    ],
+    "ras-k1": [
+        "nmod"
+    ],
+    "ras-k1u": [
+        "nmod"
+    ],
+    "ras-k2": [
+        "nmod"
+    ],
+    "ras-k4": [
+        "nmod"
+    ],
+    "ras-k4a": [
+        "nmod"
+    ],
+    "ras-k7": [
+        "nmod"
+    ],
+    "ras-k7p": [
+        "nmod"
+    ],
+    "ras-neg": [
+        "nmod"
+    ],
+    "ras-pof": [
+        "nmod"
+    ],
+    "ras-r6": [
+        "nmod"
+    ],
+    "ras-r6-k2": [
+        "nmod"
+    ],
+    "ras-rt": [
+        "nmod"
+    ],
+    "nmod__emph": [
+        "nmod"
+    ],
+    "rsym": [
+        "punct"
+    ],
+    "rad": [
+        "vocative"
+    ],
+    "rd": [
+        "advmod"
+    ],
+    "rsp": [
+        "advmod"
+    ],
+    "lwg__intf": [
+        "advmod"
+    ],
+    "vmod__adv": [
+        "advmod"
+    ],
+    "jjmod__intf": [
+        "advmod"
+    ],
+    "jjmod": [
+        "advmod"
+    ],
+    "adv": [
+        "advmod"
+    ],
+    "rbmod": [
+        "advmod"
+    ],
+    "lwg__rp": [
+        "dep"
+    ],
+    "lwg__unk": [
+        "dep"
+    ],
+    "undef": [
+        "dep"
+    ],
+    "enm": [
+        "dep"
+    ],
+    "pof__cn": [
+        "compound"
+    ],
+    "pof__redup": [
+        "compound"
+    ],
+    "lwg__rdp": [
+        "compound"
+    ],
+    "lwg__vm": [
+        "compound"
+    ],
+    "nmod__pofinv": [
+        "compound"
+    ],
+    "pof": [
+        "compound"
+    ],
+    "pof__inv": [
+        "compound"
+    ],
+    "lwg__psp": [
+        "case"
+    ],
+    "lwg__nst": [
+        "case"
+    ],
+    "psp__cl": [
+        "case"
+    ],
+    "mod__wq": [
+        "det"
+    ],
+    "k2": [
+        "dobj",
+        "ccomp",
+        "xcomp"
+    ],
+    "k1s": [
+        "dobj"
+    ],
+    "mk1": [
+        "dobj"
+    ],
+    "nmod__adj": [
+        "amod"
+    ],
+    "nmod": [
+        "amod",
+        "nummod"
+    ],
+    "vmod": [
+        "parataxis",
+        "advcl"
+    ],
+    "lwg__vaux": [
+        "aux",
+        "auxpass"
+    ],
+    "k1": [
+        "nsubj",
+        "nsubjpass"
+    ],
+    "k4a": [
+        "nsubj"
+    ],
+    "pk1": [
+        "nsubj"
+    ],
+    "rh": [
+        "advcl"
+    ],
+    "rt": [
+        "advcl"
+    ],
+    "rtu": [
+        "advcl"
+    ],
+    "sent-adv": [
+        "advcl"
+    ]
+}
