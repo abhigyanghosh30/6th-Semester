@@ -1,6 +1,8 @@
 import json
-original = json.load(open('test_ac.json','r'))
-converted = json.load(open('converted_ac.json','r'))
+import sys
+
+original = json.load(open(sys.argv[1],'r'))
+converted = json.load(open(sys.argv[2],'r'))
 
 errors = 0
 total = 0 
