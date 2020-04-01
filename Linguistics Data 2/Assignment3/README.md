@@ -6,6 +6,7 @@
 
 #### Data Files
 - `data.txt` - contains the data for testing in raw
+- `data_modi.txt` - contains the second data for training in raw 
 - `modi.txt` - AnnCorra annotated corpus for training the parser on AnnCorra 
 - `abhigyan.txt` -  AnnCorra annotated corpus for testing the conversion
 
@@ -29,13 +30,17 @@ Step 5 is for evalutation of conversion
 > `python jsonify_ac.py modi.txt train_ac.json` converts training AnnCorra corpus to json
 
 #### Step 2.5 
-> If the UD annotation of testing corpus is not available, make it available. In my case, I have used a state-of-the-art UD parser to compare the results. As such I have used `ud_depparse.py` to convert the data directly to `test_ud.json` without doing step 3.
+> If the UD annotation of testing corpus is not available, make it available. In my case, I have used a state-of-the-art UD parser to compare the results. As such I have used `ud_depparse.py` to convert the data directly to `test_ud.json` without doing step 3. Do same with `data_modi.txt`
 
 #### Step 3
 > `python jsonify_ud.py abhigyan_ud.txt test_ud.json` converts testing UD corpus to json.
+> `python jsonify_ud.py abhigyan_ud.txt test_ud.json` converts testing AnnCorra corpus to json.
 
 #### Step 4 (Running)
 `python train_ud_ac.py` converts UD to AnnCorra finally
+`python train_ac_ud.py` converts AnnCorra to UD finally
+
 
 #### Step 5 (Evaluation)
-`python evaluate.py` gives the accuracy of conversion. In the dataset chosen by me, out of 475 conversions, there were 68 inaccurate allocations and 10 sentences were not properly annotated by the UD tagger used.
+`python evaluate.py test_ac.json converted_ac.json` gives the accuracy of conversion. In the dataset chosen by me, out of 475 conversions, there were 68 inaccurate allocations and 10 sentences were not properly annotated by the UD tagger used.
+`python evaluate.py converted_ud.json test_ud.json` gives the accuracy of conversion. In the dataset chosen by me, out of 405 conversions, there were 68 inaccurate allocations and 10 sentences were not properly annotated by the UD tagger used.
