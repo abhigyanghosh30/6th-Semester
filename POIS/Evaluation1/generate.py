@@ -40,16 +40,15 @@ def isPrime( n, k):
 
 def generate(n):
     k = math.floor(math.sqrt(n/2))
-    q = random.getrandbits(n)
-    if isPrime(q,k):
-        p = 2*q+1
-        if isPrime(p,k):
-            g = random.randint(1,p-1)
-            if pow(g,q,p) != 1 and pow(g,2,p) != 1 :
-                return g,p
-            else:
-                return generate(n)
-        else:
-            return generate(n)
-    else:
-        return generate(n)
+    q = 100 # something that is not a prime
+    p = 100 # something that is not a prime
+    g = 101
+    while not (pow(g,q,p) != 1 and pow(g,2,p) != 1) :
+        while not isPrime(p,k):
+            q = 100
+            while not isPrime(q,k):
+                q = random.getrandbits(n)
+            p = 2*q+1
+        g = random.randint(1,p-1)
+    return g,p
+                    
