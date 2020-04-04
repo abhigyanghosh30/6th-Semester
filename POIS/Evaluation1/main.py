@@ -11,4 +11,4 @@ print("Private Key =",x)
 y = pow(g,x,p) #public key
 print("Public Key =",y)
 m, z, c, t = sign(x,n,g,p) 
-print(verify(m,z,c,t,n,g,p,y)) # not x
+print(verify("messahe",z,c,t,n,g,p,y)) # not x
