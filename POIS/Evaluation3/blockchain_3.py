@@ -10,6 +10,7 @@ class Blockchain3:
         self.last_node = 0
 
     def push(self, data, x):
+        print("Push", data)
         address = self.last_node+1
         node_hash = hash(self.get_last_data(), self.g, self.p, self.n)
         node_sign = sign(x, data, self.n, self.g, self.p)
