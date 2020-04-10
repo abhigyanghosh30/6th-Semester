@@ -34,5 +34,6 @@ print()
 print("List 3:")
 blockchain3.push(100, x_1)
 blockchain3.push(200, x_2)
+blockchain3.push(300, x_1)
 blockchain3.print_stack()
 
