@@ -1,0 +1,1773 @@
+<start> --> sos
+जयपुर --> k1
+राज्य --> r6
+की --> lwg__psp
+राजधानी --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+तब --> r6
+इसकी --> k2u
+राजधानी --> k1
+नागपुर --> lwg__psp
+में --> lwg__psp
+थी --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+यह --> k1
+बाड़मेर --> r6
+जिले --> lwg__psp
+मे --> lwg__psp
+आया --> lwg__psp
+हुआ --> lwg__vaux
+है --> eos
+<end> --> 
+
+
+<start> --> sos
+मालवा --> r6
+महाकवि --> k2u
+कालिदास --> k2u
+की --> lwg__psp
+धरती --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+तब --> r6
+यह --> k1
+३-४ --> nmod
+हिस्सों --> lwg__psp
+में --> lwg__psp
+बटा --> pof
+हुआ --> main
+था --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+यहाँ --> r6
+कोई --> k2u
+एक --> nmod
+लोक --> pof__cn
+संस्कृति --> pof__cn
+नहीं --> jjmod
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राजस्थान --> r6
+की --> lwg__psp
+आकृति --> k1
+लगभग --> lwg__rp
+पतंगाकार --> nmod__adj
+है --> r6
+<end> --> lwg__psp
+
+
+<start> --> sos
+बाद --> r6
+में --> lwg__psp
+इसे --> k4
+निमाड़ --> k2u
+की --> lwg__psp
+संज्ञा --> k4
+दी --> lwg__psp
+गयी --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+मध्यप्रदेश --> r6
+की --> lwg__psp
+संस्कृति --> k1
+विविधवर्णी --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राज्य --> r6
+में --> lwg__psp
+कृषिप्रधान --> nmod__adj
+अर्थव्यवस्था --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+मध्य --> pof__cn
+प्रदेश --> r6
+में --> lwg__psp
+विधान --> pof
+सभा --> r6
+की --> lwg__psp
+230 --> nmod
+सीट --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+जनसंख्या --> pof__cn
+घनत्व --> k1
+प्रति --> lwg__rp
+वर्ग --> k1
+कि॰मी॰ --> r6
+126 --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+मध्य --> pof__cn
+प्रदेश --> r6
+में --> lwg__psp
+उपोष्णकटिबंधीय --> nmod__adj
+जलवायु --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राजस्थान --> k1
+भारत --> r6
+का --> lwg__psp
+एक --> nmod
+महत्वपूर्ण --> nmod__adj
+प्रांत --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+इसके --> r6
+पर्यटन --> pof__cn
+उद्योग --> pof__cn
+में --> lwg__psp
+काफी --> mod__wq
+वृद्धि --> pof__cn
+हुई --> pof__cn
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+यहाँ --> r6
+के --> lwg__psp
+लोगों --> k1
+ने --> lwg__psp
+कभी --> lwg__psp
+भी --> lwg__rp
+अकाल --> k4
+को --> lwg__psp
+नहीं --> jjmod__intf
+देखा --> nmod__adj
+<end> --> r6
+
+
+<start> --> sos
+निमाड़ --> k1
+मध्यप्रदेश --> r6
+के --> lwg__psp
+पश्चिमी --> nmod__adj
+अंचल --> r6
+में --> lwg__psp
+स्थित --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+यहाँ --> r6
+की --> lwg__psp
+धरती --> k1
+हरी-भरी --> k1
+, --> rsym
+धन-धान्य --> lwg__psp
+से --> lwg__psp
+भरपूर --> k2
+रही --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+जबलपुर --> r6
+संभाग --> k2u
+का --> lwg__psp
+संपूर्ण --> nmod__adj
+हिस्सा --> k1
+महाकोशल --> lwg__psp
+कहलाता --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+वाल्मीकि --> k1
+ने --> lwg__psp
+राजस्थान --> pof
+प्रदेश --> k4
+को --> lwg__psp
+मरुकान्तार --> nmod__k1inv
+कहा --> lwg__vaux
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+अपने --> r6
+क्षेत्र --> k2u
+की --> lwg__psp
+30 --> lwg__psp
+% --> jjmod__intf
+से --> lwg__psp
+अधिक --> nmod__adj
+वन --> pof__cn
+क्षेत्र --> pof__cn
+के --> lwg__psp
+अधीन --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राजस्थान --> r6
+का --> lwg__psp
+पूर्वी --> nmod__adj
+सम्भाग --> k1
+शुरु --> lwg__psp
+से --> lwg__psp
+ही --> lwg__rp
+उपजाऊ --> k2
+रहा --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+यह --> mod__wq
+सम्भाग --> k1
+अभी --> lwg__psp
+तक --> lwg__psp
+औद्योगिक --> nmod__adj
+दृष्टि --> adv
+से --> lwg__psp
+पिछड़ा --> lwg__psp
+हुआ --> lwg__vaux
+है --> eos
+<end> --> 
+
+
+<start> --> sos
+यह --> mod__wq
+भू-भाग --> k1
+रामायणकाल --> r6
+में --> lwg__psp
+कोसल --> r6
+प्रान्त --> k2u
+के --> lwg__psp
+अन्तर्गत --> lwg__psp
+था --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+नर्मदा --> r6
+नदी --> k1
+मध्य --> pof
+प्रदेश --> r6
+की --> lwg__psp
+सबसे --> jjmod__intf
+प्रमुख --> nmod__adj
+और --> r6
+लंबी --> lwg__psp
+नदी --> lwg__psp
+हैं --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राज्य --> r6
+में --> lwg__psp
+भारत --> r6
+का --> lwg__psp
+हीरे --> r6
+और --> lwg__psp
+तांबे --> r6
+का --> lwg__psp
+सबसे --> jjmod__intf
+बड़ा --> nmod__adj
+भंडार --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+भरतपुर --> k1
+भारत --> r6
+के --> lwg__psp
+पर्यटन --> pof
+मानचित्र --> main
+में --> lwg__psp
+अपना --> r6
+महत्व --> k4
+रखता --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+इस --> mod__wq
+क्षेत्र --> k2u
+का --> lwg__psp
+सांस्कृतिक-आर्थिक --> nmod__adj
+केंद्र --> k1
+ग्वालियर --> r6
+शहर --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+प्राचीन --> nmod__adj
+समय --> r6
+में --> lwg__psp
+राजस्थान --> r6
+में --> lwg__psp
+आदिवासी --> nmod__adj
+कबीलों --> r6
+का --> lwg__psp
+शासन --> lwg__psp
+था --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+मध्य --> pof__cn
+प्रदेश --> r6
+की --> lwg__psp
+सीमाऐं --> k1
+पांच --> nmod
+राज्यों --> r6
+की --> lwg__psp
+सीमाओं --> lwg__psp
+से --> lwg__psp
+मिलती --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+मध्य --> pof__cn
+प्रदेश --> pof__cn
+में --> lwg__psp
+बस --> k1
+और --> lwg__psp
+ट्रेन --> pof
+सेवाएं --> main
+चारो --> eos
+तरफ --> lwg__psp
+फैली --> lwg__psp
+हुई --> lwg__vaux
+हैं --> eos
+<end> --> 
+
+
+<start> --> sos
+इसमें --> r6
+मिल --> lwg__psp
+में --> lwg__psp
+शक्कर --> k4
+बनाने --> k2u
+का --> 
+कार्य --> k1
+1946 --> lwg__psp
+में --> lwg__psp
+प्रारम्भ --> pof
+हुआ --> main
+<end> --> eos
+
+
+<start> --> sos
+मध्यप्रदेश --> k1
+विभिन्न --> nmod__adj
+लोक --> r6
+और --> lwg__psp
+जनजातीय --> nmod__adj
+संस्कृतियों --> r6
+का --> lwg__psp
+समागम --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+फिर --> adv
+इसे --> k4
+पूर्वी --> nmod__adj
+और --> r6
+पश्चिमी --> lwg__psp
+निमाड़ --> lwg__psp
+के --> lwg__psp
+रूप --> lwg__psp
+में --> lwg__psp
+जाना --> lwg__psp
+जाने --> lwg__vaux
+लगा --> eos
+<end> --> 
+
+
+<start> --> sos
+मध्यप्रदेश --> r6
+मुख्य --> nmod__adj
+रूप --> adv
+से --> lwg__psp
+अपने --> r6
+पर्यटन --> lwg__psp
+के --> lwg__psp
+लिए --> lwg__psp
+भी --> lwg__rp
+जाना --> nmod__adj
+जाता --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+भील --> r6
+और --> lwg__psp
+मीना --> lwg__psp
+जनजाति --> k1
+इस --> mod__wq
+क्षेत्र --> 
+में --> lwg__psp
+रहने --> rt
+के --> lwg__psp
+लिए --> lwg__psp
+सबसे --> nmod__adj
+पहले --> r6
+थे --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+एक --> nmod
+सुंदर --> nmod__adj
+बगीचा --> r6
+, --> rsym
+नेहरू --> pof__cn
+पार्क --> pof__cn
+, --> rsym
+जो --> k1
+भरतपुर --> r6
+संग्रहालय --> lwg__psp
+के --> lwg__psp
+पास --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+मीणा --> k1
+बाहुल्य --> nmod__adj
+इस --> mod__wq
+जिले --> k2u
+का --> lwg__psp
+ऐतिहासिकता --> r6
+के --> lwg__psp
+तौर --> lwg__psp
+पर --> lwg__psp
+काफी --> mod__wq
+महत्व --> 
+है --> 
+<end> --> 
+
+
+<start> --> sos
+वही --> mod__wq
+साँची --> rd
+में --> lwg__psp
+स्थित --> nmod__adj
+साँची --> r6
+का --> lwg__psp
+स्तूप --> lwg__psp
+, --> rsym
+बौध्द --> lwg__psp
+के --> lwg__psp
+लिए --> lwg__psp
+केंद्र --> lwg__psp
+हैं --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+सन् --> pof__cn
+1991 --> r6
+की --> lwg__psp
+जनगणना --> r6
+के --> lwg__psp
+अनुसार --> lwg__psp
+राज्य --> r6
+की --> lwg__psp
+जनसंख्या --> k1
+4.39 --> k1
+करोड़ --> lwg__psp
+थी --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+26 --> pof__cn
+जनवरी --> pof__cn
+, --> rsym
+1950 --> lwg__psp
+को --> lwg__psp
+इस --> mod__wq
+प्रदेश --> k2u
+का --> lwg__psp
+नाम --> k4
+राजस्थान --> lwg__psp
+स्वीकृत --> pof
+किया --> main
+गया --> eos
+<end> --> 
+
+
+<start> --> sos
+मध्य --> pof__cn
+प्रदेश --> r6
+में --> lwg__psp
+अपनी --> r6
+शास्त्रीय --> nmod__adj
+और --> r6
+लोक --> lwg__psp
+संगीत --> r6
+के --> lwg__psp
+लिए --> lwg__psp
+विख्यात --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राज्य --> k1
+ने --> lwg__psp
+वर्ष --> r6
+2010-11 --> lwg__psp
+के --> lwg__psp
+लिये --> lwg__psp
+राष्ट्रीय --> pof
+पर्यटन --> pof__cn
+पुरस्कार --> k4
+जीता --> lwg__psp
+था --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+सन् --> pof__cn
+1976 --> pof__cn
+में --> lwg__psp
+उदयपुर --> lwg__psp
+में --> lwg__psp
+चीनी --> k1
+मिल --> rt
+निजी --> nmod__adj
+क्षेत्र --> r6
+में --> lwg__psp
+स्थापित --> pof
+की --> main
+गई --> eos
+<end> --> 
+
+
+<start> --> sos
+राजस्थान --> r6
+भारत --> k1
+गणराज्य --> r6
+का --> lwg__psp
+क्षेत्रफल --> r6
+के --> lwg__psp
+आधार --> r6
+पर --> lwg__psp
+सबसे --> jjmod__intf
+बड़ा --> nmod__adj
+राज्य --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+बघेलखण्ड --> r6
+की --> lwg__psp
+धरती --> r6
+का --> lwg__psp
+सम्बन्ध --> k1
+अति --> adv
+प्राचीन --> nmod__adj
+भारतीय --> nmod__adj
+संस्कृति --> r6
+से --> lwg__psp
+रहा --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+ताप्ती --> r6
+नदी --> k1
+भी --> lwg__rp
+नर्मदा --> ras-k1
+के --> lwg__psp
+समानांतर --> lwg__psp
+, --> lwg__psp
+दरार --> k1
+घाटी --> r6
+के --> lwg__psp
+माध्यम --> lwg__psp
+से --> lwg__psp
+बहती --> lwg__psp
+हैं --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+भरतपुर --> r6
+के --> lwg__psp
+जाट --> nmod__adj
+शासक --> k1
+ने --> lwg__psp
+भी --> lwg__rp
+अपनी --> ras-k1
+रियासत --> k2u
+के --> lwg__psp
+विलय --> pof
+राजस्थान --> main
+में --> lwg__psp
+किया --> lwg__psp
+था --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+राज्य --> r6
+के --> lwg__psp
+जंगलों --> lwg__psp
+में --> lwg__psp
+सागौन --> k4
+और --> lwg__psp
+साल --> lwg__psp
+के --> lwg__psp
+पेड़ --> k4
+बहुतायत --> lwg__psp
+में --> lwg__psp
+पाये --> lwg__psp
+जाते --> lwg__psp
+हैं --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+डीग --> pof__cn
+जलमहल --> k1
+एक --> nmod
+आकर्षक --> nmod__adj
+राजमहल --> r6
+है --> lwg__psp
+, --> rsym
+जो --> k1
+भरतपुर --> r6
+के --> lwg__psp
+जाट --> nmod__adj
+शासकों --> k1
+ने --> lwg__psp
+बनवाया --> lwg__psp
+था --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+पन्ना --> pof__cn
+धाय --> r6
+जैसी --> lwg__psp
+बलिदानी --> r6
+माता --> k2u
+, --> 
+मीरां --> 
+जैसी --> lwg__psp
+जोगिन --> k1
+यहां --> r6
+की --> lwg__psp
+एक --> nmod
+बड़ी --> nmod__adj
+शान --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राजस्थान --> r6
+के --> lwg__psp
+आदिवासी --> k1
+इन्हीं --> mod__wq
+मत्स्यों --> k2u
+के --> lwg__psp
+वंशज --> k1
+आज --> lwg__psp
+मीना --> r6
+/ --> rsym
+मीणा --> k2
+कहलाते --> lwg__psp
+हैं --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+सीमेन्ट --> pof__cn
+उद्योग --> r6
+की --> lwg__psp
+दृष्टि --> r6
+से --> lwg__psp
+' --> rsym
+राजस्थान --> r6-k2
+का --> lwg__psp
+पूरे --> nmod__adj
+भारत --> r6
+में --> lwg__psp
+प्रथम --> nmod__adj
+स्थान --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+स्वत्रंता --> k1
+पूर्व --> nmod__adj
+मध्य --> pof__cn
+प्रदेश --> r6
+क्षेत्र --> k1
+अपने --> r6
+वर्तमान --> nmod__adj
+स्वरूप --> r6
+से --> lwg__psp
+काफी --> mod__wq
+अलग --> 
+था --> 
+<end> --> 
+
+
+<start> --> sos
+सोन --> r6
+और --> lwg__psp
+उसकी --> r6
+सहायक --> nmod__adj
+नदियों --> r6
+, --> rsym
+गंगा --> lwg__psp
+में --> lwg__psp
+मानसून --> r6
+का --> lwg__psp
+अथाह --> nmod__adj
+जल --> k1
+प्रवाहित --> pof
+करती --> main
+हैंं --> rsym
+<end> --> lwg__psp
+
+
+<start> --> sos
+खनिज --> nmod__adj
+संसाधनों --> adv
+से --> lwg__psp
+समृद्ध --> nmod__adj
+, --> rsym
+मध्य --> pof__cn
+प्रदेश --> r6
+हीरे --> lwg__psp
+और --> lwg__psp
+तांबे --> r6
+का --> lwg__psp
+सबसे --> jjmod__intf
+बड़ा --> nmod__adj
+भंडार --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+आमेर --> pof__cn
+महल --> k1
+मुगल --> r6
+औऱ --> lwg__psp
+हिन्दू --> nmod__adj
+स्थापत्य --> pof__cn
+शैलियों --> pof__cn
+के --> lwg__psp
+मिश्रण --> r6
+का --> lwg__psp
+उत्कृष्ट --> nmod__adj
+उदाहरण --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+मध्य --> pof__cn
+प्रदेश --> r6
+कुपोषण --> k2u
+के --> lwg__psp
+मामले --> r6
+में --> lwg__psp
+सबसे --> jjmod__intf
+ज्यादा --> mod__wq
+प्रभावित --> nmod__adj
+राज्यों --> r6
+में --> lwg__psp
+से --> lwg__psp
+एक --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+कर्मा --> pof__cn
+बाई --> r6
+जैसी --> lwg__psp
+भक्तणी --> k4
+जिसने --> k1
+भगवान --> pof
+जगन --> pof__cn
+नाथ --> k4
+जी --> lwg__rp
+को --> lwg__psp
+हाथों --> lwg__psp
+से --> lwg__psp
+खीचड़ा --> pof
+खिलाया --> main
+था --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+नर्मदा --> r6
+नदी --> pof__cn
+किनारे --> pof__cn
+बसा --> nmod__k1inv
+यह --> mod__wq
+क्षेत्र --> k1
+सांस्कृतिक --> nmod__adj
+और --> r6
+प्राकृतिक --> lwg__psp
+समृद्धता --> r6
+में --> lwg__psp
+धनी --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+बुंदेलखंड --> r6
+में --> lwg__psp
+दिगंबर --> pof
+जैन --> main
+एवं --> eos
+मालवा --> 
+में --> lwg__psp
+श्वेतांबर --> pof
+जैन --> k1
+बहूलता --> lwg__psp
+से --> lwg__psp
+पाये --> lwg__psp
+जाते --> lwg__psp
+हैं --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+हाल --> r6
+ही --> lwg__rp
+में --> lwg__psp
+ओरछा --> k4
+को --> lwg__psp
+यूनेस्को --> lwg__psp
+द्वारा --> lwg__psp
+उसकी --> r6
+अस्थायी --> nmod__adj
+सूची --> r6
+में --> lwg__psp
+सम्मलित --> pof
+किया --> main
+गया --> eos
+है --> 
+<end> --> 
+
+
+<start> --> sos
+प्रदेश --> k1
+, --> rsym
+भारत --> r6-k2
+के --> lwg__psp
+राज्य --> pof
+हंगर --> pof__cn
+इंडेक्स --> r6
+पर --> lwg__psp
+भी --> lwg__rp
+सबसे --> rd
+कम --> mod__wq
+रैंकिंग --> k2u
+वाले --> lwg__psp
+राज्य --> lwg__psp
+में --> lwg__psp
+से --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+बाड़मेर --> r6
+क्षेत्र --> k2u
+में --> lwg__psp
+सिलिसियस --> pof
+अर्थ --> r6
+और --> lwg__psp
+कच्चा --> nmod__adj
+तेल --> r6
+के --> lwg__psp
+भंडार --> k1
+प्रचुर --> nmod__adj
+मात्रा --> r6
+में --> lwg__psp
+हैं --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+विदिशा --> pof__cn
+नगरी --> pof__cn
+दशवें --> pof__cn
+तीर्थेंकर --> k1
+भगवान --> pof
+शीतलनाथ --> r6
+की --> lwg__psp
+गर्भ --> pof
+जन्म --> r6
+व --> lwg__psp
+तप --> pof
+कल्याणक --> main
+की --> lwg__psp
+भूमि --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+बुंदेलखंड --> r6
+में --> lwg__psp
+दिगंबर --> pof
+जैन --> r6
+समुदाय --> k2u
+का --> lwg__psp
+एक --> nmod
+पंथ --> k1
+और --> lwg__psp
+स्थापित --> pof
+हुआ --> main
+जो --> k1
+तारण --> pof
+पंथ --> k4
+कहलाता --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+मुगल --> pof__cn
+काल --> r6
+मे --> lwg__psp
+शाही --> nmod__adj
+दस्तावेजो --> r6
+में --> lwg__psp
+भरतपुर --> r6
+, --> lwg__psp
+धौलपुर --> r6
+अलवर --> k2u
+का --> lwg__psp
+क्षेत्र --> k1
+जटवाड़ा --> k4
+कहलाता --> lwg__psp
+था --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+मानसागरझील --> adv
+के --> lwg__psp
+बीच --> lwg__psp
+स्थित --> nmod__adj
+एक --> nmod
+सुंदर --> nmod__adj
+महल --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राज्य --> r6
+का --> lwg__psp
+प्रति --> lwg__rp
+व्यक्ति --> k1
+सकल --> nmod__adj
+राज्य --> r6
+घरेलू --> nmod__adj
+उत्पाद --> k1
+देश --> r6
+के --> lwg__psp
+सबसे --> jjmod__intf
+कम --> k2u
+में --> lwg__psp
+चौथा --> nmod__adj
+स्थान --> r6
+पर --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+जयपुर --> r6
+संगमरमर --> k2u
+की --> lwg__psp
+प्रतिमाओं --> r6
+, --> rsym
+ब्लू --> pof__cn
+पॉटरी --> pof__cn
+औऱ --> pof__cn
+राजस्थानी --> nmod__adj
+जूतियों --> r6
+के --> lwg__psp
+लिए --> lwg__psp
+भी --> lwg__rp
+प्रसिद्ध --> nmod__adj
+है --> r6
+<end> --> lwg__psp
+
+
+<start> --> sos
+शहर --> r6
+की --> lwg__psp
+अर्थव्यस्था --> r6
+में --> lwg__psp
+हथकरघा --> r6
+, --> rsym
+वस्त्र --> pof__cn
+उद्योग --> pof__cn
+और --> pof__cn
+धातु --> pof__cn
+आधारित --> nmod__adj
+उद्योगों --> r6
+का --> lwg__psp
+योगदान --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+यहां --> r6
+पर --> lwg__psp
+सर्वप्रथम --> pof
+1904 --> main
+में --> lwg__psp
+समुद्री --> nmod__adj
+सीपियों --> r6
+से --> lwg__psp
+सीमेन्ट --> k4
+बनाने --> k2u
+का --> 
+प्रयास --> pof__cn
+किया --> pof__cn
+गया --> pof__cn
+था --> pof__cn
+<end> --> pof__cn
+
+
+<start> --> sos
+1965 --> r6
+में --> lwg__psp
+बूंदी --> r6
+ज़िले --> k2u
+के --> lwg__psp
+केशोराय --> pof
+पाटन --> main
+में --> lwg__psp
+चीनी --> k1
+मिल --> rt
+सहकारी --> nmod__adj
+क्षेत्र --> r6
+में --> lwg__psp
+स्थापित --> pof
+की --> main
+गई --> eos
+<end> --> 
+
+
+<start> --> sos
+इस --> mod__wq
+दिन --> 
+मध्यप्रदेश --> k2u
+राज्य --> 
+से --> lwg__psp
+१४ --> nmod
+जिले --> k4
+अलग --> pof__cn
+कर --> rh
+छत्तीसगढ़ --> k7
+राज्य --> k2u
+छत्तीसगढ़ --> k2u
+की --> lwg__psp
+स्थापना --> pof
+हुई --> main
+थी --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+जीवन --> pof__cn
+शैली --> k4
+, --> rsym
+कला --> lwg__psp
+, --> rsym
+साहित्य --> lwg__psp
+और --> lwg__psp
+वाचिक --> nmod__adj
+परम्परा --> r6
+मिलकर --> rt
+किसी --> rh
+अंचल --> k7
+की --> lwg__psp
+सांस्कृतिक --> nmod__adj
+पहचान --> k4
+बनाती --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+महाराजा --> pof__cn
+सवाई --> pof__cn
+प्रताप --> pof__cn
+सिंह --> k1
+ने --> lwg__psp
+हवामहल --> k4
+1799 --> pof__cn
+ई. --> pof__cn
+में --> lwg__psp
+बनवाया --> lwg__psp
+जिसके --> r6
+वास्तुकार --> k1
+लालचन्द --> pof
+उस्ता --> main
+थे --> eos
+<end> --> 
+
+
+<start> --> sos
+गंगा --> r6
+बेसिन --> k2u
+की --> lwg__psp
+नदियों --> lwg__psp
+पर --> lwg__psp
+बनाई --> nmod__adj
+जाने --> r6
+वाली --> lwg__psp
+जल-विद्युत --> pof
+योजनाओं --> r6
+में --> lwg__psp
+भी --> lwg__rp
+राजस्थान --> k1
+भी --> lwg__rp
+भागीदार --> nmod__adj
+है --> r6
+<end> --> lwg__psp
+
+
+<start> --> sos
+1956 --> r6
+में --> lwg__psp
+इस --> mod__wq
+चीनी --> k4
+मिल --> rh
+को --> lwg__psp
+राज्य --> pof
+सरकार --> k1
+ने --> lwg__psp
+अधिगृहीत --> pof
+कर --> main
+लिया --> lwg__vaux
+तथा --> eos
+यह --> k1
+सार्वजनिक --> nmod__adj
+क्षेत्र --> r6
+में --> lwg__psp
+आ --> lwg__psp
+गई --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+गुजरात --> r6
+, --> rsym
+महाराष्ट्र --> lwg__psp
+अथवा --> lwg__psp
+उड़ीसा --> lwg__psp
+की --> lwg__psp
+तरह --> lwg__psp
+इस --> mod__wq
+प्रदेश --> k4
+को --> lwg__psp
+किसी --> lwg__psp
+भाषाई --> nmod__adj
+संस्कृति --> r6
+में --> lwg__psp
+नहीं --> jjmod__intf
+पहचाना --> nmod__adj
+जाता --> r6
+<end> --> lwg__psp
+
+
+<start> --> sos
+इसे --> k4
+इस --> mod__wq
+समय --> 
+भाखरा-नांगल --> k2u
+और --> 
+अन्य --> nmod__adj
+योजनाओं --> r6
+के --> lwg__psp
+कृषि --> lwg__psp
+एवं --> lwg__psp
+औद्योगिक --> nmod__adj
+विकास --> r6
+में --> lwg__psp
+भरपूर --> nmod__adj
+सहायता --> k1
+मिलती --> lwg__psp
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+चन्द्रमहल --> r6
+महाराजा --> pof__cn
+जयसिंह --> pof__cn
+द्वारा --> lwg__psp
+बनवाया --> lwg__psp
+गया --> lwg__psp
+था --> lwg__psp
+और --> lwg__psp
+मुगल --> r6
+औऱ --> lwg__psp
+राजस्थानी --> nmod__adj
+स्थापत्य --> r6
+का --> lwg__psp
+एक --> nmod
+संयोजन --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+छत्तीसगढ़ --> r6
+राज्य --> k2u
+के --> lwg__psp
+गठन --> lwg__psp
+के --> lwg__psp
+बाद --> lwg__psp
+, --> rsym
+महानदी --> pof__cn
+बेसिन --> r6
+का --> lwg__psp
+बड़ा --> nmod__adj
+हिस्सा --> k1
+अब --> lwg__psp
+छत्तीसगढ़ --> lwg__psp
+में --> lwg__psp
+प्रवाहित --> pof
+होता --> main
+हैं --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+कनक --> pof__cn
+वृंदावन --> k1
+अपने --> r6
+प्राचीन --> nmod__adj
+गोविन्देव --> pof__cn
+विग्रह --> r6
+के --> lwg__psp
+लिए --> lwg__psp
+प्रसिद्ध --> nmod__adj
+जयपुर --> r6
+में --> lwg__psp
+एक --> nmod
+लोकप्रिय --> nmod__adj
+मंदिर-समूह --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राज्य --> r6
+में --> lwg__psp
+400 --> nmod
+इंजीनियरिंग --> lwg__psp
+और --> lwg__psp
+आर्किटेक्चर --> pof
+कॉलेजों --> main
+, --> rsym
+250 --> nmod
+प्रबंधन --> pof__cn
+संस्थानों --> pof__cn
+और --> pof__cn
+12 --> nmod
+मेडिकल --> pof__cn
+कॉलेज --> pof__cn
+हैं --> pof__cn
+<end> --> pof__cn
+
+
+<start> --> sos
+18 --> pof__cn
+वीं --> pof__cn
+सदी --> r6
+का --> lwg__psp
+घना --> nmod__adj
+पक्षी --> r6
+अभयारण्य  --> lwg__psp
+, --> rsym
+जो --> lwg__psp
+केवलादेव --> jjmod__intf
+घना --> nmod__adj
+राष्ट्रीय --> nmod__adj
+उद्यान --> r6
+के --> lwg__psp
+रूप --> lwg__psp
+में --> lwg__psp
+भी --> lwg__rp
+जाना --> nmod__adj
+जाता --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+आमेर --> r6
+दुर्ग --> k2u
+में --> lwg__psp
+महलों --> r6
+, --> rsym
+विशाल --> nmod__adj
+कक्षों --> r6
+, --> rsym
+स्तंभदार --> nmod__adj
+दर्शक-दीर्घाओं --> r6
+, --> rsym
+बगीचों --> lwg__psp
+और --> lwg__psp
+मंदिरों --> lwg__psp
+सहित --> lwg__psp
+कई --> mod__wq
+भवन-समूह --> 
+हैं --> 
+<end> --> 
+
+
+<start> --> sos
+भरतपुर --> pof__cn
+संग्रहालय --> k1
+राजस्थान --> r6
+के --> lwg__psp
+विगत --> nmod__adj
+शाही --> nmod__adj
+वैभव --> r6
+के --> lwg__psp
+साथ --> lwg__psp
+शौर्यपूर्ण --> nmod__adj
+अतीत --> r6
+के --> lwg__psp
+साक्षात्कार --> r6
+का --> lwg__psp
+एक --> nmod
+प्रमुख --> nmod__adj
+स्रोत --> r6
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+वैनगंगा --> k1
+, --> rsym
+वर्धा --> lwg__psp
+, --> rsym
+पेंच --> lwg__psp
+, --> lwg__psp
+कान्हां --> lwg__psp
+नदियां --> k1
+, --> lwg__psp
+गोदावरी --> r6
+नदी --> pof__cn
+प्रणाली --> pof__cn
+में --> lwg__psp
+विशाल --> nmod__adj
+मात्रा --> r6
+में --> lwg__psp
+पानी --> r6
+का --> lwg__psp
+निर्वहन --> pof
+करती --> main
+हैंं --> rsym
+<end> --> lwg__psp
+
+
+<start> --> sos
+हाल --> r6
+ही --> lwg__rp
+की --> lwg__psp
+खुदाई --> lwg__psp
+से --> lwg__psp
+पता --> pof
+चला --> main
+है --> lwg__vaux
+कि --> eos
+इस --> mod__wq
+क्षेत्र --> k2u
+में --> lwg__psp
+उच्च --> nmod__adj
+किस्म --> r6
+की --> lwg__psp
+प्राकृतिक --> nmod__adj
+गैस --> k1
+भी --> lwg__rp
+प्रचुर --> nmod__adj
+मात्रा --> r6
+में --> lwg__psp
+उपलब्ध --> k4
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+जयपुर --> k1
+इसके --> r6
+भव्य --> nmod__adj
+किलों --> r6
+, --> rsym
+महलों --> lwg__psp
+और --> lwg__psp
+सुंदर --> nmod__adj
+झीलों --> r6
+के --> lwg__psp
+लिए --> lwg__psp
+प्रसिद्ध --> lwg__psp
+है --> lwg__psp
+, --> rsym
+जो --> k1
+विश्वभर --> lwg__psp
+से --> lwg__psp
+पर्यटकों --> k4
+को --> lwg__psp
+आकर्षित --> pof
+करते --> main
+हैं --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+भारत --> r6
+के --> lwg__psp
+वर्तमान --> nmod__adj
+मानचित्र --> r6
+में --> lwg__psp
+एक --> nmod
+प्रमुख --> nmod__adj
+पर्यटक --> k1
+गंतव्य --> k1
+, --> lwg__psp
+भरतपुर --> lwg__psp
+पांचवी --> pof
+सदी --> pof__cn
+ईसा --> pof__cn
+पूर्व --> lwg__psp
+से --> lwg__psp
+कई --> mod__wq
+अवस्थाओं --> 
+से --> lwg__psp
+गुजर --> lwg__psp
+चुका --> lwg__vaux
+है --> eos
+<end> --> 
+
+
+<start> --> sos
+विख्यात --> nmod__adj
+हिन्दुस्तानी --> nmod__adj
+शास्त्रीय --> nmod__adj
+संगीत --> pof__cn
+घरानों --> r6
+में --> lwg__psp
+मध्य --> pof
+प्रदेश --> r6
+के --> lwg__psp
+मैहर --> k4
+घराने --> k2u
+, --> rsym
+ग्वालियर --> lwg__psp
+घराने --> lwg__psp
+और --> lwg__psp
+सेनिया --> k4
+घराने --> lwg__psp
+शामिल --> lwg__psp
+हैं --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+इसके --> r6
+उत्तर --> k2u
+में --> lwg__psp
+उत्तर --> pof
+प्रदेश --> main
+, --> rsym
+पूर्व --> r6-k2
+में --> lwg__psp
+छत्तीसगढ़ --> lwg__psp
+, --> rsym
+दक्षिण --> r6-k2
+में --> lwg__psp
+महाराष्ट्र --> lwg__psp
+, --> rsym
+पश्चिम --> r6-k2
+में --> lwg__psp
+गुजरात --> lwg__psp
+, --> lwg__psp
+तथा --> lwg__psp
+उत्तर-पश्चिम --> r6
+में --> lwg__psp
+राजस्थान --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राजस्थान --> r6
+में --> lwg__psp
+काँच --> pof
+प्राप्ति --> r6
+के --> lwg__psp
+मुख्य --> nmod__adj
+स्थल --> k1
+जयपुर --> r6
+, --> rsym
+बीकानेर --> lwg__psp
+, --> rsym
+बूंदी --> lwg__psp
+तथा --> lwg__psp
+धौलपुर --> lwg__psp
+ज़िले --> lwg__psp
+है --> lwg__psp
+जहां --> lwg__psp
+उपयुक्त --> nmod__adj
+रूप --> adv
+से --> lwg__psp
+काँच --> r6
+की --> lwg__psp
+प्राप्ति --> pof
+होती --> main
+है --> lwg__vaux
+<end> --> eos
+
+
+<start> --> sos
+राजस्थान --> r6
+में --> lwg__psp
+सर्वप्रथम --> pof
+चित्तौड़गढ़ --> pof__cn
+ज़िले --> pof__cn
+में --> lwg__psp
+भोपालसागर --> pof
+नगर --> main
+में --> lwg__psp
+चीनी --> k1
+मिल --> rt
+द --> pof__cn
+मेवाड़ --> pof__cn
+सुगर --> pof__cn
+मिल्स --> r6
+के --> lwg__psp
+नाम --> lwg__psp
+से --> lwg__psp
+सन् --> r6
+1932 --> lwg__psp
+में --> lwg__psp
+प्रारम्भ --> pof
+की --> main
+गई --> eos
+<end> --> 
+
+
+<start> --> sos
+यहा --> r6
+पर --> lwg__psp
+वस्र्त --> r6
+की --> lwg__psp
+रंगाई --> nmod__adj
+छपाई --> r6
+का --> lwg__psp
+कार्य --> k1
+होता --> lwg__psp
+है --> lwg__vaux
+और --> eos
+इसकी --> k2u
+महत्वपुर्ण --> nmod__adj
+बात --> k1
+यह --> lwg__psp
+है --> lwg__psp
+कि --> lwg__psp
+लुणी --> r6
+नदी --> k2u
+का --> lwg__psp
+जल --> k1
+इस --> mod__wq
+स्थान --> 
+से --> lwg__psp
+पानी --> k1
+खारा( --> adv
+लवणीय --> pof
+)हो --> nmod__relc
+जाता --> lwg__vaux
+है --> eos
+<end> --> 
+
+
+<start> --> sos
+बडवानी --> r6
+का --> lwg__psp
+बावनगजा,दमोह --> r6
+का --> lwg__psp
+कुण्डलपुर --> pof
+,दतिया --> r6
+का --> lwg__psp
+सोनागिरी --> r6
+,अशोकनगर --> k2u
+का --> lwg__psp
+निसईजी --> k1
+मल्हारगढ़,बैतूल --> r6
+की --> lwg__psp
+मुक्तागिरी --> pof
+जैन --> r6
+धर्मालंबियोंं --> k2u
+हेतु --> lwg__psp
+प्रसिद्ध --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+इसके --> r6
+पश्चिम --> k2u
+में --> lwg__psp
+पाकिस्तान --> lwg__psp
+, --> lwg__psp
+दक्षिण-पश्चिम --> lwg__psp
+में --> lwg__psp
+गुजरात --> lwg__psp
+, --> rsym
+दक्षिण-पूर्व --> r6-k2
+में --> lwg__psp
+मध्यप्रदेश --> lwg__psp
+, --> rsym
+उत्तर --> r6-k2
+में --> lwg__psp
+पंजाब --> lwg__psp
+, --> rsym
+उत्तर-पूर्व --> r6-k2
+में --> lwg__psp
+उत्तरप्रदेश --> lwg__psp
+और --> lwg__psp
+हरियाणा --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+पूरे --> nmod__adj
+भारत --> r6
+वर्ष --> lwg__psp
+में --> lwg__psp
+सबसे --> jjmod__intf
+ज्यादा --> mod__wq
+पह्माणे --> 
+में --> lwg__psp
+विदेशी --> nmod__adj
+पर्यटन --> k1
+सिर्फ --> lwg__rp
+राजस्थान --> nmod__adj
+आते --> r6
+है --> lwg__vaux
+जो --> k5
+की --> lwg__psp
+भारत --> r6
+देश --> k2u
+की --> lwg__psp
+संस्कृति --> r6
+, --> rsym
+कला --> lwg__psp
+, --> rsym
+वेश --> pof__cn
+भूषा --> pof__cn
+, --> rsym
+आस्था --> r6-k2
+का --> lwg__psp
+रूप --> lwg__psp
+है --> lwg__psp
+<end> --> lwg__psp
+
+
+<start> --> sos
+राजस्थान --> pof__cn
+पर्यटन --> pof__cn
+विभाग --> k1
+राजस्थान --> r6
+के --> lwg__psp
+सभी --> mod__wq
+प्रसिद्द --> nmod__adj
+राज --> pof__cn
+महल --> k4
+, --> rsym
+मंदिर --> lwg__psp
+, --> rsym
+लोक --> pof__cn
+कला --> pof__cn
+, --> rsym
+टाइगर --> pof__cn
+रिसॉर्ट्स --> pof__cn
+, --> pof__cn
+होटल्स --> r6
+जैसी --> lwg__psp
+सभी --> mod__wq
+सेवाएं --> 
+पर्यटकों --> k4
+को --> lwg__psp
+उपलब्ध --> pof
+कराती --> main
+है --> lwg__vaux
+<end> --> eos
+
+

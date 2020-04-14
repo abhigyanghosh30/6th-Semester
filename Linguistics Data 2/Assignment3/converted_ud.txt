@@ -1,0 +1,1730 @@
+<start> --> sos
+जयपुर --> amod
+राज्य --> nmod
+की --> case
+राजधानी --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+तब --> nmod
+इसकी --> nmod
+राजधानी --> nsubj
+नागपुर --> nmod
+में --> case
+थी --> compound
+end --> root
+
+
+<start> --> sos
+यह --> nsubj
+बाड़मेर --> amod
+जिले --> nmod
+मे --> case
+आया --> compound
+हुआ --> aux
+है --> eos
+end --> 
+
+
+<start> --> sos
+मालवा --> amod
+महाकवि --> amod
+कालिदास --> nmod
+की --> case
+धरती --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+तब --> nmod
+यह --> nsubj
+३-४ --> amod
+हिस्सों --> nmod
+में --> case
+बटा --> compound
+हुआ --> aux
+था --> eos
+end --> 
+
+
+<start> --> sos
+यहाँ --> nmod
+कोई --> case
+एक --> amod
+लोक --> amod
+संस्कृति --> nsubj
+नहीं --> neg
+है --> 
+end --> 
+
+
+<start> --> sos
+राजस्थान --> nmod
+की --> case
+आकृति --> nsubj
+लगभग --> dep
+पतंगाकार --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+बाद --> nmod
+में --> case
+इसे --> obj
+निमाड़ --> nmod
+की --> case
+संज्ञा --> xcomp
+दी --> root
+गयी --> aux
+end --> eos
+
+
+<start> --> sos
+मध्यप्रदेश --> nmod
+की --> case
+संस्कृति --> nsubj
+विविधवर्णी --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+राज्य --> nmod
+में --> case
+कृषिप्रधान --> amod
+अर्थव्यवस्था --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+मध्य --> compound
+प्रदेश --> nmod
+में --> case
+विधान --> compound
+सभा --> nmod
+की --> case
+230 --> amod
+सीट --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+जनसंख्या --> nsubj
+घनत्व --> amod
+प्रति --> dep
+वर्ग --> compound
+कि॰मी॰ --> dobj
+126 --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+मध्य --> compound
+प्रदेश --> nmod
+में --> case
+उपोष्णकटिबंधीय --> amod
+जलवायु --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+राजस्थान --> nsubj
+भारत --> nmod
+का --> case
+एक --> amod
+महत्वपूर्ण --> amod
+प्रांत --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+इसके --> nmod
+पर्यटन --> compound
+उद्योग --> nmod
+में --> case
+काफी --> amod
+वृद्धि --> compound
+हुई --> root
+है --> aux
+end --> eos
+
+
+<start> --> sos
+यहाँ --> nmod
+के --> case
+लोगों --> nsubj
+ने --> case
+कभी --> nmod
+भी --> dep
+अकाल --> dobj
+को --> case
+नहीं --> neg
+देखा --> 
+end --> 
+
+
+<start> --> sos
+निमाड़ --> compound
+मध्यप्रदेश --> nmod
+के --> case
+पश्चिमी --> amod
+अंचल --> nmod
+में --> case
+स्थित --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+यहाँ --> nmod
+की --> case
+धरती --> nsubj
+हरी-भरी, --> nsubj
+धन-धान्य --> advmod
+से --> case
+भरपूर --> compound
+रही --> aux
+है --> eos
+end --> 
+
+
+<start> --> sos
+जबलपुर --> amod
+संभाग --> nmod
+का --> case
+संपूर्ण --> amod
+हिस्सा --> nsubj
+महाकोशल --> nsubj
+कहलाता --> case
+है --> aux
+end --> eos
+
+
+<start> --> sos
+वाल्मीकि --> nsubj
+ने --> case
+राजस्थान --> compound
+प्रदेश --> obj
+को --> case
+मरुकान्तार --> acl
+कहा --> compound
+है --> aux
+end --> eos
+
+
+<start> --> sos
+अपने --> nmod
+क्षेत्र --> nmod
+की --> case
+30% --> advmod
+से --> case
+अधिक --> amod
+वन --> compound
+क्षेत्र --> nmod
+के --> case
+अधीन --> case
+है --> compound
+end --> root
+
+
+<start> --> sos
+राजस्थान --> nmod
+का --> case
+पूर्वी --> amod
+सम्भाग --> nsubj
+शुरु --> nmod
+से --> case
+ही --> dep
+उपजाऊ --> dobj
+रहा --> 
+है --> aux
+end --> eos
+
+
+<start> --> sos
+यह --> amod
+सम्भाग --> nsubj
+अभी --> nmod
+तक --> case
+औद्योगिक --> amod
+दृष्टि --> advmod
+से --> case
+पिछड़ा --> compound
+हुआ --> root
+है --> aux
+end --> eos
+
+
+<start> --> sos
+यह --> amod
+भू-भाग --> nsubj
+रामायणकाल --> nmod
+में --> case
+कोसल --> amod
+प्रान्त --> nmod
+के --> case
+अन्तर्गत --> case
+था --> compound
+end --> root
+
+
+<start> --> sos
+नर्मदा --> amod
+नदी --> nsubj
+मध्य --> compound
+प्रदेश --> nmod
+की --> case
+सबसे --> advmod
+प्रमुख --> case
+और --> amod
+लंबी --> nmod
+नदी --> dobj
+हैं --> 
+end --> 
+
+
+<start> --> sos
+राज्य --> nmod
+में --> case
+भारत --> nmod
+का --> case
+हीरे --> compound
+और --> nmod
+तांबे --> case
+का --> case
+सबसे --> advmod
+बड़ा --> amod
+भंडार --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+भरतपुर --> nsubj
+भारत --> nmod
+के --> case
+पर्यटन --> compound
+मानचित्र --> nmod
+में --> case
+अपना --> nmod
+महत्व --> dobj
+रखता --> 
+है --> aux
+end --> eos
+
+
+<start> --> sos
+इस --> amod
+क्षेत्र --> nmod
+का --> case
+सांस्कृतिक-आर्थिक --> amod
+केंद्र --> nsubj
+ग्वालियर --> amod
+शहर --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+प्राचीन --> amod
+समय --> nmod
+में --> case
+राजस्थान --> nmod
+में --> case
+आदिवासी --> amod
+कबीलों --> nmod
+का --> case
+शासन --> nsubj
+था --> case
+end --> compound
+
+
+<start> --> sos
+मध्य --> compound
+प्रदेश --> nmod
+की --> case
+सीमाऐं --> nsubj
+पांच --> amod
+राज्यों --> nmod
+की --> case
+सीमाओं --> nmod
+से --> case
+मिलती --> compound
+है --> aux
+end --> eos
+
+
+<start> --> sos
+मध्य --> compound
+प्रदेश --> nmod
+में --> case
+बस --> compound
+और --> nsubj
+ट्रेन --> compound
+सेवाएं --> root
+चारो --> amod
+तरफ --> advmod
+फैली --> case
+हुई --> aux
+हैं --> eos
+end --> 
+
+
+<start> --> sos
+इसमें --> nmod
+मिल --> nmod
+में --> case
+शक्कर --> xcomp
+बनाने --> nmod
+का --> case
+कार्य --> nsubj
+1946 --> nmod
+में --> case
+प्रारम्भ --> compound
+हुआ --> root
+end --> cop
+
+
+<start> --> sos
+मध्यप्रदेश --> nsubj
+विभिन्न --> amod
+लोक --> nmod
+और --> nmod
+जनजातीय --> amod
+संस्कृतियों --> nmod
+का --> case
+समागम --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+फिर --> advmod
+इसे --> dobj
+पूर्वी --> 
+और --> amod
+पश्चिमी --> nmod
+निमाड़ --> nmod
+के --> case
+रूप --> case
+में --> case
+जाना --> compound
+जाने --> aux
+लगा --> eos
+end --> 
+
+
+<start> --> sos
+मध्यप्रदेश --> nsubj
+मुख्य --> amod
+रूप --> advmod
+से --> case
+अपने --> nmod
+पर्यटन --> advcl
+के --> case
+लिए --> case
+भी --> dep
+जाना --> nummod
+जाता --> aux
+है --> eos
+end --> 
+
+
+<start> --> sos
+भील --> nmod
+और --> nsubj
+मीना --> compound
+जनजाति --> root
+इस --> amod
+क्षेत्र --> nmod
+में --> case
+रहने --> advcl
+के --> case
+लिए --> case
+सबसे --> amod
+पहले --> nmod
+थे --> case
+end --> compound
+
+
+<start> --> sos
+एक --> amod
+सुंदर --> amod
+बगीचा, --> nsubj
+नेहरू --> amod
+पार्क, --> amod
+जो --> nsubj
+भरतपुर --> amod
+संग्रहालय --> nmod
+के --> case
+पास --> case
+है --> compound
+end --> root
+
+
+<start> --> sos
+मीणा --> advmod
+बाहुल्य --> amod
+इस --> amod
+जिले --> nmod
+का --> case
+ऐतिहासिकता --> nmod
+के --> case
+तौर --> case
+पर --> case
+काफी --> amod
+महत्व --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+वही --> nmod
+साँची --> advmod
+में --> case
+स्थित --> amod
+साँची --> nmod
+का --> case
+स्तूप, --> amod
+बौध्द --> advcl
+के --> case
+लिए --> case
+केंद्र --> nsubj
+हैं --> case
+end --> compound
+
+
+<start> --> sos
+सन् --> compound
+1991 --> nmod
+की --> case
+जनगणना --> nmod
+के --> case
+अनुसार --> case
+राज्य --> nmod
+की --> case
+जनसंख्या --> nsubj
+4.39 --> case
+करोड़ --> dobj
+थी --> 
+end --> 
+
+
+<start> --> sos
+26 --> compound
+जनवरी, --> compound
+1950 --> nmod
+को --> case
+इस --> amod
+प्रदेश --> nmod
+का --> case
+नाम --> xcomp
+राजस्थान --> nmod
+स्वीकृत --> compound
+किया --> root
+गया --> aux
+end --> eos
+
+
+<start> --> sos
+मध्य --> compound
+प्रदेश --> nmod
+में --> case
+अपनी --> nmod
+शास्त्रीय --> case
+और --> amod
+लोक --> nmod
+संगीत --> advcl
+के --> case
+लिए --> case
+विख्यात --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+राज्य --> nsubj
+ने --> case
+वर्ष --> amod
+2010-11 --> advcl
+के --> case
+लिये --> case
+राष्ट्रीय --> compound
+पर्यटन --> compound
+पुरस्कार --> nsubj
+जीता --> case
+था --> aux
+end --> eos
+
+
+<start> --> sos
+सन् --> compound
+1976 --> nmod
+में --> case
+उदयपुर --> nmod
+में --> case
+चीनी --> amod
+मिल --> parataxis
+निजी --> amod
+क्षेत्र --> nmod
+में --> case
+स्थापित --> compound
+की --> root
+गई --> aux
+end --> eos
+
+
+<start> --> sos
+राजस्थान --> nsubj
+भारत --> compound
+गणराज्य --> nmod
+का --> case
+क्षेत्रफल --> nmod
+के --> case
+आधार --> nmod
+पर --> case
+सबसे --> advmod
+बड़ा --> amod
+राज्य --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+बघेलखण्ड --> nmod
+की --> case
+धरती --> nmod
+का --> case
+सम्बन्ध --> nsubj
+अति --> advmod
+प्राचीन --> amod
+भारतीय --> nmod
+संस्कृति --> nmod
+से --> case
+रहा --> compound
+है --> aux
+end --> eos
+
+
+<start> --> sos
+ताप्ती --> amod
+नदी --> nsubj
+भी --> dep
+नर्मदा --> nmod
+के --> case
+समानांतर, --> amod
+दरार --> nsubj
+घाटी --> nmod
+के --> case
+माध्यम --> advmod
+से --> case
+बहती --> compound
+हैं --> aux
+end --> eos
+
+
+<start> --> sos
+भरतपुर --> nmod
+के --> case
+जाट --> amod
+शासक --> nsubj
+ने --> case
+भी --> dep
+अपनी --> nmod
+रियासत --> nmod
+के --> case
+विलय --> compound
+राजस्थान --> nmod
+में --> case
+किया --> compound
+था --> aux
+end --> eos
+
+
+<start> --> sos
+राज्य --> nmod
+के --> case
+जंगलों --> nmod
+में --> case
+सागौन --> compound
+और --> nsubj
+साल --> nmod
+के --> case
+पेड़ --> compound
+बहुतायत --> nmod
+में --> case
+पाये --> compound
+जाते --> aux
+हैं --> eos
+end --> 
+
+
+<start> --> sos
+डीग --> compound
+जलमहल --> nmod
+एक --> amod
+आकर्षक --> amod
+राजमहल --> nmod
+है, --> parataxis
+जो --> nsubj
+भरतपुर --> nmod
+के --> case
+जाट --> amod
+शासकों --> nsubj
+ने --> case
+बनवाया --> compound
+था --> aux
+end --> eos
+
+
+<start> --> sos
+पन्ना --> amod
+धाय --> nmod
+जैसी --> case
+बलिदानी --> compound
+माता, --> compound
+मीरां --> root
+जैसी --> nmod
+जोगिन --> case
+यहां --> nmod
+की --> case
+एक --> amod
+बड़ी --> amod
+शान --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+राजस्थान --> nmod
+के --> case
+आदिवासी --> amod
+इन्हीं --> amod
+मत्स्यों --> nmod
+के --> case
+वंशज --> nsubj
+आज --> nmod
+मीना --> compound
+/ --> punct
+मीणा --> acl
+कहलाते --> compound
+हैं --> aux
+end --> eos
+
+
+<start> --> sos
+सीमेन्ट --> compound
+उद्योग --> nmod
+की --> case
+दृष्टि --> advcl
+से --> case
+'राजस्थान --> nmod
+का --> case
+पूरे --> amod
+भारत --> nmod
+में --> case
+प्रथम --> amod
+स्थान --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+स्वत्रंता --> nsubj
+पूर्व --> amod
+मध्य --> compound
+प्रदेश --> amod
+क्षेत्र --> nsubj
+अपने --> nmod
+वर्तमान --> amod
+स्वरूप --> nmod
+से --> case
+काफी --> amod
+अलग --> dobj
+था --> 
+end --> 
+
+
+<start> --> sos
+सोन --> nmod
+और --> nsubj
+उसकी --> nmod
+सहायक --> case
+नदियों, --> nsubj
+गंगा --> nmod
+में --> case
+मानसून --> nmod
+का --> case
+अथाह --> amod
+जल --> nsubj
+प्रवाहित --> compound
+करती --> root
+हैंं --> aux
+end --> eos
+
+
+<start> --> sos
+खनिज --> compound
+संसाधनों --> nmod
+से --> case
+समृद्ध, --> nsubj
+मध्य --> compound
+प्रदेश --> amod
+हीरे --> nmod
+और --> nmod
+तांबे --> case
+का --> case
+सबसे --> advmod
+बड़ा --> amod
+भंडार --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+आमेर --> amod
+महल --> nsubj
+मुगल --> compound
+औऱ --> amod
+हिन्दू --> compound
+स्थापत्य --> compound
+शैलियों --> nmod
+के --> case
+मिश्रण --> nmod
+का --> case
+उत्कृष्ट --> amod
+उदाहरण --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+मध्य --> compound
+प्रदेश --> amod
+कुपोषण --> nmod
+के --> case
+मामले --> nmod
+में --> case
+सबसे --> advmod
+ज्यादा --> amod
+प्रभावित --> amod
+राज्यों --> nmod
+में --> case
+से --> case
+एक --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+कर्मा --> compound
+बाई --> amod
+जैसी --> case
+भक्तणी --> nsubj
+जिसने --> nsubj
+भगवान --> compound
+जगन --> compound
+नाथ --> compound
+जी --> dobj
+को --> case
+हाथों --> nmod
+से --> case
+खीचड़ा --> xcomp
+खिलाया --> root
+था --> aux
+end --> eos
+
+
+<start> --> sos
+नर्मदा --> amod
+नदी --> nmod
+किनारे --> nmod
+बसा --> acl
+यह --> amod
+क्षेत्र --> nsubj
+सांस्कृतिक --> case
+और --> amod
+प्राकृतिक --> nmod
+समृद्धता --> nmod
+में --> case
+धनी --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+बुंदेलखंड --> nmod
+में --> case
+दिगंबर --> compound
+जैन --> root
+एवं --> cop
+मालवा --> nmod
+में --> case
+श्वेतांबर --> compound
+जैन --> nsubj
+बहूलता --> nmod
+से --> case
+पाये --> compound
+जाते --> aux
+हैं --> eos
+end --> 
+
+
+<start> --> sos
+हाल --> nmod
+ही --> dep
+में --> case
+ओरछा --> xcomp
+को --> case
+यूनेस्को --> nsubj
+द्वारा --> case
+उसकी --> nmod
+अस्थायी --> amod
+सूची --> nmod
+में --> case
+सम्मलित --> compound
+किया --> root
+गया --> aux
+है --> eos
+end --> 
+
+
+<start> --> sos
+प्रदेश, --> nsubj
+भारत --> nmod
+के --> case
+राज्य --> compound
+हंगर --> compound
+इंडेक्स --> nmod
+पर --> case
+भी --> dep
+सबसे --> advmod
+कम --> amod
+रैंकिंग --> amod
+वाले --> case
+राज्य --> nmod
+में --> case
+से --> case
+है --> compound
+end --> root
+
+
+<start> --> sos
+बाड़मेर --> amod
+क्षेत्र --> nmod
+में --> case
+सिलिसियस --> compound
+अर्थ --> root
+और --> nmod
+कच्चा --> amod
+तेल --> nmod
+के --> case
+भंडार --> nsubj
+प्रचुर --> amod
+मात्रा --> nmod
+में --> case
+हैं --> compound
+end --> root
+
+
+<start> --> sos
+विदिशा --> amod
+नगरी --> nsubj
+दशवें --> amod
+तीर्थेंकर --> amod
+भगवान --> compound
+शीतलनाथ --> nmod
+की --> case
+गर्भ --> nsubj
+जन्म --> case
+व --> amod
+तप --> nmod
+कल्याणक --> nmod
+की --> case
+भूमि --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+बुंदेलखंड --> nmod
+में --> case
+दिगंबर --> compound
+जैन --> amod
+समुदाय --> nmod
+का --> case
+एक --> amod
+पंथ --> nmod
+और --> parataxis
+स्थापित --> compound
+हुआ --> root
+जो --> nsubj
+तारण --> compound
+पंथ --> dobj
+कहलाता --> 
+है --> aux
+end --> eos
+
+
+<start> --> sos
+मुगल --> compound
+काल --> nmod
+मे --> case
+शाही --> amod
+दस्तावेजो --> nmod
+में --> case
+भरतपुर, --> compound
+धौलपुर --> amod
+अलवर --> nmod
+का --> case
+क्षेत्र --> amod
+जटवाड़ा --> nsubj
+कहलाता --> case
+था --> aux
+end --> eos
+
+
+<start> --> sos
+जलमहल, --> compound
+शाही --> amod
+बत्तख-शिकार --> advcl
+के --> case
+लिए --> case
+बनाया --> acl
+गया --> aux
+मानसागरझील --> advmod
+के --> case
+बीच --> case
+स्थित --> amod
+एक --> amod
+सुंदर --> amod
+महल --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+राज्य --> nmod
+का --> case
+प्रति --> dep
+व्यक्ति --> nsubj
+सकल --> compound
+राज्य --> compound
+घरेलू --> amod
+उत्पाद --> nsubj
+देश --> nmod
+के --> case
+सबसे --> advmod
+कम --> nmod
+में --> case
+चौथा --> amod
+स्थान --> nmod
+पर --> case
+है --> compound
+end --> root
+
+
+<start> --> sos
+जयपुर --> amod
+संगमरमर --> nmod
+की --> case
+प्रतिमाओं, --> amod
+ब्लू --> compound
+पॉटरी --> advmod
+औऱ --> amod
+राजस्थानी --> compound
+जूतियों --> advcl
+के --> case
+लिए --> case
+भी --> dep
+प्रसिद्ध --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+शहर --> nmod
+की --> case
+अर्थव्यस्था --> nmod
+में --> case
+हथकरघा, --> compound
+वस्त्र --> compound
+उद्योग --> root
+और --> nmod
+धातु --> case
+आधारित --> amod
+उद्योगों --> nmod
+का --> case
+योगदान --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+यहां --> nmod
+पर --> case
+सर्वप्रथम --> nsubj
+1904 --> nmod
+में --> case
+समुद्री --> amod
+सीपियों --> nmod
+से --> case
+सीमेन्ट --> xcomp
+बनाने --> nmod
+का --> case
+प्रयास --> compound
+किया --> root
+गया --> aux
+था --> eos
+end --> 
+
+
+<start> --> sos
+1965 --> nmod
+में --> case
+बूंदी --> amod
+ज़िले --> nmod
+के --> case
+केशोराय --> amod
+पाटन --> nmod
+में --> case
+चीनी --> amod
+मिल --> parataxis
+सहकारी --> amod
+क्षेत्र --> nmod
+में --> case
+स्थापित --> compound
+की --> acl
+गई --> aux
+end --> eos
+
+
+<start> --> sos
+इस --> amod
+दिन --> nmod
+मध्यप्रदेश --> amod
+राज्य --> nmod
+से --> case
+१४ --> amod
+जिले --> xcomp
+अलग --> compound
+कर --> advcl
+छत्तीसगढ़ --> compound
+राज्य --> compound
+छत्तीसगढ़ --> nmod
+की --> case
+स्थापना --> compound
+हुई --> root
+थी --> aux
+end --> eos
+
+
+<start> --> sos
+जीवन --> compound
+शैली, --> compound
+कला, --> compound
+साहित्य --> root
+और --> dobj
+वाचिक --> amod
+परम्परा --> nmod
+मिलकर --> parataxis
+किसी --> 
+अंचल --> nmod
+की --> case
+सांस्कृतिक --> amod
+पहचान --> nsubj
+बनाती --> case
+है --> aux
+end --> eos
+
+
+<start> --> sos
+महाराजा --> compound
+सवाई --> compound
+प्रताप --> compound
+सिंह --> nsubj
+ने --> case
+हवामहल --> xcomp
+1799 --> amod
+ई. --> nmod
+में --> case
+बनवाया --> acl
+जिसके --> nmod
+वास्तुकार --> amod
+लालचन्द --> compound
+उस्ता --> nsubj
+थे --> case
+end --> compound
+
+
+<start> --> sos
+गंगा --> compound
+बेसिन --> nmod
+की --> case
+नदियों --> nmod
+पर --> case
+बनाई --> amod
+जाने --> aux
+वाली --> case
+जल-विद्युत --> compound
+योजनाओं --> nmod
+में --> case
+भी --> dep
+राजस्थान --> nsubj
+भी --> dep
+भागीदार --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+1956 --> nmod
+में --> case
+इस --> amod
+चीनी --> xcomp
+मिल --> dobj
+को --> case
+राज्य --> compound
+सरकार --> nsubj
+ने --> case
+अधिगृहीत --> compound
+कर --> root
+लिया --> aux
+तथा --> eos
+यह --> nsubj
+सार्वजनिक --> amod
+क्षेत्र --> nmod
+में --> case
+आ --> compound
+गई --> aux
+end --> eos
+
+
+<start> --> sos
+गुजरात, --> nsubj
+महाराष्ट्र --> case
+अथवा --> nmod
+उड़ीसा --> case
+की --> case
+तरह --> case
+इस --> amod
+प्रदेश --> xcomp
+को --> case
+किसी --> compound
+भाषाई --> amod
+संस्कृति --> nmod
+में --> case
+नहीं --> neg
+पहचाना --> 
+जाता --> aux
+end --> eos
+
+
+<start> --> sos
+इसे --> obj
+इस --> amod
+समय --> nmod
+भाखरा-नांगल --> case
+और --> nmod
+अन्य --> amod
+योजनाओं --> nmod
+के --> case
+कृषि --> compound
+एवं --> compound
+औद्योगिक --> amod
+विकास --> nmod
+में --> case
+भरपूर --> amod
+सहायता --> nsubj
+मिलती --> case
+है --> aux
+end --> eos
+
+
+<start> --> sos
+चन्द्रमहल --> compound
+महाराजा --> compound
+जयसिंह --> nsubj
+द्वारा --> case
+बनवाया --> compound
+गया --> aux
+था --> eos
+और --> 
+मुगल --> advmod
+औऱ --> amod
+राजस्थानी --> amod
+स्थापत्य --> nmod
+का --> case
+एक --> amod
+संयोजन --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+छत्तीसगढ़ --> compound
+राज्य --> nmod
+के --> case
+गठन --> nmod
+के --> case
+बाद, --> compound
+महानदी --> compound
+बेसिन --> nmod
+का --> case
+बड़ा --> amod
+हिस्सा --> nsubj
+अब --> nmod
+छत्तीसगढ़ --> nmod
+में --> case
+प्रवाहित --> compound
+होता --> root
+हैं --> aux
+end --> eos
+
+
+<start> --> sos
+कनक --> compound
+वृंदावन --> nsubj
+अपने --> nmod
+प्राचीन --> amod
+गोविन्देव --> amod
+विग्रह --> advcl
+के --> case
+लिए --> case
+प्रसिद्ध --> amod
+जयपुर --> nmod
+में --> case
+एक --> amod
+लोकप्रिय --> amod
+मंदिर-समूह --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+राज्य --> nmod
+में --> case
+400 --> amod
+इंजीनियरिंग --> nmod
+और --> amod
+आर्किटेक्चर --> nmod
+कॉलेजों, --> compound
+250 --> amod
+प्रबंधन --> compound
+संस्थानों --> root
+और --> nsubj
+12 --> amod
+मेडिकल --> compound
+कॉलेज --> root
+हैं --> cop
+end --> eos
+
+
+<start> --> sos
+18 --> amod
+वीं --> compound
+सदी --> nmod
+का --> case
+घना --> amod
+पक्षी --> compound
+अभयारण्य --> root
+, --> punct
+जो --> nsubj
+केवलादेव --> compound
+घना --> nsubj
+राष्ट्रीय --> compound
+उद्यान --> nmod
+के --> case
+रूप --> case
+में --> case
+भी --> dep
+जाना --> acl
+जाता --> aux
+है --> eos
+end --> 
+
+
+<start> --> sos
+आमेर --> amod
+दुर्ग --> nmod
+में --> case
+महलों, --> compound
+विशाल --> amod
+कक्षों, --> nsubj
+स्तंभदार --> amod
+दर्शक-दीर्घाओं, --> nmod
+बगीचों --> case
+और --> nmod
+मंदिरों --> case
+सहित --> case
+कई --> amod
+भवन-समूह --> nsubj
+हैं --> case
+end --> compound
+
+
+<start> --> sos
+भरतपुर --> compound
+संग्रहालय --> nsubj
+राजस्थान --> nmod
+के --> case
+विगत --> amod
+शाही --> nmod
+वैभव --> nmod
+के --> case
+साथ --> case
+शौर्यपूर्ण --> amod
+अतीत --> nmod
+के --> case
+साक्षात्कार --> nmod
+का --> case
+एक --> amod
+प्रमुख --> amod
+स्रोत --> nsubj
+है --> case
+end --> compound
+
+
+<start> --> sos
+वैनगंगा, --> compound
+वर्धा, --> amod
+पेंच, --> compound
+कान्हां --> nsubj
+नदियां, --> compound
+गोदावरी --> compound
+नदी --> compound
+प्रणाली --> nmod
+में --> case
+विशाल --> amod
+मात्रा --> nmod
+में --> case
+पानी --> nmod
+का --> case
+निर्वहन --> compound
+करती --> root
+हैंं --> aux
+end --> eos
+
+
+<start> --> sos
+हाल --> nmod
+ही --> dep
+की --> case
+खुदाई --> advcl
+से --> case
+पता --> compound
+चला --> root
+है --> aux
+कि --> acl
+इस --> amod
+क्षेत्र --> nmod
+में --> case
+उच्च --> amod
+किस्म --> nmod
+की --> case
+प्राकृतिक --> amod
+गैस --> nsubj
+भी --> dep
+प्रचुर --> amod
+मात्रा --> nmod
+में --> case
+उपलब्ध --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+जयपुर --> nmod
+इसके --> nmod
+भव्य --> amod
+किलों, --> nsubj
+महलों --> case
+और --> nmod
+सुंदर --> amod
+झीलों --> nmod
+के --> case
+लिए --> case
+प्रसिद्ध --> amod
+है, --> nsubj
+जो --> nsubj
+विश्वभर --> nmod
+से --> case
+पर्यटकों --> xcomp
+को --> case
+आकर्षित --> compound
+करते --> root
+हैं --> aux
+end --> eos
+
+
+<start> --> sos
+भारत --> nmod
+के --> case
+वर्तमान --> amod
+मानचित्र --> nmod
+में --> case
+एक --> amod
+प्रमुख --> amod
+पर्यटक --> nsubj
+गंतव्य, --> nsubj
+भरतपुर --> amod
+पांचवी --> compound
+सदी --> nmod
+ईसा --> amod
+पूर्व --> nmod
+से --> case
+कई --> amod
+अवस्थाओं --> nmod
+से --> case
+गुजर --> compound
+चुका --> aux
+है --> eos
+end --> 
+
+
+<start> --> sos
+विख्यात --> amod
+हिन्दुस्तानी --> nsubj
+शास्त्रीय --> amod
+संगीत --> compound
+घरानों --> nmod
+में --> case
+मध्य --> compound
+प्रदेश --> nmod
+के --> case
+मैहर --> amod
+घराने, --> amod
+ग्वालियर --> amod
+घराने --> nmod
+और --> nsubj
+सेनिया --> amod
+घराने --> nmod
+शामिल --> dobj
+हैं --> 
+end --> 
+
+
+<start> --> sos
+इसके --> nmod
+उत्तर --> nmod
+में --> case
+उत्तर --> compound
+प्रदेश, --> compound
+पूर्व --> nmod
+में --> case
+छत्तीसगढ़, --> compound
+दक्षिण --> nmod
+में --> case
+महाराष्ट्र, --> nmod
+पश्चिम --> nmod
+में --> case
+गुजरात, --> compound
+तथा --> root
+उत्तर-पश्चिम --> nmod
+में --> case
+राजस्थान --> nmod
+है --> case
+end --> compound
+
+
+<start> --> sos
+राजस्थान --> nmod
+में --> case
+काँच --> compound
+प्राप्ति --> nmod
+के --> case
+मुख्य --> amod
+स्थल --> amod
+जयपुर, --> amod
+बीकानेर, --> compound
+बूंदी --> root
+तथा --> amod
+धौलपुर --> nmod
+ज़िले --> nsubj
+है --> case
+जहां --> nmod
+उपयुक्त --> amod
+रूप --> advmod
+से --> case
+काँच --> nmod
+की --> case
+प्राप्ति --> compound
+होती --> acl
+है --> aux
+end --> eos
+
+
+<start> --> sos
+राजस्थान --> nmod
+में --> case
+सर्वप्रथम --> compound
+चित्तौड़गढ़ --> amod
+ज़िले --> nmod
+में --> case
+भोपालसागर --> amod
+नगर --> nmod
+में --> case
+चीनी --> nsubj
+मिल --> acl
+द --> compound
+मेवाड़ --> compound
+सुगर --> compound
+मिल्स --> nmod
+के --> case
+नाम --> nmod
+से --> case
+सन् --> compound
+1932 --> nmod
+में --> case
+प्रारम्भ --> compound
+की --> root
+गई --> aux
+end --> eos
+
+
+<start> --> sos
+यहा --> nmod
+पर --> case
+वस्र्त --> nmod
+की --> case
+रंगाई --> compound
+छपाई --> nmod
+का --> case
+कार्य --> nsubj
+होता --> case
+है --> aux
+और --> eos
+इसकी --> nmod
+महत्वपुर्ण --> amod
+बात --> nsubj
+यह --> dobj
+है --> 
+कि --> acl
+लुणी --> amod
+नदी --> nmod
+का --> case
+जल --> nsubj
+इस --> amod
+स्थान --> nmod
+से --> case
+पानी --> nsubj
+खारा(लवणीय)हो --> case
+जाता --> aux
+है --> eos
+end --> 
+
+
+<start> --> sos
+बडवानी --> nmod
+का --> case
+बावनगजा,दमोह --> nmod
+का --> case
+कुण्डलपुर,दतिया --> nmod
+का --> case
+सोनागिरी,अशोकनगर --> nmod
+का --> case
+निसईजी --> nsubj
+मल्हारगढ़,बैतूल --> nmod
+की --> case
+मुक्तागिरी --> amod
+जैन --> compound
+धर्मालंबियोंं --> advcl
+हेतु --> case
+प्रसिद्ध --> dobj
+है --> 
+end --> 
+
+
+<start> --> sos
+इसके --> nmod
+पश्चिम --> case
+में --> case
+पाकिस्तान, --> compound
+दक्षिण-पश्चिम --> nmod
+में --> case
+गुजरात, --> compound
+दक्षिण-पूर्व --> nmod
+में --> case
+मध्यप्रदेश, --> amod
+उत्तर --> nmod
+में --> case
+पंजाब, --> nsubj
+उत्तर-पूर्व --> nmod
+में --> case
+उत्तरप्रदेश --> compound
+और --> nmod
+हरियाणा --> case
+है --> compound
+end --> root
+
+
+<start> --> sos
+पूरे --> amod
+भारत --> amod
+वर्ष --> nmod
+में --> case
+सबसे --> advmod
+ज्यादा --> amod
+पह्माणे --> nmod
+में --> case
+विदेशी --> amod
+पर्यटन --> nsubj
+सिर्फ --> dep
+राजस्थान --> nmod
+आते --> case
+है --> aux
+जो --> nmod
+की --> case
+भारत --> amod
+देश --> nmod
+की --> case
+संस्कृति, --> compound
+कला --> nsubj
+, --> punct
+वेश --> compound
+भूषा --> nsubj
+, --> punct
+आस्था --> nmod
+का --> case
+रूप --> dobj
+है --> acl
+end --> compound
+
+
+<start> --> sos
+राजस्थान --> compound
+पर्यटन --> compound
+विभाग --> nsubj
+राजस्थान --> nmod
+के --> case
+सभी --> amod
+प्रसिद्द --> amod
+राज --> amod
+महल, --> amod
+मंदिर, --> compound
+लोक --> compound
+कला, --> compound
+टाइगर --> compound
+रिसॉर्ट्स --> nsubj
+, --> punct
+होटल्स --> nummod
+जैसी --> case
+सभी --> amod
+सेवाएं --> nsubj
+पर्यटकों --> obj
+को --> case
+उपलब्ध --> compound
+कराती --> root
+है --> aux
+end --> eos
+
+
