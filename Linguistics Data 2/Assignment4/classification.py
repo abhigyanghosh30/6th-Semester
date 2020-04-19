@@ -82,6 +82,8 @@ for epoch in range(2):
         b = [get_tag(tag) for tag in tags]
         res = torch.tensor(b)
         res.to(device)
+        loss = torch.tensor(0)
+        loss.to(device)
         loss = criterion(out,res).to(device)
 
         print(running_loss)
