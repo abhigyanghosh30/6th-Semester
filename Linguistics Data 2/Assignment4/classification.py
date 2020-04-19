@@ -62,7 +62,7 @@ net.to(device)
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(net.parameters())
 
-for epoch in range(2):
+for epoch in range(20):
     running_loss = 0.0
     for i in range(10):
 #         try:
@@ -100,8 +100,9 @@ def predict_tag(probs):
     values, indices = torch.max(probs,0)
     return tag_list[indices]
 
+f = open('out.txt','w')
 with torch.no_grad():
-    for i in range(1):
+    for i in range(len(X_test)):
         words = X_test[i].split(' ')
         words.append('<eos>')
         words.insert(0,'<sos>')
@@ -113,4 +114,22 @@ with torch.no_grad():
             x_2 = get_one_hot(words[j-1]).to(device)
             a.append(net(x,x_1,x_2))        
         for j in range(len(a)):
-            print(words[j+1],predict_tag(a[j]))
+            f.write(predict_tag(a[j])+" ")
+        f.write("\n")
+f.close()
+
+out = open('out.txt').read().split('\n')
+error = 0
+total = 0
+for i in range(len(out)):
+    print(i)
+    out_tags = out[i].split(' ')
+    target_tags = y_test[i].split(' ')
+    for j in range(len(target_tags)):
+        print(out_tags[j],target_tags[j])
+        if(out_tags[j]!=target_tags[j]):
+            error+=1
+        total+=1
+print(error)
+print(total)
+print((total-error)/total)
