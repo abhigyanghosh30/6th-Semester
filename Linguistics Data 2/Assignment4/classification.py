@@ -9,6 +9,7 @@ import torch.optim as optim
 import numpy as np
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(device)
 
 X_train = open('src-dev.txt').read().split('\n')
 X_test = open('src-test.txt').read().split('\n')
@@ -81,10 +82,11 @@ for epoch in range(2):
         out.to(device)
         b = [get_tag(tag) for tag in tags]
         res = torch.tensor(b)
-        res.to(device)
+        res = res.cuda()
         loss = torch.tensor(0)
         loss.to(device)
-        loss = criterion(out,res).to(device)
+        loss = criterion(out,res)
+        loss.to(device)
 
         print(running_loss)
         loss.backward()
@@ -106,6 +108,9 @@ with torch.no_grad():
         tags = y_test[i].split(' ')
         a = []
         for j in range(1,len(words)-1):
-            a.append(net(get_one_hot(words[j]),get_one_hot(words[j+1]),get_one_hot(words[j-1])))
+            x = get_one_hot(words[j]).to(device)
+            x_1 = get_one_hot(words[j+1]).to(device)
+            x_2 = get_one_hot(words[j-1]).to(device)
+            a.append(net(x,x_1,x_2))        
         for j in range(len(a)):
             print(words[j+1],predict_tag(a[j]))
