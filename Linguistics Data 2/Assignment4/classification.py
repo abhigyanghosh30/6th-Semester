@@ -58,8 +58,8 @@ net = Net()
 net = net.float()
 net.to(device)
 
-criterion = nn.CrossEntropyLoss()
-optimizer = optim.Adam(net.parameters())
+criterion = nn.CrossEntropyLoss().to(device)
+optimizer = optim.Adam(net.parameters()).to(device)
 
 for epoch in range(2):
     running_loss = 0.0
@@ -82,7 +82,7 @@ for epoch in range(2):
         b = [get_tag(tag) for tag in tags]
         res = torch.tensor(b)
         res.to(device)
-        loss = criterion(out,res)
+        loss = criterion(out,res).to(device)
 
         print(running_loss)
         loss.backward()
