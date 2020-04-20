@@ -11,9 +11,9 @@ import numpy as np
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(device)
 
-X_train = open('src-dev.txt').read().split('\n')
+X_train = open('src-train.txt').read().split('\n')
 X_test = open('src-test.txt').read().split('\n')
-y_train = open('tgt-dev.txt').read().split('\n')
+y_train = open('tgt-train.txt').read().split('\n')
 y_test = open('tgt-test.txt').read().split('\n')
 
 tokens = set([])
@@ -64,7 +64,7 @@ optimizer = optim.Adam(net.parameters())
 
 for epoch in range(20):
     running_loss = 0.0
-    for i in range(10):
+    for i in range(len(X_train)):
 #         try:
         print(i, end=" ")
         optimizer.zero_grad()
