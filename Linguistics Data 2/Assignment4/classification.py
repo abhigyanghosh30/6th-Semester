@@ -121,7 +121,7 @@ f.close()
 out = open('out.txt').read().split('\n')
 error = 0
 total = 0
-for i in range(len(out)):
+for i in range(len(y_test)):
     print(i)
     out_tags = out[i].split(' ')
     target_tags = y_test[i].split(' ')
