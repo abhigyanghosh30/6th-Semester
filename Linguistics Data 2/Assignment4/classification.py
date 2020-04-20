@@ -46,14 +46,28 @@ class Net(nn.Module):
     def __init__(self):
         super(Net, self).__init__()
         self.fc1 = nn.Linear(num_tokens, 1000)
+        self.fc2 = nn.Linear(3 * num_tags, num_tags)
         self.fc3 = nn.Linear(1000,num_tags)
     
-    def forward(self,x,y,z):
+    def forward(self,x,x_1,x_2):
         x = Variable(x.T)
         x = self.fc1(x)
         x = F.relu(x)
-        x = self.fc3(x)
-        return F.softmax(x)
+        x = F.relu(self.fc3(x))
+        
+        x_1 = Variable(x_1.T)
+        x_1 = self.fc1(x_1)
+        x_1 = F.relu(x_1)
+        x_1 = F.relu(self.fc3(x_1))
+        
+        x_2 = Variable(x_2.T)
+        x_2 = self.fc1(x_2)
+        x_2 = F.relu(x_2)
+        x_2 = F.relu(self.fc3(x_2))
+        
+        x_com = torch.cat((x, x_1, x_2), 0)
+        final = F.softmax(self.fc2(x_com))
+        return final
         
 net = Net()
 net = net.float()
@@ -62,7 +76,7 @@ net.to(device)
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(net.parameters())
 
-for epoch in range(20):
+for epoch in range(10):
     running_loss = 0.0
     for i in range(len(X_train)):
 #         try:
