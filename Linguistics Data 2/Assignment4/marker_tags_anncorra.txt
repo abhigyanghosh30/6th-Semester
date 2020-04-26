@@ -1,0 +1,38 @@
+r6 & kA & 2044\\
+\hline
+r6-k2 & kA & 1067\\
+\hline
+r6 & kI & 4892\\
+\hline
+r6-k2 & kI & 959\\
+\hline
+r6 & ke & 6388\\
+\hline
+k7t & ke bAxa & 585\\
+\hline
+rt & ke lie & 1598\\
+\hline
+k2 & ko & 2785\\
+\hline
+k4 & ko & 1463\\
+\hline
+k7t & ko & 1009\\
+\hline
+k1 & ne & 4944\\
+\hline
+k7 & para & 2461\\
+\hline
+k7p & para & 615\\
+\hline
+k7t & bAxa & 810\\
+\hline
+k7 & meM & 4685\\
+\hline
+k7p & meM & 2866\\
+\hline
+k7t & meM & 697\\
+\hline
+rt & lie & 1739\\
+\hline
+k5 & se & 1081\\
+\hline

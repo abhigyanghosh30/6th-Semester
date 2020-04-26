@@ -1,0 +1,160 @@
+lwg\_\_psp & 63001\\
+\hline
+nmod\_\_adj & 24405\\
+\hline
+rsym & 20442\\
+\hline
+k1 & 19332\\
+\hline
+pof\_\_cn & 19067\\
+\hline
+ccof & 19040\\
+\hline
+r6 & 16337\\
+\hline
+k2 & 14350\\
+\hline
+main & 14089\\
+\hline
+lwg\_\_vaux & 13494\\
+\hline
+pof & 11585\\
+\hline
+k7 & 8690\\
+\hline
+k7t & 6267\\
+\hline
+lwg\_\_vaux_cont & 5717\\
+\hline
+nmod & 5202\\
+\hline
+k7p & 4621\\
+\hline
+lwg\_\_rp & 4171\\
+\hline
+vmod & 3597\\
+\hline
+k1s & 2596\\
+\hline
+r6-k2 & 2396\\
+\hline
+mod & 2264\\
+\hline
+k4 & 2135\\
+\hline
+rt & 2077\\
+\hline
+adv & 1960\\
+\hline
+lwg\_\_neg & 1945\\
+\hline
+rs & 1483\\
+\hline
+rh & 1280\\
+\hline
+k5 & 1183\\
+\hline
+nmod\_\_k1inv & 1171\\
+\hline
+nmod\_\_relc & 1025\\
+\hline
+jjmod & 973\\
+\hline
+ras-k1 & 706\\
+\hline
+k7a & 703\\
+\hline
+k3 & 522\\
+\hline
+r6-k1 & 520\\
+\hline
+k2p & 450\\
+\hline
+k2s & 411\\
+\hline
+k4a & 410\\
+\hline
+sent-adv & 408\\
+\hline
+jjmod\_\_intf & 345\\
+\hline
+nmod\_\_k2inv & 343\\
+\hline
+rd & 299\\
+\hline
+fragof & 281\\
+\hline
+pof\_\_redup & 201\\
+\hline
+ras-k2 & 171\\
+\hline
+rsp & 155\\
+\hline
+k1u & 91\\
+\hline
+mod\_\_wq & 72\\
+\hline
+ras-neg & 68\\
+\hline
+nmod\_\_emph & 43\\
+\hline
+k2u & 40\\
+\hline
+k2g & 38\\
+\hline
+rbmod & 33\\
+\hline
+rbmod\_\_relc & 28\\
+\hline
+r6v & 27\\
+\hline
+nmod\_\_pofinv & 16\\
+\hline
+ras-k7 & 11\\
+\hline
+k7u & 11\\
+\hline
+jk1 & 10\\
+\hline
+psp\_\_cl & 8\\
+\hline
+pk1 & 8\\
+\hline
+ras-pof & 6\\
+\hline
+rad & 6\\
+\hline
+ras-k4 & 6\\
+\hline
+k7pu & 6\\
+\hline
+ras-k7p & 5\\
+\hline
+ras-r6 & 3\\
+\hline
+k7tu & 3\\
+\hline
+k4u & 2\\
+\hline
+ras-r6-k2 & 2\\
+\hline
+enm & 2\\
+\hline
+ras\_\_k7 & 2\\
+\hline
+jjmod\_\_relc & 1\\
+\hline
+k3u & 1\\
+\hline
+mk1 & 1\\
+\hline
+undef & 1\\
+\hline
+ras-k4a & 1\\
+\hline
+ras-rt & 1\\
+\hline
+rtu & 1\\
+\hline
+vmod\_\_adv & 1\\
+\hline

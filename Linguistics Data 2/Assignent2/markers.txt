@@ -1,0 +1,114 @@
+adv & se & 5\\
+\hline
+ccof & kA & 3\\
+\hline
+ccof & ke & 3\\
+\hline
+ccof & kI & 1\\
+\hline
+ccof & waraha & 1\\
+\hline
+ccof & sahiwa & 1\\
+\hline
+ccof & liye & 1\\
+\hline
+jjmod & se & 1\\
+\hline
+jjmod & meM & 1\\
+\hline
+jjmod & ke & 1\\
+\hline
+jjmod & bIc & 1\\
+\hline
+k1 & ne & 7\\
+\hline
+k1 & xvArA & 2\\
+\hline
+k1u & jEsI & 1\\
+\hline
+k2 & ko & 6\\
+\hline
+k3 & se & 2\\
+\hline
+k4 & ko & 2\\
+\hline
+k5 & se & 12\\
+\hline
+k5 & meM & 2\\
+\hline
+k7 & meM & 25\\
+\hline
+k7 & para & 5\\
+\hline
+k7 & ke & 2\\
+\hline
+k7 & rUp & 1\\
+\hline
+k7 & wOra & 1\\
+\hline
+k7a & ke & 3\\
+\hline
+k7a & अधीन aXIna & 1\\
+\hline
+k7a & anwargawa & 1\\
+\hline
+k7a & anusAra & 1\\
+\hline
+k7p & meM & 41\\
+\hline
+k7p & ke & 2\\
+\hline
+k7p & para & 2\\
+\hline
+k7p & meM & 1\\
+\hline
+k7p & pAs & 1\\
+\hline
+k7p & rUp & 1\\
+\hline
+k7t & meM & 10\\
+\hline
+k7t & se & 1\\
+\hline
+k7t & wak & 1\\
+\hline
+k7t & ko & 1\\
+\hline
+k7t & meM & 1\\
+\hline
+lwg__psp & meM & 1\\
+\hline
+nmod & jEsI & 2\\
+\hline
+nmod & vAle & 1\\
+\hline
+nmod & vAlI & 1\\
+\hline
+r6 & kI & 29\\
+\hline
+r6 & kA & 29\\
+\hline
+r6 & ke & 27\\
+\hline
+r6 & paScima & 1\\
+\hline
+r6-k1 & kI & 1\\
+\hline
+r6-k2 & kA & 3\\
+\hline
+ras-k1 & se & 1\\
+\hline
+ras-k1 & ke & 1\\
+\hline
+ras-k1 & sAW & 1\\
+\hline
+rh & se & 2\\
+\hline
+rt & ke & 8\\
+\hline
+rt & liye & 7\\
+\hline
+rt & liye & 1\\
+\hline
+rt & hewu & 1\\
+\hline

@@ -1,0 +1,82 @@
+lwg\_\_psp & 272 \\
+\hline
+nmod\_\_adj & 166 \\
+\hline
+k1 & 119 \\
+\hline
+pof\_\_cn & 114 \\
+\hline
+r6 & 107 \\
+\hline
+main & 100 \\
+\hline
+ccof & 64 \\
+\hline
+k7p & 58 \\
+\hline
+lwg\_\_vaux & 52 \\
+\hline
+nmod & 33 \\
+\hline
+k7 & 31 \\
+\hline
+k1s & 25 \\
+\hline
+k7t & 24 \\
+\hline
+pof & 21 \\
+\hline
+lwg\_\_rp & 17 \\
+\hline
+k2 & 17 \\
+\hline
+lwg\_\_vaux\_cont & 14 \\
+\hline
+k5 & 12 \\
+\hline
+jjmod\_\_intf & 9 \\
+\hline
+rt & 9 \\
+\hline
+mod & 7 \\
+\hline
+rsym & 7 \\
+\hline
+adv & 6 \\
+\hline
+jjmod & 6 \\
+\hline
+vmod & 6 \\
+\hline
+k4 & 4 \\
+\hline
+lwg\_\_neg & 3 \\
+\hline
+k7a & 3 \\
+\hline
+nmod\_\_k1inv & 3 \\
+\hline
+r6-k2 & 3 \\
+\hline
+nmod\_\_relc & 3 \\
+\hline
+k2s & 2 \\
+\hline
+ras-k1 & 2 \\
+\hline
+rh & 2 \\
+\hline
+k3 & 2 \\
+\hline
+nmod\_\_k2inv & 2 \\
+\hline
+rs & 2 \\
+\hline
+k2p & 2 \\
+\hline
+rd & 1 \\
+\hline
+k1u & 1 \\
+\hline
+r6-k1 & 1 \\
+\hline
