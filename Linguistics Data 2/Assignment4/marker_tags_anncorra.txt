@@ -1,38 +1,38 @@
-r6 & kA & 2044\\
+kA & r6 & 2044\\
 \hline
-r6-k2 & kA & 1067\\
+kA & r6-k2 & 1067\\
 \hline
-r6 & kI & 4892\\
+kI & r6 & 4892\\
 \hline
-r6-k2 & kI & 959\\
+kI & r6-k2 & 959\\
 \hline
-r6 & ke & 6388\\
+ke & r6 & 6388\\
 \hline
-k7t & ke bAxa & 585\\
+ke bAxa & k7t & 585\\
 \hline
-rt & ke lie & 1598\\
+ke lie & rt & 1598\\
 \hline
-k2 & ko & 2785\\
+ko & k2 & 2785\\
 \hline
-k4 & ko & 1463\\
+ko & k4 & 1463\\
 \hline
-k7t & ko & 1009\\
+ko & k7t & 1009\\
 \hline
-k1 & ne & 4944\\
+ne & k1 & 4944\\
 \hline
-k7 & para & 2461\\
+para & k7 & 2461\\
 \hline
-k7p & para & 615\\
+para & k7p & 615\\
 \hline
-k7t & bAxa & 810\\
+bAxa & k7t & 810\\
 \hline
-k7 & meM & 4685\\
+meM & k7 & 4685\\
 \hline
-k7p & meM & 2866\\
+meM & k7p & 2866\\
 \hline
-k7t & meM & 697\\
+meM & k7t & 697\\
 \hline
-rt & lie & 1739\\
+lie & rt & 1739\\
 \hline
-k5 & se & 1081\\
+se & k5 & 1081\\
 \hline

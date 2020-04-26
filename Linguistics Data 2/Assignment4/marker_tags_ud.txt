@@ -1,0 +1,36 @@
+kA & nmod & 3119\\
+\hline
+kI & nmod & 5935\\
+\hline
+ke & nmod & 6583\\
+\hline
+ke & obl & 1989\\
+\hline
+ke lie & obl & 806\\
+\hline
+ke lie & advcl & 668\\
+\hline
+ko & obj & 2713\\
+\hline
+ko & iobj & 1407\\
+\hline
+ko & obl & 1021\\
+\hline
+ko & nsubj & 567\\
+\hline
+waka & obl & 549\\
+\hline
+ne & nsubj & 4812\\
+\hline
+para & obl & 2899\\
+\hline
+meM & obl & 7339\\
+\hline
+meM & nmod & 754\\
+\hline
+lie & obl & 925\\
+\hline
+lie & advcl & 668\\
+\hline
+se & obl & 3049\\
+\hline
