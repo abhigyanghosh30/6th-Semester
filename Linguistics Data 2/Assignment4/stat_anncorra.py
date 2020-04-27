@@ -4,8 +4,8 @@ import sqlite3
 conn = sqlite3.connect('AnnCorra.db')
 c = conn.cursor()
 
-tags = defaultdict(int)
-markers = defaultdict(int)
+# tags = defaultdict(int)
+# markers = defaultdict(int)
 
 # sentences = open('train.txt').read().split('\n\n')
 # for sentence in sentences:
@@ -29,18 +29,62 @@ markers = defaultdict(int)
 # for marker in markers:
 #     c.execute("INSERT INTO markers VALUES ('{tag}','{marker}',{count})".format(tag=marker[0],marker=marker[1],count=markers[marker]))
 
-f = open('marker_tags_anncorra.txt','w+')
+# f = open('marker_tags_anncorra.txt','w+')
 
-for row in c.execute("select * from markers where count > 500 order by marker, count desc;"):
-    dtw(row[0])
-    f.write(dtw(row[0])+' & '+row[1]+' & '+str(row[2])+"\\\\\n\\hline\n")
-f.close()
+# for row in c.execute("select * from markers where count > 500 order by marker, count desc;"):
+#     dtw(row[0])
+#     f.write(dtw(row[0])+' & '+row[1]+' & '+str(row[2])+"\\\\\n\\hline\n")
+# f.close()
 
 # f = open('tags_anncorra.txt','w+')
 
 # for row in c.execute("select * from tags order by count desc;"):
 #     f.write(row[0]+' & '+str(row[1])+"\\\\\n\\hline\n")
 # f.close()
+
+# def n_grams(k):
+#     ngrams = defaultdict(int)
+#     sentences = open('hi_hdtb-ud-train.conllu.txt').read().split('\n\n')
+#     for sentence in sentences:
+#         words = sentence.split('\n')[2:]
+#         for i in range(len(words)-k):
+#             key=[]
+#             for j in range(k):
+#                 attrs = words[i+j].split('\t')
+#                 key.append(attrs[7])
+#             ngrams[tuple(key)] += 1
+#     return ngrams
+
+# c.execute('CREATE TABLE bigrams (tag1 TEXT,tag2 TEXT,count INTEGER)')
+# bigrams = n_grams(2)
+# for k in bigrams:
+#     c.execute('INSERT INTO bigrams VALUES ("{tag1}","{tag2}",{count})'.format(tag1=k[0],tag2=k[1],count=bigrams[k]))
+
+# c.execute('CREATE TABLE trigrams (tag1 TEXT,tag2 TEXT,tag3 TEXT,count INTEGER)')
+# trigrams = n_grams(3)
+# for k in trigrams:
+#     c.execute('INSERT INTO trigrams VALUES ("{tag1}","{tag2}","{tag3}",{count})'.format(tag1=k[0],tag2=k[1],tag3=k[2],count=trigrams[k]))
+
+# c.execute('CREATE TABLE tetragrams (tag1 TEXT,tag2 TEXT,tag3 TEXT,tag4 TEXT,count INTEGER)')
+# tetragrams = n_grams(4)
+# for k in tetragrams:
+#     c.execute('INSERT INTO tetragrams VALUES ("{tag1}","{tag2}","{tag3}","{tag4}",{count})'.format(tag1=k[0],tag2=k[1],tag3=k[2],tag4=k[3],count=tetragrams[k]))
+
+f = open('bigrams_anncorra.txt','w+')
+for row in c.execute('select * from bigrams order by count desc LIMIT 15;'):
+    f.write(row[0]+' & '+row[1]+' & '+str(row[2])+"\\\\\n\\hline\n")
+f.close()
+
+f = open('trigrams_anncorra.txt','w+')
+for row in c.execute('select * from trigrams order by count desc LIMIT 15;'):
+    f.write(row[0]+' & '+row[1]+' & '+row[2]+' & '+str(row[3])+"\\\\\n\\hline\n")
+f.close()
+
+f = open('tetragrams_anncorra.txt','w+')
+for row in c.execute('select * from tetragrams order by count desc LIMIT 15;'):
+    f.write(row[0]+' & '+row[1]+' & '+row[2]+' & '+row[3]+' & '+str(row[4])+"\\\\\n\\hline\n")
+f.close()
+
 
 conn.commit()
 conn.close()

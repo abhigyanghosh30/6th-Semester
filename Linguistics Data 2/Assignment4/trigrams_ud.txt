@@ -1,0 +1,30 @@
+case & obl & case & 4877\\
+\hline
+obl & case & case & 4600\\
+\hline
+case & nmod & case & 3633\\
+\hline
+obl & case & compound & 2825\\
+\hline
+compound & nmod & case & 2761\\
+\hline
+nmod & case & compound & 2625\\
+\hline
+nmod & case & obl & 2574\\
+\hline
+compound & obl & case & 2556\\
+\hline
+nmod & case & nmod & 2436\\
+\hline
+amod & obl & case & 2259\\
+\hline
+compound & root & aux & 2148\\
+\hline
+obl & case & nmod & 1924\\
+\hline
+case & compound & root & 1782\\
+\hline
+compound & nsubj & case & 1751\\
+\hline
+root & aux & aux:pass & 1601\\
+\hline
