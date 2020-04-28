@@ -78,3 +78,11 @@ def dtw(word):
             wx = wx+vowels[word[i]]
     print(word,wx)
     return wx
+
+def sent2wx(sentence):
+    converted_sentence=""
+    for word in sentence.split(' '):
+        converted_sentence+=dtw(word)
+        converted_sentence+=' '
+    return converted_sentence
+    
