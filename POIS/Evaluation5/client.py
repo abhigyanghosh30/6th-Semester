@@ -2,20 +2,21 @@ import socket
 from sss import SSS
 from config import params
 from sign import sign
+from verify import verify
 
 s = socket.socket()
 port = params['port']
 s.connect(('localhost',port))
 
 x = int(open('client_privkey','r').read())
-y = int(open('client_pubkey','r').read())
+y = int(open('server_pubkey','r').read())
 
 sss = SSS()
 
 print("Enter index of element to fetch")
 i = int(input())
 shares = sss.construct_shares(i)
-print(shares)
+print("Shares of index i",shares)
 # try:
 for share in shares:
     sig = sign(x, share[1])
@@ -25,11 +26,12 @@ for share in shares:
 
 shares = []
 for j in range(params['n']):
-    r = s.recv(1024)
-    shares.append(tuple(str(r,encoding='ascii').split(',')))
+    share = tuple(str(s.recv(1024),encoding='ascii').split(','))
+    if verify(*share[1:],y):
+        shares.append(share)
     # try: 
-print(shares)
-print(sss.reconstruct_secret(shares))
+print("Shares of data[i] from server",shares)
+print("Reconstructed data=",sss.reconstruct_secret(shares))
     # except:
     #     continue
 

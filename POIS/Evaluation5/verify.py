@@ -6,7 +6,12 @@ def verify(M,z,c,t,y):
     p = params['p']
     n = params['b']
     m_binary = bin(int(M))[2:]
-    if c == hash(int(bin(t)+m_binary,2),n):
+    z = int(z)
+    c = int(c)
+    t = int(t)
+    y = int(y)
+
+    if c == hash(int(bin(t)+m_binary,2)):
         if (pow(y,c,p)*t)%p == pow(g,z,p):
             return True
         else:
