@@ -1,18 +1,21 @@
 from numpy.polynomial.polynomial import Polynomial as Poly
 import numpy.polynomial.polynomial as polynomial
+import random
+from config import params
 class SSS:
     
-    def __init__(self, production_coefs, n, p):
-        self.n = n
-        self.k = len(production_coefs)
-        self.p = p
+    def __init__(self):
+        self.n = params['n']
+        self.k = params['k']
 
-        self.production_coefs = production_coefs
-        self.production_poly = Poly(production_coefs)
 
-    def construct_shares(self):
+    def construct_shares(self, production_coef_0):
 
-        return [(x, polynomial.polyval(x, self.production_poly.coef)) for x in range(1, self.n + 1)]
+        production_coefs = [production_coef_0]
+        for i in range(self.k-1): 
+            production_coefs.append(random.randint(0,self.n))
+        production_poly = Poly(production_coefs)
+        return [(x, polynomial.polyval(x, production_poly.coef)) for x in range(1, self.n + 1)]
     
     def reconstruct_secret(self, shares):
 
@@ -20,8 +23,7 @@ class SSS:
 
             raise Exception("Not enough ks")
 
-        x = [a for a, b in shares]
-        y = [b for a, b in shares]
-
-        return polynomial.polyfit(x,y, self.k-1)
+        x = [int(share[0]) for share in shares]
+        y = [int(share[1]) for share in shares]
+        return  round(polynomial.polyval(0, polynomial.polyfit(x,y, self.k-1)))
         # return SSS.L(x, y, self.k).coef[:self.k] % self.p

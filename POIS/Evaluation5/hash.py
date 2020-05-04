@@ -1,9 +1,13 @@
 import random
 import textwrap
 from generate import generate
+from config import params
 
-def hash(M,g,p,n):
+def hash(M):
     # padding
+    g = params['g']
+    p = params['p']
+    n = params['b']
     M = bin(M)[2:]
     rem = n - len(M)%n
     # M = int(M,2)

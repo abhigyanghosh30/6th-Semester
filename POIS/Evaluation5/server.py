@@ -8,33 +8,38 @@ from generate import generate
 from sign import sign
 from verify import verify
 import math
+from config import params
 
-private_key_file = open('server_privkey','w+')
-public_key_file = open('server_pubkey','w+')
+n = params['n']
+g = params['g']
+p = params['p']
+k = params['k']
+n = params['n']
+
+x = int(open('server_privkey','r').read())
+y = int(open('server_pubkey','r').read())
 data = np.random.randint(100,size=k)
 print(data)
-print("Enter n")
-n = int(input())
-
 
 s = socket.socket()
-port = 12345
+port = params['port']
 s.bind(('', port))
 s.listen(5)
 while True:
     c, addr = s.accept()
-    x = random.randint(1,p-1) #private key
-    print("Private Key =",x)
-    y = pow(g,x,p) #public key
-    print("Public Key =",y)
-    sss = SSS(data, n, p)
-    print(sss.production_poly.coef)
-    shares = sss.construct_shares()
+    shares = []
+    for j in range(n):
+        shares.append(tuple(str(c.recv(1024),encoding='ascii').split(',')))
+    print(shares)
+    sss = SSS()
+    i = sss.reconstruct_secret(shares)
+    i = int(i)
+    shares = sss.construct_shares(data[i])
+    print("shares=",shares)
     try:
         for share in shares:
-            sig = sign(x,share[1],b,g,p)
-            print(sig)
-            c.send(bytes(",".join(sig),encoding='ascii'))
+            sig = sign(x,share[1])
+            c.send(bytes(str(share[0])+","+",".join(sig),encoding='ascii'))
     except:
         c.close()
     finally:
