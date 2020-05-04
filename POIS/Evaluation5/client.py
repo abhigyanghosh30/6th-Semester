@@ -1,38 +1,32 @@
 import socket
-from sss import SSS
 from config import params
-from sign import sign
+from encrypt import encrypt
 from verify import verify
+import random
 
 s = socket.socket()
 port = params['port']
+k = params['k']
+n = params['n']
 s.connect(('localhost',port))
 
-x = int(open('client_privkey','r').read())
 y = int(open('server_pubkey','r').read())
-
-sss = SSS()
 
 print("Enter index of element to fetch")
 i = int(input())
-shares = sss.construct_shares(i)
-print("Shares of index i",shares)
-# try:
-for share in shares:
-    sig = sign(x, share[1])
-    s.send(bytes(str(share[0])+","+",".join(sig),encoding='ascii'))
-# except:
-#     s.close()
 
-shares = []
-for j in range(params['n']):
-    share = tuple(str(s.recv(1024),encoding='ascii').split(','))
-    if verify(*share[1:],y):
-        shares.append(share)
-    # try: 
-print("Shares of data[i] from server",shares)
-print("Reconstructed data=",sss.reconstruct_secret(shares))
-    # except:
-    #     continue
+R = []
+E = []
+for j in range(k):
+    r = random.randint(0,n)
+    R.append(r)
+    c_1,c_2 = encrypt(r,y)
+    E.append(str(c_1)+","+str(c_2))
+print(R)
+print(E)
+s.send(bytes(";".join(E),encoding='ascii'))
+DB = str(s.recv(1024),encoding='ascii').split(',')
+print(DB)
+print(R[i]^int(DB[i]))
 
 s.close()

@@ -9,11 +9,7 @@ class SSS:
         self.k = params['k']
 
 
-    def construct_shares(self, production_coef_0):
-
-        production_coefs = [production_coef_0]
-        for i in range(self.k-1): 
-            production_coefs.append(random.randint(0,self.n))
+    def construct_shares(self, production_coefs):
         production_poly = Poly(production_coefs)
         return [(x, polynomial.polyval(x, production_poly.coef)) for x in range(1, self.n + 1)]
     
@@ -25,5 +21,5 @@ class SSS:
 
         x = [int(share[0]) for share in shares]
         y = [int(share[1]) for share in shares]
-        return  round(polynomial.polyval(0, polynomial.polyfit(x,y, self.k-1)))
+        return  polynomial.polyfit(x,y, self.k-1)
         # return SSS.L(x, y, self.k).coef[:self.k] % self.p
